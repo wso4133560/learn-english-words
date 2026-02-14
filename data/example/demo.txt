@@ -1,0 +1,10 @@
+apple|苹果
+banana|香蕉
+computer|计算机
+book|书
+water|水
+hello|你好
+world|世界
+study|学习
+happy|快乐
+friend|朋友
