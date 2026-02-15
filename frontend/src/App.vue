@@ -79,6 +79,7 @@ const {
   progress,
   isComplete,
   startLearning,
+  restartLearning,
   markAsKnown,
   nextWord,
   flipCard,
@@ -108,13 +109,16 @@ const handleFolderChange = async (folder: string) => {
 }
 
 const handleStart = async (folder: string, file: string) => {
+  error.value = null
   isLoading.value = true
-  const success = await startLearning(folder, file)
+  const result = await startLearning(folder, file)
 
-  if (success && currentWord.value) {
+  if (result.success && result.state === 'learning' && currentWord.value) {
     currentView.value = 'learning'
+  } else if (result.success && result.state === 'completion') {
+    currentView.value = 'completion'
   } else {
-    error.value = '开始学习失败'
+    error.value = result.message || gradioError.value || '开始学习失败'
   }
 
   isLoading.value = false
@@ -145,9 +149,20 @@ const handleNext = async () => {
   }
 }
 
-const handleRestart = () => {
-  resetLearning()
-  currentView.value = 'selection'
+const handleRestart = async () => {
+  isLoading.value = true
+  error.value = null
+
+  const restarted = await restartLearning()
+  if (restarted && currentWord.value) {
+    currentView.value = 'learning'
+  } else {
+    resetLearning()
+    currentView.value = 'selection'
+    error.value = '开始新一轮失败，请重新选择文件'
+  }
+
+  isLoading.value = false
 }
 
 const handleSwitch = () => {
