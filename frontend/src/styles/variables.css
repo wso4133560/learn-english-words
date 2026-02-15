@@ -1,0 +1,113 @@
+:root {
+  /* 主色调 */
+  --primary: #007AFF;
+  --primary-hover: #0051D5;
+  --primary-active: #004FC4;
+
+  /* 渐变背景 */
+  --gradient-bg: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
+
+  /* 卡片渐变 */
+  --card-gradient: linear-gradient(135deg, rgba(255, 255, 255, 0.95) 0%, rgba(255, 255, 255, 0.85) 100%);
+
+  /* 文字颜色 */
+  --text-primary: #1d1d1f;
+  --text-secondary: #6e6e73;
+  --text-tertiary: #86868b;
+
+  /* 背景色 */
+  --bg-primary: #ffffff;
+  --bg-secondary: #f5f5f7;
+  --bg-tertiary: #e8e8ed;
+
+  /* 分割线 */
+  --divider: rgba(0, 0, 0, 0.1);
+
+  /* 语义色 */
+  --success: #34C759;
+  --success-bg: rgba(52, 199, 89, 0.1);
+  --warning: #FF9500;
+  --warning-bg: rgba(255, 149, 0, 0.1);
+  --error: #FF3B30;
+  --error-bg: rgba(255, 59, 48, 0.1);
+
+  /* 字体系统 */
+  --font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  --font-mono: "SF Mono", "Monaco", "Consolas", "Courier New", monospace;
+
+  /* 字体大小 */
+  --text-hero: 56px;
+  --text-h1: 40px;
+  --text-h2: 32px;
+  --text-h3: 24px;
+  --text-large: 20px;
+  --text-body: 17px;
+  --text-small: 15px;
+  --text-caption: 13px;
+
+  /* 字重 */
+  --font-light: 300;
+  --font-regular: 400;
+  --font-medium: 500;
+  --font-semibold: 600;
+  --font-bold: 700;
+
+  /* 间距系统 */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+  --space-8: 64px;
+  --space-9: 96px;
+
+  /* 圆角 */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 24px;
+  --radius-full: 9999px;
+
+  /* 阴影 */
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.04), 0 1px 4px rgba(0, 0, 0, 0.04);
+  --shadow-md: 0 2px 4px rgba(0, 0, 0, 0.06), 0 4px 8px rgba(0, 0, 0, 0.06);
+  --shadow-lg: 0 4px 8px rgba(0, 0, 0, 0.08), 0 8px 16px rgba(0, 0, 0, 0.08);
+  --shadow-xl: 0 8px 16px rgba(0, 0, 0, 0.1), 0 16px 32px rgba(0, 0, 0, 0.1);
+  --shadow-card: 0 10px 40px rgba(102, 126, 234, 0.15), 0 4px 12px rgba(102, 126, 234, 0.1);
+
+  /* 毛玻璃效果 */
+  --glass-bg: rgba(255, 255, 255, 0.7);
+  --glass-border: rgba(255, 255, 255, 0.3);
+  --glass-blur: blur(20px);
+  --glass-saturate: saturate(180%);
+}
+
+/* 响应式断点 */
+@media (max-width: 767px) {
+  :root {
+    --text-hero: 36px;
+    --text-h1: 28px;
+    --text-h2: 24px;
+    --space-container: 16px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  :root {
+    --text-hero: 48px;
+    --text-h1: 36px;
+    --text-h2: 28px;
+    --space-container: 24px;
+  }
+}
+
+@media (min-width: 1024px) {
+  :root {
+    --text-hero: 56px;
+    --text-h1: 40px;
+    --text-h2: 32px;
+    --space-container: 32px;
+  }
+}

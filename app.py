@@ -1,4 +1,7 @@
+import inspect
+import os
 import gradio as gr
+import sys
 from word_manager import WordManager
 from tts_client import TTSClient
 
@@ -97,8 +100,15 @@ def play_pronunciation():
     """播放发音"""
     global current_word, tts_client
 
-    if current_word is None or tts_client is None:
+    if current_word is None:
         return None
+
+    # API-only usage may not trigger app.load(), so initialize lazily.
+    if tts_client is None:
+        init_msg = init_tts()
+        if tts_client is None:
+            print(f"TTS 初始化失败: {init_msg}")
+            return None
 
     audio_path = tts_client.speak(current_word["word"])
     if audio_path:
@@ -305,4 +315,21 @@ with gr.Blocks(title="背单词应用") as app:
 
 
 if __name__ == "__main__":
-    app.launch(server_name="0.0.0.0", server_port=7860)
+    server_port = 7860
+    port_from_env = os.getenv("GRADIO_SERVER_PORT")
+    if port_from_env:
+        try:
+            server_port = int(port_from_env)
+        except ValueError:
+            print(f"Invalid GRADIO_SERVER_PORT={port_from_env}, fallback to 7860")
+
+    launch_kwargs = {
+        "server_name": "0.0.0.0",
+        "server_port": server_port,
+    }
+
+    # Gradio versions differ in whether `show_api` is a supported launch arg.
+    if "--api" in sys.argv and "show_api" in inspect.signature(app.launch).parameters:
+        launch_kwargs["show_api"] = True
+
+    app.launch(**launch_kwargs)

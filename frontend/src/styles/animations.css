@@ -1,0 +1,133 @@
+/* 页面过渡 - 淡入淡出 */
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 400ms ease;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}
+
+/* 页面过渡 - 滑动 */
+.slide-enter-active,
+.slide-leave-active {
+  transition: all 400ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.slide-enter-from {
+  transform: translateX(100%);
+  opacity: 0;
+}
+
+.slide-leave-to {
+  transform: translateX(-100%);
+  opacity: 0;
+}
+
+/* 卡片翻转 */
+.card-flip {
+  transition: transform 600ms cubic-bezier(0.4, 0, 0.2, 1);
+  transform-style: preserve-3d;
+}
+
+.card-flip.flipped {
+  transform: rotateY(180deg);
+}
+
+.card-front,
+.card-back {
+  backface-visibility: hidden;
+}
+
+.card-back {
+  transform: rotateY(180deg);
+}
+
+/* 按钮动画 */
+.button-hover {
+  transition: all 200ms ease;
+}
+
+.button-hover:hover {
+  transform: translateY(-2px);
+}
+
+.button-hover:active {
+  transform: scale(0.96);
+}
+
+/* 进度环动画 */
+.progress-ring-circle {
+  transition: stroke-dashoffset 800ms ease-out;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+}
+
+.progress-complete {
+  animation: pulse 600ms ease-in-out;
+}
+
+/* 弹跳动画 */
+@keyframes bounce {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+}
+
+.bounce {
+  animation: bounce 600ms ease-in-out;
+}
+
+/* 淡入动画 */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in {
+  animation: fadeIn 400ms ease-out;
+}
+
+/* 旋转加载动画 */
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.spin {
+  animation: spin 1s linear infinite;
+}
+
+/* 毛玻璃效果 */
+.glass {
+  background: var(--glass-bg);
+  backdrop-filter: var(--glass-blur) var(--glass-saturate);
+  border: 1px solid var(--glass-border);
+}
+
+@supports not (backdrop-filter: blur(20px)) {
+  .glass {
+    background: rgba(255, 255, 255, 0.9);
+  }
+}
