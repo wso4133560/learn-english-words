@@ -7,6 +7,7 @@
       :error="error"
       @folder-change="handleFolderChange"
       @start="handleStart"
+      @start-autoplay="handleStartAutoplay"
     />
   </div>
 </template>
@@ -26,6 +27,7 @@ defineProps<Props>()
 const emit = defineEmits<{
   folderChange: [folder: string]
   start: [folder: string, file: string]
+  startAutoplay: [folder: string, file: string]
 }>()
 
 const handleFolderChange = (folder: string) => {
@@ -34,6 +36,10 @@ const handleFolderChange = (folder: string) => {
 
 const handleStart = (folder: string, file: string) => {
   emit('start', folder, file)
+}
+
+const handleStartAutoplay = (folder: string, file: string) => {
+  emit('startAutoplay', folder, file)
 }
 </script>
 

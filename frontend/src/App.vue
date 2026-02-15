@@ -11,6 +11,7 @@
         :error="error"
         @folder-change="handleFolderChange"
         @start="handleStart"
+        @start-autoplay="handleStartAutoplay"
       />
 
       <LearningView
@@ -23,6 +24,14 @@
         @play-audio="handlePlayAudio"
         @known="handleKnown"
         @unknown="handleUnknown"
+      />
+
+      <AutoPlayView
+        v-else-if="currentView === 'autoplay'"
+        :folder="selectedFolder"
+        :file="selectedFile"
+        @complete="handleAutoplayComplete"
+        @back="handleAutoplayBack"
       />
 
       <CompletionView
@@ -41,17 +50,20 @@ import { ref, onMounted } from 'vue'
 import SelectionView from '@/views/SelectionView.vue'
 import LearningView from '@/views/LearningView.vue'
 import CompletionView from '@/components/CompletionView.vue'
+import AutoPlayView from '@/views/AutoPlayView.vue'
 import { useGradioClient } from '@/composables/useGradioClient'
 import { useFileSelection } from '@/composables/useFileSelection'
 import { useWordLearning } from '@/composables/useWordLearning'
 import { useAudio } from '@/composables/useAudio'
 import { useKeyboard } from '@/composables/useKeyboard'
 
-type View = 'selection' | 'learning' | 'completion'
+type View = 'selection' | 'learning' | 'completion' | 'autoplay'
 
 const currentView = ref<View>('selection')
 const isLoading = ref(false)
 const error = ref<string | null>(null)
+const selectedFolder = ref<string>('')
+const selectedFile = ref<string>('')
 
 const { connect, error: gradioError } = useGradioClient()
 const {
@@ -140,6 +152,20 @@ const handleRestart = () => {
 
 const handleSwitch = () => {
   resetLearning()
+  currentView.value = 'selection'
+}
+
+const handleStartAutoplay = async (folder: string, file: string) => {
+  selectedFolder.value = folder
+  selectedFile.value = file
+  currentView.value = 'autoplay'
+}
+
+const handleAutoplayComplete = () => {
+  currentView.value = 'completion'
+}
+
+const handleAutoplayBack = () => {
   currentView.value = 'selection'
 }
 

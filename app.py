@@ -116,6 +116,37 @@ def play_pronunciation():
     return None
 
 
+def load_word_list(folder, file):
+    """加载完整单词列表（自动播放专用，不依赖学习进度）"""
+    if not folder or not file:
+        return []
+
+    words = word_manager.load_words(folder, file)
+    if not words:
+        return []
+
+    return words
+
+
+def play_word_pronunciation(word):
+    """按指定单词生成发音（自动播放专用）"""
+    global tts_client
+
+    if not word:
+        return None
+
+    if tts_client is None:
+        init_msg = init_tts()
+        if tts_client is None:
+            print(f"TTS 初始化失败: {init_msg}")
+            return None
+
+    audio_path = tts_client.speak(word)
+    if audio_path:
+        return audio_path
+    return None
+
+
 def mark_as_known():
     """标记为认识"""
     global current_word, show_marked
@@ -242,6 +273,15 @@ with gr.Blocks(title="背单词应用") as app:
             restart_btn = gr.Button("开始新一轮", variant="primary")
             switch_btn = gr.Button("切换文件")
 
+    # 自动播放专用 API 组件（隐藏）
+    autoplay_folder_input = gr.Textbox(visible=False)
+    autoplay_file_input = gr.Textbox(visible=False)
+    autoplay_word_input = gr.Textbox(visible=False)
+    autoplay_words_output = gr.JSON(visible=False)
+    autoplay_audio_output = gr.Audio(visible=False)
+    autoplay_load_btn = gr.Button(visible=False)
+    autoplay_pronounce_btn = gr.Button(visible=False)
+
     # 事件绑定
     app.load(init_tts, outputs=[status_msg])
     app.load(get_folders, outputs=[folder_dropdown])
@@ -250,6 +290,20 @@ with gr.Blocks(title="背单词应用") as app:
         on_folder_change,
         inputs=[folder_dropdown],
         outputs=[file_dropdown]
+    )
+
+    autoplay_load_btn.click(
+        load_word_list,
+        inputs=[autoplay_folder_input, autoplay_file_input],
+        outputs=[autoplay_words_output],
+        api_name="load_word_list"
+    )
+
+    autoplay_pronounce_btn.click(
+        play_word_pronunciation,
+        inputs=[autoplay_word_input],
+        outputs=[autoplay_audio_output],
+        api_name="play_word_pronunciation"
     )
 
     start_btn.click(

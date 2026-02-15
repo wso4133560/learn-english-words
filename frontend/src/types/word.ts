@@ -21,3 +21,8 @@ export interface FileInfo {
   folder: string
   file: string
 }
+
+export interface WordWithAudio extends Word {
+  audioUrl: string | null
+  status?: 'pending' | 'completed' | 'failed'
+}

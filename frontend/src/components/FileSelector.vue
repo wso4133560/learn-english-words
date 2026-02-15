@@ -33,14 +33,23 @@
 
     <div v-if="error" class="error">{{ error }}</div>
 
-    <ActionButton
-      variant="primary"
-      :disabled="!selectedFolder || !selectedFile || isLoading"
-      :loading="isLoading"
-      @click="handleStart"
-    >
-      开始学习
-    </ActionButton>
+    <div class="button-group">
+      <ActionButton
+        variant="primary"
+        :disabled="!selectedFolder || !selectedFile || isLoading"
+        :loading="isLoading"
+        @click="handleStart"
+      >
+        开始学习
+      </ActionButton>
+      <ActionButton
+        variant="secondary"
+        :disabled="!selectedFolder || !selectedFile || isLoading"
+        @click="handleStartAutoPlay"
+      >
+        自动播放
+      </ActionButton>
+    </div>
   </div>
 </template>
 
@@ -63,6 +72,7 @@ const props = withDefaults(defineProps<Props>(), {
 const emit = defineEmits<{
   folderChange: [folder: string]
   start: [folder: string, file: string]
+  startAutoplay: [folder: string, file: string]
 }>()
 
 const selectedFolder = ref('')
@@ -88,6 +98,12 @@ const handleFolderChange = () => {
 const handleStart = () => {
   if (selectedFolder.value && selectedFile.value) {
     emit('start', selectedFolder.value, selectedFile.value)
+  }
+}
+
+const handleStartAutoPlay = () => {
+  if (selectedFolder.value && selectedFile.value) {
+    emit('startAutoplay', selectedFolder.value, selectedFile.value)
   }
 }
 </script>
