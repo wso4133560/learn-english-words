@@ -1,0 +1,69 @@
+across|adv. across from 可表示在对面；在对过
+across|adv. 从一边到另一边
+across|adv. 朝某人或某事物的方向
+across|prep. 在身体的某个部位上
+along|adv. 朝向一个更好的状态或位置
+along|prep. 1 从一段到（或向）另一端，即顺着，沿着
+at|prep. 在（或朝向）某个方向，或对着某人或某物
+beat|vt. beat sth (through, across, along, etc. sth) 通过踩踏而踏出一条道路等
+blast|vt. 通过枪击而冲出一条路，炸开一条道路、隧道等
+bulldoze|vt.&vi.（使）强行通过（而达到某个目标）
+by|prep. 经过某人或某个事物
+bypass|vt. 绕开（或避开）一个地方
+cast|vt. 朝某个方向看、笑等，即投以（目光、笑容等）
+circumvent|vt. [正式]（因道路阻塞而）绕行
+clear|vt. 无接触地跳过或通过…
+cleave|vt.&vi. ~ (through) sth [旧时或文学用法] 迅速穿过某事物
+cross|vi. 彼此相互交叉
+cross|vt.（某种表情）掠过某人的脸庞
+crossing|n. 1 [C] 穿过一片海或一条宽阔河流的一段旅程，即横渡
+detour|vt.&vi. [美] ~ (to…)（使）绕道、绕行
+diversion|n. [C, U] 绕路
+down|prep. 1 从某事物的一个高（或更高）的点到其较低的一点上，即向下、往下
+due|adv. due north/south/east/west指正向着，正对着某个方向
+face|vt.＆vi. 在方向上面向、面对或朝向…
+flash|vt. 突然向某人投去（一瞥或一笑）
+for|prep. 表示去向，即向，往
+front|vt.＆vi. front (onto sth) 面向；在…前面；朝向
+go|vi. go (from ...) to ...（从一地）通向或延伸（至另一地）
+hack|vt.&vi.（在丛林等中）开辟道路
+intersect|vt. [常用被动式] ~ sth (with sth) 通过穿越一个区域而将该区域分为两半，即横穿
+into|prep. 在某个方向上，即朝向，对着
+jump|vi. 通过跳跃来跨过或越过某事物
+lace|vt. 使编织（或交织、缠绕）在一起，尤指交叉（手指）
+lead|vt.＆vi.（道路、小路或门）通向或通往（某个方向或地方）
+look|vi. 面向某一方向，即朝向，正对
+navigate|vt. 小心翼翼地绕过障碍
+negotiate|vt. 成功通过或越过一个艰难路段
+onto|prep. 用于表示某事物面对、面向或朝向某个方向
+open|vi. open into 可表示通向另一个地方（常指通向更大的一个地方）
+opposite|adj. 1 只用于名词前，处于某个区域的另一侧且常与…相面对的
+over|adv. 穿过一条街道、一个开阔的空间等
+over|prep. 在某事物的远端或对面
+over|prep. 翻越某事物到其另一边
+pass|vt.＆vi. 移动通过…，或移动到…的另一侧
+passage|n. 1 [U] [正式] 穿过；越过或经过某事物（可在表面或内部穿过，或在外部经过）从而从一地到达另一地
+passing|adj. [只用于名词前] 经过的
+past|prep. 在…的另一边；到…的另一边
+pierce|vt.&vi. ~ (through) sth [文学]（光、声等）刺破、穿过、穿透
+point|vt.＆vi. point (at/to/towards sb/sth)（用手指或手中的物体）指向…
+round|adv. [尤英；美常用around] 到…的另一边，即绕弯；迂回；向另一侧
+run|vi. 从一地导向（或伸展，延伸向）另一地
+shoot|vt. shoot sth at sb / shoot sb sth 突然快速地将…朝向某人，常指目光或问题等，不用被动式
+skim|vt.&vi. ~ (along/over, etc.) sth（使）轻快地掠过一个表面（而不接触或偶尔接触）
+slash|vt. 开辟出一条路
+span|vt.（桥等建筑物）横跨、跨越
+square|adv. 仅用于动词后，指正对着，没有角度地（没有锐角或钝角）
+stalk|vt.&vi. 以一种令人不悦的方式（或带有威胁性的方式）穿过一个地方
+take|vt. 越过，跨过，绕过，跳过
+through|prep. 1 从某事物（或某人）的一端（或一侧）到另一端（或另一侧）
+throw|vt. 把…指向某人或某事物
+to|prep. 在某事物的方向上；朝着某事物
+transit|n. [U, C, usually sing.] 通过、经过（某地）
+turn|vt.＆vi. 1（注意力）转向
+up|adv. 1 朝某人或某事物所在的地方
+up|prep. 沿着或顺着（某条道路或街道）
+vault|vt.&vi. ~ (over) sth（用手支撑或撑杆）跳过一个物体
+via|prep. 经过一个地方
+weave|vt.&vi. 迂回地跑着穿行（以避开路上的障碍）
+with|prep. 与…方向一致，即顺着

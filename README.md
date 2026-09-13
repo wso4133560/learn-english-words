@@ -1,103 +1,45 @@
-# 背单词应用
+# Word+ 背单词客户端
 
-一个简单高效的背单词工具，支持按文件夹分类管理单词库，提供随机学习模式和真人语音发音功能。
+Word+ 使用 Vue 3 与 Tauri 2，同一套前端支持 Windows 和 Android。词库内置、进度本地保存、Kokoro 在设备上推理，无后端服务和兼容层。
 
-## 功能特点
+## 直接运行客户端
 
-- 📁 基于文件夹的单词库管理
-- 🎲 随机抽取未学习单词
-- 🔊 真人语音发音（Kokoro TTS）
-- 💾 自动保存学习进度
-- 🌐 Web 界面，浏览器访问
+- Windows：安装 release/ 中的 Windows 安装程序，然后从开始菜单启动 WordPlus。
+- Android：将 release/ 中的 ARM64 Debug APK 安装到手机。此包用于本地测试，正式发布前需要配置自己的 Release 签名。
 
-## 安装步骤
+安装后使用应用图标启动，无需终端。应用启动时会在后台初始化 Kokoro；首次启动需要网络下载模型，词库学习本身不依赖网络。进入卡片后会预生成当前音频，切换卡片时预生成下一张；已生成的音频会保存到本地缓存，重复播放和重新启动客户端都可直接开始。
 
-### 1. 环境要求
+## 开发与构建
 
-- Python 3.10+
-- 已安装 Kokoro-82M-WebUI（位于当前目录）
-
-### 2. 安装 eSpeak NG
-
-**Linux:**
-```bash
-sudo apt-get install espeak-ng
+```powershell
+cd frontend
+npm ci
+npm run desktop:dev
 ```
 
-**Windows:**
-下载并安装 [eSpeak NG](https://github.com/espeak-ng/espeak-ng/releases)，安装到默认路径 `C:\Program Files\eSpeak NG`
+这一个命令会启动开发预览和桌面窗口。仅查看网页可运行 npm run dev。
 
-### 3. 安装依赖
-
-```bash
-pip install -r requirements.txt
+```powershell
+npm run desktop:build
+npm test
 ```
 
-### 4. 准备单词库
+Windows 安装程序输出至 frontend/src-tauri/target/release/bundle/nsis/。
 
-在 `data/` 目录下创建文件夹和单词文件：
+Android 构建需先设置 ANDROID_HOME、NDK_HOME、JAVA_HOME，并安装 aarch64-linux-android Rust target：
 
-```
-data/
-├─ CET4/
-│  └─ unit1.txt
-└─ CET6/
-   └─ unit1.txt
+```powershell
+npm run android:build
 ```
 
-单词文件格式（每行一个单词，使用 `|` 分隔）：
-```
-apple|苹果
-banana|香蕉
-computer|计算机
-```
+生成的 APK 位于 frontend/src-tauri/gen/android/app/build/outputs/apk/arm64/debug/。完整步骤见 [快速开始](QUICK_START.md)。
 
-## 使用方法
+## 词库和进度
 
-### 启动应用
+- data/大学版 包含大学版分类词库源文件；词库来源快照见 [词库说明](data/大学版/README.md)。
+- npm run dev / npm run build 自动同步 data/ 到应用资源，无需维护两份词库。
+- 每个词义是一张独立卡片，避免同词多义导致完成度错误。
+- 进度保存在当前应用的本地存储，Windows、Android、浏览器之间暂不自动同步。
+- 轻松模式的建议是每天 8 张、每组 4 张。当前提示是建议量；手动学习不强制截断，自动播放每词重复 3 次。
 
-```bash
-python app.py
-```
-
-应用启动后，浏览器访问 `http://localhost:7860`
-
-### 学习流程
-
-1. 选择文件夹和单词文件
-2. 点击"开始学习"
-3. 查看单词，点击"🔊 发音"听读音
-4. 点击"认识"标记已学习，或点击"不认识/下一个"继续
-5. 所有单词学完后，可选择"开始新一轮"或"切换文件"
-
-## 目录结构
-
-```
-.
-├─ app.py                 # 主程序
-├─ word_manager.py        # 单词管理模块
-├─ tts_client.py          # TTS 语音模块
-├─ requirements.txt       # 依赖清单
-├─ data/                  # 单词库（用户创建）
-├─ progress/              # 学习进度（自动生成）
-├─ audio_cache/           # 音频缓存（自动生成）
-└─ Kokoro-82M-WebUI/      # TTS 模型
-```
-
-## 常见问题
-
-**Q: 模型加载很慢？**
-A: 首次加载需要 3-10 秒，这是正常现象。建议使用 GPU 加速。
-
-**Q: 如何清理音频缓存？**
-A: 直接删除 `audio_cache/` 目录即可。
-
-**Q: 如何备份学习进度？**
-A: 复制 `progress/` 目录即可。
-
-**Q: 单词文件格式错误怎么办？**
-A: 应用会跳过格式错误的行，检查文件确保每行使用 `|` 分隔。
-
-## 许可证
-
-MIT License
+架构说明见 [单客户端架构](doc/前端TTS与客户端迁移设计.md)。

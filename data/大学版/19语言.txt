@@ -1,0 +1,420 @@
+above|adv. 上文或前文
+abstract|n. [C]（文献等的）摘要，概要。其核心含义是“把复杂的论证或研究作一番简述”，常见于学术性引述和法律方面的引述。在广义上，abstract是一种summary。但summary可置于一篇文章的开头或结尾，而abstract只能置于文章的开头（即标题之下，正文之前）。且abstract更强调论述研究的过程，而summary更强调给出研究的结果
+abstract|vt. [术语] 写出（书等的）摘要
+abstract|vt. abstract sth (from sth) 把论点提取出来
+accent|n. [C, U]（某人的带有地域或阶级等特色的）口音
+accent|n. [C] 重音，相当于stress。与stress的可数名词词义相比，未见明显差别
+accent|n. [C]（标在字母上以表明该字母的发音方式的）符号，即变音符号
+across|adv.（纵横字谜谜底）横写的
+active|adj. 主动语态的
+acute|adj.（标注在元音上的）尖音符号的
+adage|n. [C] 谚语、格言
+adjective|n. [C] [语法] 形容词
+adverb|n. [C] [语法] 副词
+affix|n. [C] [语法] 词缀（包括前缀和后缀，例如unhappy中的un-和careless中的-less都是词缀）
+after|prep. 写在（页面上某内容的）后面或下面
+agent|n. [sing.] 动作的发出者，即施动者
+agree|vi. agree (with sth) 在数、性或人称上与一个词或短语一致
+agreement|n. [U] agreement (with sth) 单词在数、性、人称方面的一致，与concord近义
+aloud|adv.（常指人声）出声地（以使别人能听见）
+alphabet|n. [C] 一种语言中用于书写的一套字母，可叫做字母表（在该表中，字母的顺序常是固定的）
+aphorism|n. [C] [正式] 简短机智的格言、警句
+apostrophe|n. 1 [C] 作为省字符的撇号（如'63表示1963）
+appear|vi. 将在某处被写道或被提及
+appendix|n. [C] 书籍或文件的附录
+article|n. [C] 冠词
+articulate|vt.&vi. 口齿清晰地发音
+aspect|n. [U, C]（动词的）体（即表示一个动作是发生一次还是发生多次，是已完成还是仍在进行）
+aspiration|n. [U] [语音学] 发送气音（例如“house”中“h”的发音方式）
+attachment|n. [C] 附属于其它文件的一份文件，即文件的附件
+autograph|n. [C]（尤指向名人索要的）亲笔签名
+back|adj. 只作前置定语，由舌后发音的
+bang|n. [C] [非正式] [计算机] 感叹号，即！
+beginning|n. [C]（作品的）开头、开篇
+below|prep. 在下文；到下文
+bible|n. [C] 某一主题的（经常被人引用的）权威著作
+bibliography|n. [C] （参考或引证的）文献目录，参考书目（是将所有参考书目列出来的一种清单）
+bilingual|adj. 1 会说两种语言的
+binding|n. [C, U] 书的封皮
+bold|adj. [术语]（印刷的文字或字符）粗体的；黑体的
+borrow|vt.＆vi. borrow (sth) (from sb/sth) 从另一种语言（或另一个人等）借用或引用字词、话语等
+brace|n. [C] 大括号，即{}
+bracket|n. 1 [usually pl.]（也可用round bracket）[均英] [美式或正式用法为parenthesis] 括号
+branch|n. [C] 语言的分支
+brief|adj. 使用很少的文字的，即简洁的
+brief|n. [C] [英] 某人所得到的一份阐释其工作或职责的指示或说明，如任务简介
+briefcase|n. [C] 扁平的公文包（用于携带文件）
+broad|adj.（人）口音重的，乡音浓的，让人一听就知道从哪儿来的，相当于strong，但不太如strong常用
+broken|adj. 只用于名词前，（非母语）说得缓慢且有很多错误的（如结结巴巴的）；不流利的
+capital|n. [C] 大写字母，也可叫capital letter
+carve|vt. 在表面上刻写
+case|n. [C, U] 语法中的“格”，即一些语言中表示名词、形容词或代词与另一词关系的形式
+central|adj. 发音时舌头中央位于口腔高点上的，而非位于前边或后边的，如bird中的[ə:]
+certificate|n. [C] 一种正式文件，可被用于证明该文件所陈述的事实是真的，即证书
+chapter|n. [C] 一部书的一部分，通常有一个数字或标题，可以叫章，篇或回（缩写为chap.），总之是一种“章节”
+character|n. [C]（书写、印刷或计算机上的）字符，字母，符号，标记。是“字符”的基础用词
+chunk|n. [C] [语言学] 可以作为一个整体来学习的语言单位，如短语等，即语块
+cipher|n. [C] [英] 用在一个设计图案中的某人名字的各部分的首字母（以代表某种含义）
+circle|vt. 围绕…画圈或画圆
+circumscribe|vt. [术语] 画…的外接圆
+citation|n. 1 [C] 从一本书或一篇讲话中摘出的文字或语句，如引文。相当于quotation
+cite|vt. [正式] ~ sth (as sth) 提及某事作为原因或例子，或为支持自己的观点
+clause|n. [C] [语法] 从句
+clear|adj. 语音清晰的（如clear中的[l]，其用于元音前）
+close|adj.（元音）闭塞音的（即发音时口形相对闭合的）
+cluster|n. [C] [语音学] 辅音丛；辅音连缀
+coin|vt. 创造一个新词或短语（后来其他人也开始使用该词或短语）
+colon|n. [C] 冒号
+comma|n. [C] 逗号
+commentary|n. [C] ~ (on sth) 对一部书或一出戏剧作出的书面注释、解释、评论
+commonplace|n. [usually sing.] [正式] 平淡无奇的言语等；老生常谈、陈词滥调
+complement|n. [C] [语法] 补足语、补语
+complete|vt. 在一张表格（form）上填写（所有被要求填写的信息），相当于fill in或fill out
+complex|adj.（单词或句子）复合的（即由一个主要部分和一个或多个其他部分组成的，具体可指词根加有词缀或主句含有从句）
+compose|vt. ~ a letter/speech/poem 写，通常指很用心地写
+compound|n. [C] [语法] 复合词
+conclusion|n. [U] 正式（或官方）协议的最终达成、签订、缔结等。相当于completion
+concord|n. [U] ~ (with sth) [语法]（短语中的单词）在数、性或人称上一致
+confirmation|n. [U, C] 确认书、证明书
+consent|n. [C] 正式的批准文件，批文
+consonant|n. 1 [C] [语音学] 辅音
+consonant|n. [C] 辅音字母
+construct|n. [C] [正式]（短语的）结构成分
+construction|n. [C] 用字词来构造句子、短语等的方式，即语法结构
+content|n. [pl.] contents可指书的目录或目次（常在一本书的起始处以清单的形式列出该书的各个章节或部分）
+content|n. [sing.]（书、讲话等的）主题，主要内容
+context|n. [C, U] 上下文、语境
+contract|vt.&vi. 订立雇佣合同或契约
+contraction|n. [C] [语言学] 词的缩约形式
+contribution|n. [C] 一部书、一本杂志等的一部分，如“稿件”
+conveyance|n. [C] [法律] 产权转让证书
+copy|n. [C] 文件的复印件、副本、影印本
+copy|vt. copy sth (from sth) (into/onto sth) / copy sth (down/out) 抄写；誊写
+corruption|n. [C, usually sing.]（单词或短语的）变体
+couch|vt. [正式] [常用被动式] ~ sth (in sth) 用某种文体、风格或方式来写
+cover|n. [C] 图书或杂志的封皮。是此义的常规用词
+credentials|n. [pl.] 资格证书；证件
+cross|vt. 划横线于某处，使其贯穿…
+dark|adj. 发音时靠舌头和口腔的后部的，即暗的，如cool中的[l]。其反义词为clear
+dash|n. [C] 破折号
+decline|vt.＆vi. 一个名词、形容词或代词根据其在句中的作用（如是否作一个动词的主语或宾语、是否是单数或复数等）而变化形式；使发生上述词形变化
+delta|n. [C] 希腊字母表的第四个字母
+descendant|n. [C] 由一门语言派生出来的一支语系
+dialect|n. [C, U] 方言
+dictionary|n. 1 [C] 词典；字典；辞书
+digest|n. [C]（由长文章所压缩而成的）文摘；或文摘汇编。一个digest本身也是一篇完整的文章，只不过是由一篇长文章压缩而成的短文章而已。主体情节、脉络和思想一般并没有改变
+discourse|n. [U] [语言学] 作为研究之用的语篇
+document|n. [C] 官方或正式的文件（可提供…的信息，或可用作证据或证明），即文件；公文；文献；证件等。是一个基础用词，含义极广
+documentary|adj. [只用于名词前] 文件的、文献的、由文件（或文献）组成的
+dot|n. [C] 小圆点（尤指打印或印刷出来的点）
+dot|vt.（在字母或单词的上方或旁边）加点
+down|adv. 1 在纵横填字游戏中可指由上到下（而非由左到右）地读
+draft|n. [C] 起草出来的粗略的文件版本，即草稿；草案；草图
+draft|vt. 起草或草拟（信件、演讲、书籍等）（英式英语尤用draught）
+draught|vt. [尤英] 起草、草拟。相当于draft
+dynamic|adj.（动词）动态的（即用于描述一个动作而非状态，且可用于进行时态的，如eat，grow或knock）
+ellipsis|n. [C, U] [语言学]（词在句子中的）省略
+ellipsis|n. [C, U] 省略号
+embed|vt. [常用被动式] 语言学中可指在一个句子中嵌入另一个句子。（在I'm aware that she knows句中，she knows为内嵌句）
+emphasis|n. [U, C] 说话或写字时，对某个词或短语的重读
+emphasize|vt.（说话时）重读、强调（一个词或短语），即加强…的语气
+ending|n. [C] 附着于一个词的主要部分的该词最后一部分，即词尾
+endorse|vt.（在支票背面）签名，背书
+enter|vt. enter sth (in/into/on sth) 将一些名字、数字、细节信息等输入到一张表、一个本子或一台计算机中，可称为登记，录入，输入等。是此义的常规用词，最为常用
+entry|n. [U]（在电脑、笔记本等上）记录、登记或录入信息
+enunciate|vt.&vi. 清晰地发音
+envelope|n. [C] 用于保存纸张文件的扁平塑料封皮
+epigram|n. [C] 诙谐机智的短诗或隽语
+episode|n. [C]（小说的）片段或情况
+excerpt|n. [C] ~ (from sth) 从文字作品中节选出来的一小段
+exclamation|n. [C] 惊叹、感叹；感叹词；感叹句
+excuse|n. [C] [美] 家长或医生写的为何一个学生不能去上课或某人为何不能去工作的纸条，即请假条
+extract|n. [C] ~ (from sth) 从一本书等中摘录的一小段内容（该内容能让你对作品全貌有个了解）
+fall|vi.（重音）落在（某个音节上）
+family|n. [C] 一组有关的语言，此时可称为语族
+feminine|adj. 1（语法）阴性的
+file|n. 1 [C] 装文件用的容器（如文件柜或折叠式的文件夹等）。是此义的常规用词
+file|n. [C] file (on sb) 一个文件夹和其中所包含的信息（例如关于某个人或某个主题的档案）
+file|vt. file sth (away) 把文件等按某种顺序放置或保存在某个地方（以方便查找）；把一份文件放入文件夹。即把文件等归档
+fine|adj. 指词语或话语听起来很重要很华丽，但实际上并没什么实际内容或作用的，即辞藻华丽的，语言华而不实的
+flap|n. [C] 语音学中的轻拍音，相当于tap
+flap|vt. 语音学中可指发轻拍音
+flourish|n. [C]（尤指手写体的）花彩字
+fluency|n. [U, sing.]（对一门语言，尤指外语的掌握）流利，流畅
+fluent|adj. 1 fluent (in sth) 能够流畅良好地说或写一门语言（尤指外语），即流利的
+folder|n. [C]（纸板或塑料材质的）文件夹
+foreword|n. [C] 书的前言或序言
+form|n. [C] 单词的词形或形式（如单复数或时态等）
+free|adj. 在翻译中不拘泥于原文的，意译的
+front|adj. 只作前置定语，（元音）舌前位发出的，即舌前的
+front|vt.（为强调而将句子的某一部分）前置
+future|n. [sing.] the future 将来时
+gender|n. [C, U]（语法）（用于某些语言中）性（阳性、阴性和中性，不同的性有不同的词尾等）
+generalization|n. [C, U] 概括；归纳；概论（即总体上看起来正确，但细节上并非完全正确的说法）
+generalize|vi. ~ (from sth) 概括；归纳
+get|aux. 常用作助动词，替代be动词构成被动语态
+ghost|vt.&vi. 为某人代写（书籍、文章等）以使其发表
+glide|n. [C] [语音学] 滑音、音渡、过渡音
+gloss|n. [C] ~ (on sth) 给文章写的注释或评注（以解释难的词或短语）
+glossary|n. [C] 某一学科的书籍末尾的（尤指某一篇文章的）词汇表、术语汇编
+govern|vt. 一个词对另外一个词或短语的控制，即影响后者的构成或使用
+graffiti|n. [U, pl.]（公共场所墙上等处的）涂鸦的文字
+graffiti|n. [U, pl.]（公共场所墙上等处的）涂鸦，胡写
+grammar|n. 1 [U] 语法规则，也可叫文法
+grammar|n. [U] 一个人的语言知识及语言运用
+grammatical|adj. 1 语法的
+handout|n. [C] 课堂上发给学生的学习资料（如课程要点总结、练习题等）；也可指演讲中发给听众的讲义或提纲
+handwriting|n. [U]（用笔所进行的）书写。极不常用
+hard|adj.（辅音）硬音的（如字母c或g在cat或go，而非在city或giant等词中的发音）
+hatch|vt. 在（图形、阴影等上）画平行或交错的线（以表示该部分是个阴影）
+head|n. [C] 短语的中心成分，其和整个短语具有相同的语法功能
+hereafter|adv.（也可用hereinafter）（用于法律文件等书面英语中，引出已经提及的人或事物的缩略）在本文件其余部分（或称“以下”）
+high|adj.（元音）发音时口型相对闭合的，即闭塞音的
+hyphen|n. [C] 连字符
+idiom|n. [C] 习语；成语；惯用语
+idiom|n. [U, C] [正式]（特定的一些人在某段时期或某个地方所用的）语言和语法
+illumination|n. [C, usually pl.]（旧时书上通常用手工绘制的）彩饰，彩图
+illustration|n. [C]（书、杂志等文本中的）图表，插图
+imperative|adj. [只用于名词前] [语法] 表示命令的、祈使的
+imperfect|n. [sing.]（也可用the imperfect tense）[语法] the imperfect可指过去未完成时（常称为过去进行时）
+impersonal|adj. [语法]（动词或句子）无人称的，非人称的（即只用it或there做主语的）
+in|prep. 用于表明使用的语言
+incise|vi. ~ sth (in/on/onto sth) [正式] 在一个表面上刻上文字
+indicate|vt. 以书面的形式给出信息，即写出，写明，注明
+indicative|adj. [只用于名词前]（语法）陈述的；指示的
+infinitive|n. [C]（语法）动词的不定时（可加to，有时可不加to）
+initial|n. 1 [C] 一个人的名字（first name）的第一个字母（即首字母）
+initial|vt. 用全名的各个首字母之和（initials）在某事物上签名
+ink|vt. [美，非正式] 签署或签订文本（尤指签合同）
+inscribe|vt. ~ A (on/in B) / ~ B (with A)（在物体上）写或刻（词语、名字等）
+insert|n. [C] insert (in sth) 书籍（或报刊、杂志）中额外添加的一部分（尤指广告附加页）
+insert|vt. insert sth (into sth) 将…添加到一段文字或图片中
+instalment|n. [C]（报章连载小说的）一节
+instrumental|n. [C] [语法] 某些语言中的工具格；工具词（表示一个名词、代词或形容词是主语达成一件事或完成一个行动所使用的工具或方法）
+interpret|vi. ~ (for sb) 听到一种语言的时候，用另一种语言翻译出来，即口译
+interpreter|n. [C]（在不同语言之间进行翻译的）口译工作者，即口译员
+intonation|n. [U, C] [语音学] 语调，尤指影响语义的语调
+introduction|n. [C, U]（书籍或演讲的）序言；引言；导论（该部分大致阐述了后续的正文内容）
+intrusive|adj. [语音学]（语音）添加的；插入的（讲话时为连接两个词而添加一个音，如有些说英语的人会在law and order中的law之后添加一个“r”，这个“r”就是插入的音，不过此类情况是一种非标准英语）
+irregular|adj. [语法] 形式不规则的
+jacket|n. [C] 也可用dust jacket，指书籍的松散的护封或书套（常带有图案或画面）
+key|n. [C]（地图或平面图中）对符号的说明：You will find a key at the front of the book. 你在书的前面会看到一个对书中所用符号（及其所表示的含义）的说明。 **reference**
+key|vt. key sth (in) / key sth (into sth) 用键盘将信息键入电脑，相当于enter。是将名词用作动词，不常用
+keyboard|vt.＆vi. 用键盘将信息输入计算机。也是将名词用作动词，不常用
+language|n. 1 [C] 某国或某一地区的人们在口语和书面语中所采用的一套交流体系，即语言（是一种以地域为标准而划分出来的概念）
+leaf|n. [C] 一页纸，尤指书的一页
+legend|n. [C] [正式]（标志、徽记、硬币等物品上的）铭文
+length|n. [U, C]（书籍、文件等的）篇幅。此时与space未见明显差别
+letter|n. [C]“字母”的常规用词
+lexicon|n. 1 [sing.] [语言学]（也可用the lexicon）（某语言或学科、某人或群体使用的）全部词汇和短语
+lexicon|n. [C]（尤指希腊语、希伯来语等古代语言的）词典、字典
+liberal|adj.（翻译）不完全准确的、不精确的、灵活的
+library|n. [C] 由同一公司出版的外观相似的一系列图书、磁带等，即系列丛书，文库
+line|n. 1 [C] 一行文字；一行空白；（歌词或诗的）行
+linguistic|adj. 语言的；语言学的
+literature|n. [U] 某一学科的文献、资料、著作
+long|adj.（元音）长音的
+long|adj.（图书、清单等的篇幅）长的
+low|adj.（元音）咧嘴发出的，开口发出的
+make|vt. 1 做笔记，做批注，写清单等
+mark|n. [C] 文盲在文件上做出的画押（代替签名，因为其不会写自己的名字）
+marked|adj. [语言学]（单词或词形）有标记成分的（如正式或非正式用语）
+masculine|adj. 1 [语法]（表示雄性人类或动物的一些词）阳性的
+material|n. [C, usually pl., U] 指某一活动所需的文字材料、文本资料（或其它视觉资料、听觉资料等）。其词义范围最广，涵盖了本组其它各词
+maxim|n. [C] 广为人知的格言、箴言、座右铭（人们用其规范自己的行为）
+modify|vt. [语法] 修饰
+module|n. [C]（尤指英国大学的）课程单元
+mood|n. 1 [C]（语法）表达语气的动词屈折变化
+motto|n. [C] 一则简短的句子或短语，该句子或短语表达了某个人、某个群体或某个机构等的目标和信念，并被作为一条行为准则，可称为座右铭，格言或箴言等
+native|adj. 母语的，第一语言的
+note|n. 1 [C] 一则简短的、非正式的书信，即便条
+note|n. [C] 在一本书上，对其中的部分内容（如一个字词或一段文字）所做的一则简短评论，即注释、批注
+note|n. [C] 常用复数，指印在一部特殊的书籍封面、CD或唱片封面等上面的信息，该信息介绍了一次演出、一个演员的职业履历、或一段音乐等
+note|n. [C] 证明。是一个简单用词
+noun|n. [C]（缩写为n.）[语法] 名词
+number|n. [U] 语法中的“数”（表示所叙述的人或事物是一个还是多于一个）
+object|n. [C] 宾语（直接宾语和间接宾语）
+objective|adj. [只用于名词前]（语法上）宾格的
+open|adj.（元音）通过开口来发出的，即开口的
+opening|n. [C, usually sing.] 开篇，与ending相反
+oral|adj. 常作前置定语，指口头的（而非书面的）
+oral|adj.（语音）由口腔发出的（而非通过鼻腔震动来发声）
+outline|n. [C] 概述；梗概。本质上具有一种框架性。这种框架性通常有两种表现形式，第一，用编号一一简要列出所陈述的内容（这些内容进行详细论述和充实后，就成了一个完整的论述）。此时也可叫“提纲”；第二，通过一段较长的文字来“概述”原本很长的内容，但依然保持原内容的脉络、层次、思想
+outline|vt. 常用被动式，勾勒…的外形
+overview|n. [C]（对某事或某种形势等的）概览；概述
+packet|n. [C] [美]（为某一用途）作为一个整体来提供的一套文件
+page|n. [C] 图书、杂志等中的一张纸的一面或两面，即页，面，张，版。是“页码”的常规用词
+paint|vt.＆vi. paint (in sth) / paint sth (on sth) 用颜料来写
+paper|n. 1 [pl.] papers 可指带有文字的纸张，即文件，资料（如信件、工作文件、私人文件等，人们可能将其保存在家中安全的地方）
+paperwork|n. [U] 为某事所需的全部文件，例如诉讼案件或购置房产等所需的全部文件
+paradigm|n. [C] 语法中可指词形变化表
+paragraph|n. [C] 文字的段落（一个新的段落要重起一行）
+parenthesis|n. [C] 插入语
+parenthesis|n. [usually pl.] [正式] 圆括号。相当于bracket
+parole|n. [U] [语言学]（单个人所说的，而非作为作为某个群体的交流体系的）言语
+particle|n. [C] [语法] 小品词（与动词构成短语动词的副词或介词）
+particular|n. [pl.] [正式] particulars 可指（关于财产、业务、工作岗位等的）详细书面材料
+passage|n. [C] 图书的一小部分，可叫做章节；段落。相当于excerpt或extract。虽然汉语中有时翻译为“段落”，但并非常规意义上的另起一行的段落，而更接近于“篇章”
+passive|adj. 被动语态的
+past|adj. 只作前置定语，（动词）过去式的
+patient|n. [C] 动作的受动者
+pen|vt. [正式] 写，书写，撰写。不常用
+pencil|vt. 用铅笔写、画。不常用
+perfect|adj. 与动词完成时有关的
+period|n. [C] [美] 标点符号中的句号或句点，相当于full stop
+person|n. [C] 三个人称之一
+phone|adj., adv., n. [C] –phone构成形容词和副词，指讲某种语言的；还可指讲某种语言的人（作为此义时远不如speaker常用）
+phone|n. [C] 语音学中可指讲话时发出的一个声音，（尤指不作为某种语言的声音体系的一部分）即音子，音素
+photocopy|n. [C]（也可用copy（文件等的）影印本、复印件
+phrase|n. [C] 从各个单词的意思很难看出整句意思的一句话，即成语；习语；惯用法；警句等。此时与idiom几无差别。不过phrase的总体含义要比idiom广泛
+phrase|n. [C] 短语，词组
+plate|n. [C] 书中的插图照片，尤指优质纸张上的整页插图
+plot|vt. 1 plot sth (on sth) 利用一些信息来绘制图表
+pocketbook|n. [C] 一种小的扁平的袋子，常用皮革或塑料制成，用于携带文件
+point|n. [C] 书写时所用的点（相当于dot，此时可以叫做“标点”）。尤指数学中的“小数点”，用于将整数和分数分开
+point|n. [U] 印刷物字体大小的单位，即点，磅值
+portfolio|n. [C] 扁平的公事包（用于携带文件、图画等）
+possessive|adj. [语法] 表示所属关系的；所有格的
+preamble|n. [C, U] [正式]（书籍或文件的）序言、绪论、导言；开场白
+preface|n. [C] 书的前言、序言
+present|n. [sing.] the present 现在时，相当于present tense
+print|n. [U] 在纸上印出来的字母、文字或数字等，即印刷字体。偶尔也可指在屏幕上显示的字体（不过此时不如type常用）
+print|vt.＆vi. 用印刷体写（字母之间笔画不相连接）
+profile|n. [C] 对某人或某事物的概述、简介（能提供有用的信息）
+progressive|adj.（也可用continuous）在语法中可指（动词）进行时的
+prologue|n. [C]（书籍的）序言
+pronoun|n. [C]（语法）代词
+pronounce|vt. 发一个字词或字母的音，即发音。是此义的常规用词
+pronunciation|n. 1 [U, C] 发音、读音
+proverb|n. [C] 谚语、常言
+punctuation|n. 1 [U] 标点符号。是此义的常规用词
+put|vt. 在…上书写。是一个简单用词，比较常用
+qualify|vt. [语法]（单词）修饰、限定
+quotation|n. 1 [C]（也可用quote）从书籍、戏剧、讲话等文字作品中摘出的一段文字，即引语；引文；语录
+quote|n. [pl.] quotes可指引号，相当于quotation marks
+quote|vt.&vi. ~ (sth) (from sb/sth) / ~ (sb) (as doing sth) 对别人话语或文字的精确引用
+reference|n. [C] 参考书
+register|n. [C, U]（书面语或口语中）适合特定场合使用的语体风格，即语域
+regular|adj.（尤指动词或名词）按大多数形式的规则变化的，即规则的
+related|adj. ~ (to sth/sb)（语言）同源的
+relative|adj. [正式] 指代前面的一个名词、句子或句子的一部分的
+repeat|vt. 重写
+report|n. [C] report (on sth)（由研究了某一情况或问题的一群人所写出的一份）正式的文件，如调查报告
+rewrite|vt.（通常为作出改进或添加新信息而）重写
+rhetoric|n. [U] [正式] 修辞；修辞技巧；修辞学
+ring|vt. [尤英] 绕着某事物画一个圆圈，相当于circle
+roll|n. [C] 颤音，相当于trill
+root|n. [C] 单词的词根
+rounded|adj. [常用于名词前] [语音学]（语音）用圆唇发出的
+rule|vt. 用有硬直边缘的东西（如直尺）画直线
+saying|n. [C] 一则著名的话语，该话语为人们的某种生活经验的总结，表达了大多数人所信奉的生活智慧。可称为谚语，格言或警句。不过鉴于其带有明显的民间色彩，所以翻译为“谚语”、“俗语”一般是不会有错的。另外，其也可指一个人（尤指宗教或政治领袖）的重要讲话，或其给出的建议，可称为“教诲”
+scribble|n. [U, sing.] 潦草的文字。相当于scrawl
+scribble|vt.&vi. ~ (sth) / ~ sth down（尤指因时间仓促而）匆匆写下、草草写下。相当于scrawl
+script|n. [C]（剧、电影、广播、讲话等的）剧本、讲稿
+script|n. [U, C] 一种语言的字母系统、字母表。相当于alphabet
+script|n. [U] 手写的字
+script|vt. [常用被动式] 为电影、戏剧等写剧本；为广播、电视节目等撰稿
+section|n. [C] 文件、书籍等的一部分，可叫做节；段等。其含义极广，既可指书籍的一部分，也可指文件等的一部分。因此汉语中没有固定的翻译方法。只能视其在某个文字材料（如书籍、文件等）中的具体形式，来翻译成具体的汉语表达法。可供参考的汉语用词为“节”、“款”、“项”、“段”等
+segment|n. [C] [语音学] 一个词可以划分出的最小语音部分，即音段
+semicolon|n. [C] 分号
+sentence|n. [C] 句子
+short|adj. short for sth（名称或单词）简略的；缩写的
+short|adj.（元音）短音的
+short|adj.（演讲、书信、图书等）简短的
+side|n. [C] 一面纸的文字量
+sign|vt.＆vi. 在文件、书信等材料上签名、签字、署名（以表明以上内容由本人书写，或者表明本人同意上述内容，或者表明上述内容是真实的）
+signatory|n. [C] [正式] ~ (to/of sth) 签署正式协议的一个人、国家或组织机构
+signature|n. 1 [C] 所签（或所署）的名字（如在信件末尾所署的名字）。是此义的常规用词
+silent|adj.（单词中的字母）书写出来但不发音的
+simple|adj.（无需助动词构成的动词时态）一般的，简单的（如在一般现在时或一般过去时中）
+skeleton|n. [usually sing.]（计划、文章等的）梗概、提纲、轮廓
+slip|n. [C] 一个小片纸，尤指用于写字或印有内容的小纸条
+small|adj. 常作前置定语，指（书写或打印、印刷出来的字母）小写的
+snippet|n. [C] 一小段交谈。相当于snatch或extract
+soft|adj.（辅音）发软音的（如city中的c字母和general中的g字母的发音）
+sound|n. [C] 语音学中可指语音
+sound|vt. [术语] 发音
+space|n. [U, C] 在书写和印刷中可指（一行、一页或一份文件的）空白处（如空行；空白；空格），即版面
+speak|n. [sing.] [非正式，常含贬义] 构成名词，指（某一团体、组织或学科的）语言或行话
+speak|vt. 1 会说或会讲（某种语言）
+speaker|n. [C] 讲某种语言的人。是此义的常规用词，最为常用
+speech|n. [U] 口语（即口头表达所使用的语言）
+speech|n. [U] 说话的能力，一般意义上的讲话
+spell|vt. 1 在口语或书写中以正确的字母顺序拼出字词，即拼读或拼写
+spelling|n. 1 [U] 拼写（或拼读）；拼写能力（或拼读能力）
+spoken|vt.＆vi. speak的过去分词，即说话，讲话等
+spread|n. [C] 书籍、报刊或杂志上（在一张纸上的）相反的两页
+standard|adj. 常用于名词前，语言中可指（拼写、发音、语法等）被认为是正确的并被大多数人所采用的，即标准的、规范的
+stem|n. [C] [语法] 词干
+stop|n. [C] [英] 句号，与full stop同义
+stop|n. [C] 塞音，即将气流憋在嘴中，然后突然将其释放出，由此而发出的音
+stress|n. [U, C] 重读或重音（即在单词或音节的发音过程中所施加的额外的力）。是此义的常规用词，最为常用
+stressed|adj.（音节）重读的
+stroke|n. [C] 笔、刷子等在一个表面上写出（或刷出等）的一个标记，如一笔、一画、笔画
+strong|adj. 常作前置定语，动词强变化的（即通过改变元音而不是加规则的词尾来构成动词的过去式和过去分词的，如drink、drank、drunk）
+strong|adj. 常作前置定语，强读式的
+strong|adj. 指口音强烈的，易于被感知的。较为常用
+structure|n. [U, C] 语言学中的结构
+style|n. [U, C] 语言的正确使用，即好文风，规范的语言
+subject|n. [C] 主语
+subjective|adj. 只用于名词前，主语的，主格的
+subscribe|vt.＆vi. 签署，题词
+sum|vt.&vi. sum up / sum sth up 总结、概括（要点），相当于summarize
+summarize|vt.&vi. 总结、概括、概述
+summary|n. [C] 对…的要点（而非细节）所做的简短阐述，即总结，概括，概要。在方式上强调简洁，在内容上强调结论，常是一种简洁的结论。表“摘要”时，也是一种总结性摘要，既可放在一篇论文的开头（即标题之下，正文之前），也可放在正文之后。词义范围较广，可以说本组其它表示“摘要”的词，都是一种summary
+supplement|n. [C] ~ (to sth) 书籍的补编、补遗、附录
+supplement|n. [C] ~ (to sth) 补充性的文件
+survey|n. [sing.] 对某事物所做的总体研究、全面概述
+syllable|n. [C] 音节
+tag|n. [C] [语言学] 附加语（为加强语气，如Yes, I do一句中的I do）
+tag|n. [C]（引用自书籍、讲演、文章的）语录，引语，格言，谚语
+take|vt.（动词、名词等用于句子或其他结构中时）有或需要…
+talk|vt.＆vi.（用某种语言）讲，说；或带某种口音
+tap|n. [C] 轻拍音（用舌头快速且轻轻地触击上前牙的后部所发出的音，如[t]）
+tap|vt. 语音学中可指发轻拍音
+tense|adj. 语音紧张的，即由处于紧张状态的发音器官肌肉来发出的，反义词为lax
+tense|n. [C] 动词的时态
+text|n. 1 [U] 书籍或杂志等的正文，而非引言、注释或图片等
+thesaurus|n. [C] 同义分类词典
+thick|adj. [有时含贬义]（口音）浓重的，让人一听就知道来自哪个国家或地区的，相当于strong
+tongue|n. [C] [正式或文学] 一门语言
+tonic|n. [C] [语音学]（也可用tonic syllable）语调音节，语调核心（区别音高变化的音节）
+trace|vt. ~ sth (out) 在一个表面上画线
+trace|vt.（用手指或脚尖等在表面上）绘出、勾勒出某事物的外形或轮廓
+transcribe|vt. [术语] 用音标来标出发音
+transcribe|vt. ~ sth (into sth) 把想法、话语或数据转成另一种书写形式
+transcript|n. [C]（也可用transcription（根据录音或笔记整理的）口头发言的文字稿件
+translate|vt.＆vi. translate (sth) (from sth) (into sth) / translate sth (as sth) 用一种不同的语言来表达意思，即翻译
+translation|n. [C, U] 译文；译本；译作
+translation|n. [U] translation (of sth) (into sth) / translation (from sth) (into sth) 将一种语言翻译成另一种语言的过程，即翻译
+translator|n. [C] 以翻译为工作的人，即翻译员，翻译家
+twang|n. [usually sing.] 说话时的鼻音（即音好像从鼻子里出来的）
+type|n. [U]（印刷或打印的）字母，文字，字体，字型；也可指印刷文字所用的小块金属（如铅字）
+type|vt.＆vi.（用计算机或打字机）打字。是此义的常规用词
+typing|n. 1 [U]（用打字机或计算机）打字
+underline|vt.（美尤用underscore）在一个字词、句子等下面画一条线
+underscore|vt. 在字词、句子等下面画线（以表示强调）
+unit|n. [C] 课本的单元，课
+use|vt. 说或写（词语或特定种类的语言），即使用（词语或语言）
+variety|n. [C] variety (of sth) 某种语言的一个变体
+verb|n. [C] [语法] 动词
+vernacular|n. [sing.]（通常用the vernacular）一个地区或群体所说的方言、土话（尤指非官方话或非书面语）
+verse|n. [C]（《圣经》、《古兰经》等的）节
+vocabulary|n. 1 [C, U] 一个人所掌握或使用的全部词汇，即词汇量
+voice|n. [U] 浊音（由声带震动所发出的元音和某些辅音）
+voice|n. [sing.] the active/passive voice主动语态或被动语态
+voice|vt. 发浊音
+vowel|n. [C] [语音学] 元音
+vowel|n. [C] 元音字母
+wallet|n. [C] 由皮革、塑料或硬纸板制成的用于携带文件的扁平式文件夹
+weak|adj.（动词的过去式或过去分词的变化形式）规则的；弱（变化）的（即加-d、-ed或-t）
+weak|adj.（某些单词的发音）轻读的，非重读的
+weave|vt. ~ sth (into sth) / ~ sth (together) 把事实、事件、细节等编成一个故事，或编成一个紧密联系的整体
+witness|vt. 为正式文件的签署进行作证，即连署
+word|n. [C] 字，词，单词，是一种有一定意义的语言单位
+work|n. [U] 做某项工作所需（或所使用）的材料，尤指书籍、文件等。也是一个广义用词，不过隶属于material，且远没有material常用
+write|vt.＆vi. 1 write (in/on/with sth)（用笔等在…表面上）书写（文字、数字等）。是“写”的常规用词，含义最为广泛，也最常用
+writer|n. 1 [C] 特定文字内容的撰写人
+writing|n. 1 [U]（与阅读、讲话相并列的）写、书写活动
+writing|n. [U]（已被书写或印在…上的）文字
+writing|n. [pl.] writings可尤指某一作者有关某一专题的全部著作

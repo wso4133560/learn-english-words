@@ -1,0 +1,99 @@
+about|adv. [尤英] 在各个方向上、到处、各处
+across|prep. 在某地、一群人等的各处，相当于throughout
+anywhere|adv. 1 用于否定句和疑问句，代替somewhere，表示在任何地方
+area|n. [C]（物体上的）区，部位
+around|adv. 在各处；到各处
+around|prep. [尤美] [英常用round] 在那边；到那边；从那边
+at|prep. 1 在某地
+base|n. 1 [C] 活动（如商业等）的根据地，大本营，据点，总部等
+be|vi. 位于，在某地
+belong|vi. 处于一个正确或恰当的地方
+bench|n. [C] 长且重的工作台（用于用工具等做一些手工工作），相当于workbench
+box|n. [C] 剧院中的包厢；法庭中的专席（均与其他人的座位分开）等
+checkpoint|n. [C] 边境检查站、边防关卡
+city|n. [U] [非正式] 用于其他名词之后，以表明某地充满某种事物，即充满…的地方
+come|vi. 处于或位于某个位置
+consist|vi. [正式] consist in sth 拥有某事物作为主要或唯一的部分、或拥有其作为特征，可翻译为在于
+control|n. [sing.] 发出命令的一个地方，或执行检查核对的一个地方。如指挥站、检查站、控制站；还可指这类地方的工作人员
+corner|n. [C] 一个地方的一个区域（有时用于指遥远或难以到达的一个区域或地区）
+deck|n. [C] 房子旁边供憩息的木制平台
+destination|n. [C] 某人所去（或被送到）的一个地点，即目的地，终点
+disperse|vt.&vi.（使）静态地散布
+distribute|vt. 常用被动式，（在一个区域内）散开或分布某事物（或某事物的不同部分）
+distribution|n. [U, C] 某事物在某地的分布
+dot|vt. 常用被动式，（在一个区域内）分布一些事物或人，或被分布于一个区域。是一个形象化用词
+down|adv. [非正式] 到（或在）当地的一个地方（例如商店、酒馆等）
+end|n. [usually sing.] 电话线、旅程等所联接的两个地方之一
+everywhere|adv., pron., conj.（美也用everyplace）在各处；到各处；各个地方，所有地方
+gallery|n. [C]（尤指用作某个用途的）一个狭长空间，即长廊
+haunt|n. [C] 某人常去的一个地方；某人消磨时光的地方（因为此人喜欢这个地方）
+head|n. [C] 单数名词，the head of the table 指桌子周围最重要的一个座位，即上座
+headquarters|n. [U, C]（缩写为HQ）组织机构（或军事行动）的大本营、总部、总公司、司令部
+height|n. [C, usually pl.] 常用于名称，指高的位置
+here|adv. 1 用于动词或介词后，表示在这里，向这里，到这里（这里指的是一个地方）
+home|adv. 到正确的位置
+home|n. [sing., U] 一种植物通常所生长于或动物通常所居住于的地方；某人或某事物被发现的地方
+house|vt. 是…的运营地点
+layover|n. [C] [美]（旅程中的）中途短暂停留。相当于stopover
+lie|vi. 1（物品）平放（在一个表面上）
+linger|vi. 在某地逗留更长时间（因为不想离开）
+locate|vt. 把…安置在（或建造于）某地
+location|n. [C, U]（电影的）外景拍摄地
+location|n. [C]（…发生或存在的）地点、位置
+neck|n. [C] neck (of sth) 物体（如瓶子、吉他等）的细长部分，颈部
+nestle|vi. 处在一个受保护（或半遮掩）的地方
+nowhere|adv.（no place尤美）不在任何地方；不到任何地方。即无处；任何地方都不
+occupation|n. [U] 对建筑物、房屋、土地等的使用（如居住），即占用。为正式用法
+occupied|adj. [名词前不可用]（房间、座位等）正被某人使用中的
+occupy|vt. 1 占用空间、区域，相当于take up
+of|prep. 用于表示人或事物的空间位置，即在
+on|prep. 1 在某地
+over|prep. all over可表示遍及某事物的所有（或大多数）部分
+patch|n. [C] 一小块区域，尤指与周围不同的一小块区域
+patchy|adj. 存在（或发生）于一些地方的，如散落的、分布不均的
+perch|n. [C] 高的座位；高处的位置
+perch|vi. ~ (on sth) 被置于某事物的顶端或边缘上
+place|adv. [美] 去各地（指去各种令人愉悦或有趣的地方）
+place|n. 1 [C] 某一位置；地点；地方；场所；区域
+place|n. [C] 位置；座位等（尤指可为人或车辆所占用，或正被占用的位置）
+platform|n. 1 [C] 一个凸起的平面，例如可在上面放置设备或进行操控的平台
+pocket|n. [C]（与周围不同的）一个小区域
+podium|n. 1 [C] 发表演讲、指挥管弦乐队等所站立的一个小平台，如讲台、讲坛、（乐队的）指挥台
+point|n. 1 [C] 某个地方或地点。可以是实际地点，也可以是抽象地点
+position|n. 1 [C] …所位于的地方，即位置
+pulpit|n. [C] 教堂中的高高的小讲坛（周围常有栏杆）
+recess|n. [C, usually pl.] 一个地方的隐蔽处、幽深处（即光线最暗、难以看清或到达之处）
+remain|vi. [正式] 逗留在同一个地方；不离开
+reside|vi. ~ in sb/sth 在于、由…造成（或引起）
+rostrum|n. [C] 发表演讲、指挥乐队、领奖等所站立于其上的一个小高平台，即讲坛、指挥台、领奖台等
+round|adv. [尤英；美常用around] 到处；四处
+scattered|adj.（在广阔的空间或时间上）散在的、分散的、零散存在的
+scene|n. [C, usually sing.] scene (of sth) 某事（尤指令人不快的事）发生的地点，现场
+seat|n. 1 [C] [正式] seat of sth 人们从事某一活动的一个地方，尤指拥有大学或政府机关的城市
+seat|n. [C] 可坐的地方，即座位，坐处（如椅子）
+seating|n. 1 [U]（总称）座椅、座位
+set|adj. 处于或位于某一位置的
+shoulder|n. [C] shoulder (of sth) 事物（如山或瓶子等）上形状如肩的部位
+sit|vi. 在某个地方，在某处
+site|n. 1 [C]（建筑物、城镇等的）地点、位置、建筑工地
+site|vt. [常用被动式] 使…坐落在某地、为…选址
+somewhere|adv.（美也用someplace）在某处；到某处（说话者不知道该处叫什么名字，或不提它的名字）
+spot|n. 1 [C] 某一地区或地点
+spread|vt. 使…分布于（或分散于）不同的地方
+stand|vi. 1 处于某一位置，即位于某处
+station|n. [C] 常构成复合词，组织或提供某项服务（或做某类工作）的一个地方或建筑，即局、站、所等
+stay|vi. 继续待在一个地方一段时间而不移开，即停留、待。是“逗留”的常规用词
+stop|vt.＆vi. stop (for sth) [英，非正式] 在某地短暂停留，尤指在某人的住宅中，即逗留
+strand|vt. [常用被动式] 使某人滞留在某地（而无法离开）
+take|vt. 就座或占座
+terrace|n. [C]（尤指房屋或餐馆外的）露天平台、阳台、草坪（可以供人坐着、吃饭、晒太阳）
+there|adv. 1 在那里，向那里，到那里（那里指的是一个地方）
+throughout|prep. 在各处；到各处。即遍及
+venue|n. [C]（某个事件或活动的）发生地、举办地
+visit|vt.＆vi. 在某地短暂地逗留或停留
+wedge|vt. 坐落于一个狭窄空间，使其不能再移动
+where|adv. 1 在（或到）哪里
+whereabouts|adv. 用以询问某人或某事物大概在哪里
+whereabouts|n. [U]（人或物）所在的地方，如行踪、下落
+wherever|conj. 1 在任何地方
+zone|n. [C]（尤指有别于周围的）区域或（物体的）部分

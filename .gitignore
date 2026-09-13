@@ -1,0 +1,5 @@
+/release/*.exe
+/release/*.apk
+/android-package.log
+__pycache__/
+*.pyc

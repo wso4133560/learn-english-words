@@ -1,0 +1,592 @@
+abduct|vt.（尤指用武力）非法劫持、绑架某人，也可指诱拐
+accessory|n. [C] [法律] ~ (to sth) 罪犯的从犯、同谋、帮凶
+accident|n. [C] 一次令人不快的事件，尤指意外发生且造成伤害的事故，且多指交通事故
+accomplice|n. [C] 罪犯（或做错事的人）的共犯、同谋、帮凶
+accusation|n. [C]（尚未证实的被控告的）罪名，罪状
+accuse|vt. accuse sb (of sth) 指控某人犯罪，或指责其犯错或不义等
+act|n. [C] 议会所通过的一部法律、法案或法令
+action|n. [C, U] 为阻止一个人或公司做某事，或为了使其为其所犯的错误进行赔付等而采取的法律程序，即诉讼，起诉
+advocate|n. 1 [C] 辩护者，尤指辩护律师
+after|prep. 尝试去抓住…。仅表示“追捕”的过程，而不表示追捕的结果（seize、get等词仅表示“已经抓住”，是一种结果）
+aggression|n. [U] 好斗性、攻击性
+aggression|n. [U]（一个人对另一个人的）暴力和攻击行为，即侵犯
+aggressive|adj. 好斗的，挑衅的，富有攻击性的，侵略的
+alibi|n. [C] 不在犯罪现场的证明
+allegation|n. [C] ~ (of sth) (against sb) / ~ (that…) / ~ (about sb/sth)（对某人所做的错事或非法之事的）无证据的公开指控、指责
+allege|vt. [常用被动式] [正式]（未提出证据而）断言、声称、指称
+amendment|n. [C] Amendment 可指（美国宪法的）修正案
+appeal|n. [C, U] appeal (against sth) 向法院或当权者提出的正式请求，请求更改判决，即上诉，申诉
+appear|vi. 1 出庭（作证或受审）
+appearance|n. [C] 出庭
+application|n. [U] 一条规则（或法律等）的启用或生效
+apprehend|vt. [正式]（警方）逮捕、拘押
+apprehension|n. [U] [正式]（通常指警察对某人的）逮捕、拘押
+appropriate|vt. [正式]（尤指非法或未经允许地）拿来某事物（如某人的想法等）以供自己使用，具体可称为盗用、挪用等
+arbitration|n. [U]（第三方做出的）仲裁
+arrest|vt. arrest sb (for sth) 常用被动式，指警察逮捕或拘留，是此义的基本且常规用词，极为常用
+arson|n. [U]（尤指放火烧掉建筑物的）纵火、纵火罪
+article|n. [C]（协议、契约、合同等的）条款
+assault|n. [U, C] ~ (on/upon sb) 侵犯他人身体的罪行
+atrocity|n. [C, usually pl., U]（尤指战争中的）残忍和暴力行为，即残暴
+attack|n. [C, U] attack (on sb) 暴力袭击或攻击（以试图伤害或杀掉某人）。是此义的基础通用词，极为常用
+attest|vt. [正式] 作证（例如在法庭上作证）
+attorney|n. 1 [C] [尤美]（美国的）律师，尤指代表当事人出庭的律师
+attorney|①严格意义上，attorney指商业（或法律）事务上所指定的“代办人”，或称“代理人”。②在美国，该词在一般意义上即可指“律师”，与attorney at law和lawyer被视作同义词。不过在当今有一种趋势，就是attorney变得更正式，且更不具有轻蔑意味。
+award|n. [C, U] 法院裁定胜诉方所应获得的一笔钱；也可指此种裁决（即赔偿裁决）（其本身只表示给予钱财，只有和表示钱财具体性质的词搭配，才能表示某种性质的赔偿金。如与damages搭配，共同表示损害赔偿金）
+bail|n. 1 [U] 保释金；保释
+bailiff|n. 1 [C] [英]（法庭的）执行官员（负责法庭裁决得到切实执行，如果被执行人欠别人钱，执行官员也负责查封被执行人的家具或不动产）
+bar|n. [C] 在法律领域，the Bar为单数名词，在英国可指可出席高等法院的大律师职业，在北美可指任何种类的律师职业
+barrister|n. [C]（英格兰和威尔士地区有资格在高等法院出庭进行辩护的）大律师
+barrister|①尤指在英国有资格出席高等法院的律师，可称为“出庭律师”；②在英式英语中还可指出庭律师（barrister）的职业，而在美式英语中则可指律师（lawyer）的职业（也许是因为美国的律师一般没有明确的种类之分别）。
+baton|n. [C] [尤英] 警棍，相当于truncheon
+battery|n. [U] [美] 对人身进行殴打的罪行，即殴打罪
+battle|n. [C, U] 群体间的暴力搏斗
+beak|n. [C] [过时，英，俚语] 掌权者，尤指法官
+beat|n. [C] 警察的规律性巡逻区域，即管区，辖区
+bench|n. [sing.] the bench 在法律领域可指法庭的法官；或法官所坐的席位；还可指法官（或裁判官）的职位。是一种借代用法
+bill|n. [C] 提交给议会以供讨论的关于一部新法律的建议，即议案，法案，本质上是一部法律的初稿（有时也可指颁布的成文法，但此义极不常用）
+blacklist|n. [C] 黑名单
+blameless|adj. 无过错的；无可指责的；清白的
+bond|n. [C] 复数形式bonds为正式用法，可指囚犯所戴的绳索或链子
+bond|n. [U] 法律领域可指保释金，但尤用于北美
+book|vt. 警察因某人可能犯罪而将其记录在案，为非正式用法
+boost|vt. [美，非正式，正变得过时] 偷窃
+boot|n. [C] [美] 相当于clamp：用于锁住非法停放之车辆的轮子的一种装备（使其开不走），即车轮夹锁
+box|n. [C] 法庭中的专席（均与其他人的座位分开）
+breach|n. 1 [C, U] ~ of sth 对法律、规则、纪律等的违背、违犯
+break|vt. 做违法的事
+brief|n. 1 [C] [英] 向律师提供的一份案情说明（以使其能够在法庭上进行辩护）
+brief|n. [C] [英] 辩护律师所做的委托辩护工作
+brief|n. [C] [英，非正式] 一个事务律师（solicitor）或一个辩护律师（defence lawyer）
+brief|vt. [英] 法律领域可指向律师（尤指辩护律师barrister）提供案情摘要（即关于案件的主要事实），以使其在法庭上进行辩护
+bring|vt. bring sth (against sb) 正式起诉某人（犯了某罪）。虽然是一个简单用词，不过也很常用
+brothel|n. [C] 妓院
+bully|n. [C] 仗势欺人者、横行霸道者
+burglar|n. [C] 非法进入建筑物实施盗窃的人，即入室窃贼
+burglary|n. [U, C] 入室偷盗罪
+bust|vt. [非正式] ~ sb/sth (for sth)（警方）突然进入一个地方逮捕某人
+cadet|n. [C] 警校学员
+can|n. [sing.] [美，俚] 监狱，班房，牢房
+cane|n. [C] 旧时学校用于惩罚学童的竹杖，藤条
+cane|vt. 用藤条或竹子鞭打孩子（作为惩罚）
+capital|adj. 只作前置定语，涉及死罪的，可处死刑的
+captain|n. [C] 美国警察局的副巡官或美国消防署的中队长，可以是头衔
+captive|n. [C] 人质
+captive|n. [C] 囚徒
+captivity|n. [U] 被监禁、关押或困住的状态
+capture|n. [U]（被）俘获、（被）捕获
+case|n. 1 [C] 官方（尤指警方）调查的案件
+case|n. [C, usually sing.] case (for/against sth) 在审判活动中用以支持一方的一系列事实或论据。case此时的含义比evidence要广，evidence仅表示“证据”，但case包括了为说服法官和陪审团所提出的所有理由、事实、证据等
+cause|n. [C] 诉诸法庭的案件，即诉讼案。cause强调在原告（该原告是一个尊重法律的人）看来对其有利的“诉讼案”，原告发起一个cause的目的暗含着对正义的追求。在用法搭配上，可以说一个action或suit被commenced（即诉讼被“提起”），但是一个cause（而非action）则通常被tried（即案件被“审理”）
+cell|n. [C] 监狱或警局看守所的一间牢房
+chair|n. [sing.] [美，非正式]（尤指美国用于处决犯人的）电椅；也可指此种电刑
+charge|n. [C] 突然猛冲或暴力猛攻
+charge|vt. charge sb (with sth/with doing sth) 正式控告或起诉
+charter|n. [C] 说明某个组织机构（或某一群人）之权利、宗旨或原则的一种官方文件，常称为宪章、章程
+chase|vt.&vi. ~ (after) sb/sth 为抓住某人或某事物而奔跑、驾驶等，即追赶、追逐、追捕
+chastise|vt. [旧时] 体罚某人
+check|n. [C] 也可用check mark，用于美式英语，指车票、入场券等票券
+check|n. [pl.] [正式] 对一个人或一群人所拥有的权力（尤指政治权力）的大小进行约束的规定、条令。政治色彩较强
+circuit|n. [C] 法官在某一地区的各个法院所进行的审判，即巡回审判
+citation|n. [C] [美]（法院的）传唤
+citation|n. [C] [美]（法院的）传票
+cite|vt. [正式] [法律] 传唤、传讯（某人出庭）
+civil|adj. 只用于名词前，民事的（非刑事的）
+clamp|n. [C]（也可用wheel clamp）[均英] [美式用Denver boot或boot]（将违章停放的车辆扣在原地的）车轮夹锁
+clause|n. [C] 法律文件等的条款
+clean|adj. 1 虽然也可指清白，但强调的侧面则是无犯罪记录，守法
+clear|adj. 清白无罪的。强调有良心或问心无愧。算是一个简单用词
+clerk|n. 1 [C] 法庭的书记员
+clue|n. [C] ~ (to sth)（帮助警方破案的）线索
+code|n. [C] 国家或大型机构的法典；法规
+collar|vt. [非正式] 紧紧抓住或逮住某人（使其不能逃走）
+collateral|n. [U] [金融] 为获取借款而付出的抵押物（如房产或其它贵重物品）
+commander|n. [C]（缩写为Cdr）（英国的）伦敦高级警官
+commission|n. [U] [正式] 做出（错事）、犯下（罪行）
+commissioner|n. [C] [美式英语中也可用police commissioner] 警察局长、警长
+commit|vt. commit a crime, etc. 做出错事或非法的事，即犯错，犯罪。是此义的基本用词
+commit|vt. 把某人送交法庭受审
+commute|vt. ~ sth (to sth) [法律] 减刑
+compensate|vt. compensate sb (for sth) 给予某人钱物补偿或赔款，即经济补偿。是此义的常规用词
+compensation|n. [U, C] ~ (for sth) 因自己（或自己拥有的事物）遭到损害所得到的补偿或赔偿，尤指赔偿的金钱；也可指补偿或赔偿的行为
+competence|n. [U] 一个法庭（组织机构、人）在处理某事时所具有的权力，可称为权限
+complaint|n. 1 [C] ~ (about/against sb/sth) / ~ (that…) 投诉、控告
+composite|n. [C] [美] 相当于Identikit，即艾登蒂基特容貌拼图（根据目击者描述拼制出人的面部像，尤指警方要捉拿的人）
+con|n. [C] [非正式] 已被定罪并投入监狱的罪犯，相当于convict
+concession|n. [C, usually pl.] [英]（通常指针对老人、学生和失业人员的）减价票
+concession|n. [C]（尤指由政府或雇主给予的）特许权
+condemn|vt. 1 condemn sb (to sth) 表“宣判”时，一般是做出惩罚性判决（而非做出无罪判决），如宣判某人有罪，尤指宣判死刑；宣告某项财产（如土地）收归国有；宣告某建筑物不适宜居住；判定食品、饮料等不适宜食用、饮用或消费；海商法中可指判决船只被没收充公、判决为战利品、或判决船只不适于使用或航行。与sentence多有交集，常用被动式
+condition|n. [C] 你必须遵守的一项规则或决定，有时构成一份合同（或一份正式协议）的一部分，此时可称为条件、条款、要件
+confine|vt. [常用被动式] ~ sb/sth (in sth) 关押在一个小的（或封闭的）空间
+confinement|n. [U] 被迫停留在一个封闭的空间、监狱等的状态；也可指把某人置于此种状态的行为。如禁闭、监禁、关押
+constable|n. 1 [C]（英国等国家中最低级别的）警察、警员，相当于police constable
+constitution|n. [C] 一个国家或机构的宪法，章程
+contest|vt. 正式反对一个决定或陈述，如争辩、提出异议
+contingent|n. [C]（警队的）分队
+contravene|vt. [正式] 违犯法律；违反规则
+contravention|n. [U, C] 对法律或规则的违犯或违反
+convict|n. [C]（也可用非正式的con） 已被判决有罪并被送进监狱的一个人，即已决犯、服刑囚犯
+convict|vt. [常用被动式] ~ sb (of sth)（在法庭上）裁定并正式宣布某人有罪
+conviction|n. [C, U] ~ (for sth) 判罪、定罪；被证明有罪
+cop|n. [C] [非正式] 警察
+copper|n. [C] [英，非正式] 警察
+copyright|n. [U, C] ~ (in/on sth)（文字作品、音乐等的）版权；著作权
+coroner|n. [C] 验尸官
+correction|n. [U] [旧时] 惩罚，处罚
+cost|n. [C] 复数形式costs可指某人在一个案件中付给律师等的诉讼费用
+counsel|n. [C, U] [法律] 在法庭上代表某人的一个或一群律师
+counsellor|n. [C] [美，爱尔兰] 律师
+count|n. [C] 某人被指控所犯下的罪行
+court|n. 1 [C, U] 法院，法庭
+cover|vi. 包庇（做秘密或非法事情的人）。是此义的一个基础用词。但并不强调采用何种方法来包庇
+crime|n. 1 [U] 违反法律的活动，即犯罪活动
+criminal|adj. 1 常作前置定语，与犯罪有关的，涉及犯罪的
+criminal|n. [C] 一个犯罪的人，即罪犯
+crook|n. [C] [非正式] 不诚实的人，如罪犯
+crown|n. [sing] the Crown可指英国刑事案件中的公诉人
+cruelty|n. [C, U] 不公的事情
+culprit|n. [C] 犯错的人；犯法的人
+custody|n. [U] 法律上对某人或某事物的看管权，如监护权、保管权。也可指看管某人或某事物的行为
+custody|n. [U]（尤指在候审时的）拘留、羁押
+cut|vt. cut sth (with sth) 把毒品（如海洛因等）与另一种物质混合
+damage|n. [pl.] damages 可指法院判定的由特定的人、公司等赔偿给某人的一笔钱（因赔偿方对此人造成了伤害），即损害赔偿金。是此义的常规用词，极为常用
+deal|vt.＆vi. 买卖毒品，贩毒
+dealer|n. [C] 贩毒者
+decide|vt.＆vi. decide (for/against sb)做出正式裁决或法律裁决。是一个广义概念，即对法律问题进行考量后做出决定。既可指终局判决，也可指中间裁决。做出裁决的主体通常是法院，但也包括仲裁机关、行政机关或委员会等
+decree|n. [C] 法院的裁定、判决
+defend|vt.＆vi. 在法律上为…辩护，当辩护律师
+defendant|n. [C] [法律] 被告人
+defender|主要指“辩护人”，其中就包含“辩护律师”。
+delinquency|n. [U, C]（通常指青少年的）恶劣行为或违法犯罪行为
+delinquent|adj.（尤指青少年或其行为）有犯罪倾向的
+demon|n. [C] 强大的恶人，如魔头
+den|n. [C] [贬] 窝点，尤指非法或邪恶活动的秘密聚会处
+denounce|vt. 向警方或当局告发、检举（某人的非法政治活动）
+denunciation|n. [C, U] 告发、检举
+deposition|n. [C] 法律上指未出庭的人（如罪案的目击证人）所提供的一份正式的书面陈述，可用于法庭作为证人陈述，可称为书面证词
+deputy|n. [C]（在美国）协助地方治安官办案的警官
+dereliction|n. [U, sing.] [正式或法律] ~ of duty 在自己的职责范围内没有尽职，即玩忽职守、渎职
+detain|vt. 扣留、拘留（在警察局、监狱）
+detainee|n. [C] 通常因政治主张或政治活动而被拘留或扣押的一个人
+detective|n. 1 [C] 以侦查犯罪和逮捕罪犯为职业的人，即侦探，尤指警探
+detention|n. [U] 拘留、扣押、监禁
+determine|vt. [正式] 裁决，一般是最终判决（但是初审法院做出的此种判决可以上诉）。具有古语的味道
+dirty|adv. [非正式] play dirty 可指行为（或在比赛中）不公平
+discipline|n. [U] 纪律、风纪
+discipline|vt. ~ sb (for sth)（为某人的所作所为）惩罚某人
+dismiss|vt. 驳回（或不受理）法律案件，通常由于证据不足
+dismissal|n. [U, C] [法律] 诉讼的驳回、不予受理（通常因为证据不足）
+do|vt. [英，非正式] do sb (for sth) 惩罚某人
+do|vt. [非正式]（从某个地方）偷窃、偷盗
+dock|n. [C] 法庭的被告席
+effective|adj. [正式]（法律、协议、规则等）生效的、起作用的
+embezzle|vt.&vi. 盗用、挪用、偷取自己所负责（或自己的雇主）的钱
+enactment|n. [U, C] [法律] 制定出来的法律、法规
+enactment|n. [U, C] [法律]（法律在议会或其它立法机构的）制定、通过
+enormity|n. [C, usually pl.] [正式] 非常严重的罪行，如滔天罪行；罪大恶极
+entrant|n. [C] ~ (to sth) 新警员
+equity|n. [U] [正式] 公平、公正（即每个人均受到公平对待的一种情况）
+equity|n. [U] [法律，尤英] 衡平法
+etiquette|n. [U]（尤指特定行业的）行为规范，规矩
+evidence|n. [U] 法庭上的证据。是此义的常规用词，极为常用
+examine|vt.（尤指在法庭上）正式地问某人一些问题，即审问、查问
+exhibit|n. [C]（在法庭上出示的）物证，证据
+exile|n. 1 [U, sing.]（通常因为政治原因或作为一种惩罚而进行的）流放、放逐、流亡
+extradition|n. [U, C]（对嫌犯或罪犯的）引渡
+fair|adj. fair (to sb) 根据规则或法律而对所有人一视同仁，即公正的，反义词为unfair
+fairness|n. [U] 公平、公正、公道
+felon|n. [C] [尤美，法律] 重罪犯
+felony|n. [C, U] [旧时，法律] 严重的罪行（如谋杀、强奸、持械抢劫等）
+fence|n. [C] [非正式] 买卖偷盗而来的赃物的罪犯，可叫做销赃贩
+fetter|n. [pl.] fetters 尤指旧时囚犯所戴的脚镣
+fight|vt. fight sb (for sth) 和某人打官司，是一个形象化用词
+file|vt.＆vi. file (for sth) 法律上可指呈交…（以使其能够得到正式记录或处理），如提起诉讼、投诉或提出请求。较为正式
+find|vt.＆vi. [正式]（法庭上）判决，裁决
+finding|n. [C] [法律] 法官在法庭上的判决或裁决
+fine|n. [C] 由于破坏法律、法规或规则而被处以的罚款、罚金
+finger|vt. [尤美，非正式] finger sb (for sth) / finger sb (as sth) 向警方告发某人
+fix|vt. [非正式] 常用被动式，以不诚实、不公平的方式操纵某事的结果，如操纵比赛、选举、价格等
+fix|vt. [非正式] 惩罚对你造成伤害的人，使其不再对你造成伤害，即收拾
+flog|vt. [常用被动式]（用鞭子或棍子）多次击打某人（以作为惩罚）
+force|n. 1 [U] 武力，肢体力量
+force|n. [U] 权威所赋予的效力
+forgery|n. [U] 伪造钱币、文件等的罪行
+front|n. [C, usually sing.] front (for sth) 非法（或秘密）组织（或活动）的庇护者，可以是一个人，也可以是一个组织
+fugitive|n. [C] ~ (from sb/sth) 逃跑者、逃亡者
+funny|adj. [非正式] 可疑的；可能非法的；可能不诚实的
+gangster|n. [C] 一个有组织的犯罪群体中的一员，如黑帮成员
+gas|n. [U] 警察用来控制人群的瓦斯
+gentleman|n. [sing.] [美] 对立法机构（如众议院）男性议员的称呼，即先生，阁下
+get|vt. 抓住某人（尤指为了惩罚他们）。是一个简单用词
+get|vt. 无被动式，指受到或遭到（惩罚）（其本身并不表示“惩罚”，而是表示“受到惩罚”中的“受到”，或称“遭到”，其后面此时需要接表示具体“惩罚”的名词）
+give|vt. give sth to sb / give sb sth 使某人受到某一惩罚（其本身并不表示“惩罚”，而是表示“施与惩罚”中的“施与”，或称“给予”，其后面此时需要接表示“惩罚”的名词）
+give|vt. 赋予（权利）
+good|adj. good for sth（对某事物来说）有效的（valid）。表此义时不太常用
+grievance|n. [U, C] 让人申诉的不平之事
+ground|vt. 常用被动式，惩罚儿童，不让其出门与朋友玩
+guarantee|vt.＆vi. 承诺为某事（或为做某事）负法律责任，即担保
+guardian|n. [C] 某人的合法监护人，尤指双亲已故孩子的监护人
+guardianship|n. [U] [法律] 对某人或某事物的监护，或监护人的身份
+guilt|n. [U] 犯罪、有罪、罪行
+guilty|adj. 1 guilty (of sth) 犯了罪的；为某件坏事负责任的，即有过失或罪责的
+gun|n. [C] 非正式用法，尤用于北美，指受雇杀人的枪手
+handcuffs|n. [pl.] 手铐
+hang|vt.＆vi.（hanged, hanged）绞死，或被绞死；或施以绞刑，被施以绞刑
+haul|n. [C]（警方或海关查获的）大批被盗物品；大量非法物品
+haul|vt. [常用被动式] ~ sb (up) before sb/sth 使某人出庭受审
+hear|vt.（在法庭上对案件进行）听审或审理
+hearing|n. [C]（为犯罪所举行的）听审，审讯，审理；（为投诉、事件或问题所举行的）听证会。其目的在于为争议各方（尤其是可能被剥夺权益的一方）创造陈述意见的机会。举办者可以是司法机关，也可以是立法机关或行政机关
+help|vt. [非正式，贬] help yourself to sth 未经允许而拿走某东西，即偷盗，窃取，相当于steal
+hiding|n. [C, usually sing.] [非正式，尤英]（尤指多次痛打的）体罚
+hold|vi.（法律、法规等）有效
+hold|vt. 监禁，拘留，扣押。是一个静态过程，而非“逮捕”那种动态过程
+hold-up|n. [C] [美式英语尤用stick-up] 持枪抢劫
+honourable|adj.（缩写为Hon）对某些法官的尊称，用于其头衔之中
+hood|n. [C] [俚语，尤美]（尤指属于某团伙的）暴徒，恶棍。相当于hoodlum
+hooligan|n. [C] 在公共场合叫嚷且暴力的一个年轻人，通常拉帮结伙，即小流氓、阿飞
+hostage|n. [C] 人质
+hunt|vt.＆vi. hunt (for) sb 寻找某人（将其抓住或将其伤害），即追捕（罪犯或敌人等）。是一种形象化用法
+identification|n. [U] 证明身份的正式文件
+identity|n. [C, U] 人或事物的身份、本身、本体。是此义的常规和专业用词，最为常用
+illegal|adj. 不为法律所允许的，即不合法的，违法的，非法的
+illegitimate|adj. 不符合规定的；非法的
+impartial|adj. 不支持任何一个人或群体的，即公正的、中立的、不偏不倚的
+impartiality|n. [U] 不公正
+impeach|vt. ~ sb (for sth)（尤指在美国，法院或其它官方团体）控告一个重要的公众人物犯有某项严重罪行，常称为弹劾
+impinge|vi. [正式] ~ (on/upon sth/sb) 对…有明显作用（或影响），尤指有坏的作用（或影响），如侵犯
+imprison|vt. [常用被动式] 监禁；关押（在监狱中或其它地方）
+imprisonment|n. [U] 监禁、关押（在监狱中或其它地方）
+incarcerate|vt. [常用被动式] [正式] ~ sb (in sth) 将某人关押或监禁在一个地方（如监狱里）
+incident|n. [C, U] 一次严重或暴力事件，如犯罪、事故或袭击。其词义已经包含了accident，可以说accident是一种incident
+indict|vt. [常用被动式] [尤美，法律] ~ sb (for sth) / ~ sb (on charges/on a charge of sth) 正式控告或起诉（某人有罪）
+indictment|n. 1 [C] [尤美] 刑事起诉书
+indictment|n. [U, C] [尤美] 控告
+infraction|n. [C, U] [正式] 对规则的违反、对法律的违犯
+infringement|n. 1 [U, C] 对他人权利的侵犯
+initiation|n. [U] [正式] 诉讼的发起
+injustice|n. [U, C] 不公正、不公平
+inmate|n. [C]（监狱的）一个居住者
+innocence|n. [U] 无罪、无辜、清白
+innocent|adj. 1 innocent (of sth) 没有犯罪或犯错的，是此义的常规用词
+inside|adv. [非正式] 在监狱里
+inspector|n. 1 [C]（缩写为Insp）（英国警察中职位低于警司高于巡佐的）巡官、督察
+instruct|vt. [法律] 雇某人（尤指律师）代表你处理法律事宜，即委托
+instrument|n. [C] 正式法律文件
+intern|vt. [常用被动式] ~ sb (in sth)（战争期间或由于政治原因）未经审讯而拘留，禁闭，关押
+intrude|vi. ~ (on/into/upon sth) 侵犯别人的私生活
+intrusion|n. [U, C] ~ (into/on/upon sth) 对一种情况（或人们的生活）造成侵扰的事物
+invade|vt. 以一种烦人的方式侵犯别人的私生活
+invasion|n. [C, U] 对某人或某事的侵扰、侵犯
+iron|n. [pl.]（尤指旧时）囚犯所戴的铁制镣铐
+irregular|adj.（行为）欺骗性的；不正常的；不正当的；不合乎常规的
+irregularity|n. [C, U] 不合乎常规的行为；不正当的做法；不正常的做法
+item|几乎是法律文件中编号层级最低的“条目”。是clause的一种，但是clause不能用作编号。
+jail|n. [U, C] 监狱
+jail|vt. [常用被动式] ~ sb (for sth) 将某人监禁
+job|n. [C] 罪行，尤指偷窃罪，为非正式用法
+judge|n. [C] 法官。是此义的常规用词，最为常用（还可指广义上的“仲裁员”，此时与referee有明显交集）
+judge|vt. 在法庭上做出审判
+judge|vt. 在法庭上做出裁决。需要注意的是，该词一般只强调“裁决”或“判决”、“宣判”环节，而并不表示整个审理过程
+jump|vt.＆vi. [非正式] jump (on) sb突然袭击某人
+jurisdiction|n. 1 [U, C] [正式] ~ (over sb/sth) / ~ (of sb/sth) (to do sth)（官方组织所具有的）司法权；审判权；管辖权
+juror|n. [C] 陪审团成员，陪审员
+just|adj. 常作前置定语，大多数人在道德上认为…是公平的、合理的、正义的，相当于fair
+justice|n. 1 [C] [美] 法官，也用作称谓
+justice|n. 1 [U] 对人的公平或公正对待，即公平，公正
+justice|n. [U] 用于惩治罪犯的法律制度，即司法、审判
+kidnap|n. [U, C] 绑架罪
+kidnap|vt. 绑架、劫持某人（以让对方缴纳赎金来交换人质）
+kosher|adj. [非正式] 诚实的；合法的
+lash|vt.（用鞭子、绳子、棍子等）抽打一个人或动物
+law|n. 1 [U] 一国或一个社会的整体的法律体系
+lawbreaker|n. [C] 不守法者
+lawful|adj. [正式] 为法律所承认或允许的，即合法的
+lawsuit|n. [C] 诉讼、起诉
+lawyer|n. [U] 律师，即拥有专业法律资质，向人们提供法律咨询，并在法庭上代表原告或被告的人
+lead|n. [C]（可能会有助于找出关于某情况的事实或实情的）一则信息，尤指有关犯罪的线索，此时相当于clue
+legal|adj. 只作前置定语，与法律相关的，即法律的
+legal|adj. 被法律所允许或要求的，即合法的，法律所要求的
+legality|n. [C, usually pl.]（某行为或情况的）法律方面
+legality|n. [U] 合法；合法性
+legislation|n. [U] 法律的制定和通过的过程，即立法
+legislation|n. [U] 议会通过的一部（或一系列）法律、法规
+legislature|n. [C] [正式] 立法机关
+legitimate|adj. 1 合法的
+licit|adj. [正式] 被准许的或合法的
+life|n. [U] 无期徒刑，终身监禁
+lift|vt. 1 [非正式] lift sth (from sb/sth) 偷盗、盗窃
+litigate|vt.&vi. [法律] 提起诉讼、打官司
+litigation|n. [U] [法律] 诉讼；打官司
+litigator|n. [C] 帮助某人进行法律诉讼的一个律师，即诉讼律师
+litigator|原指“庭审律师”（相当于trial lawyer，专门从事民事诉讼业务）。但“在现代美国，庭审前的披露程序（discovery）越来越无尽无休，litigator逐渐倾向于指从事民事诉讼业务但却从不上法庭的律师。因此现在litigator仅准备披露请求，而‘庭审律师’则由trial lawyer来表示”。（主要参照《元照英美法词典》）
+loot|n. [U] [非正式] 被盗贼窃取的钱或物品，即赃物、被盗物
+loot|vt.&vi.（战争、暴乱、火灾等发生时或发生后）劫掠商店或民宅
+magistrate|n. [C] 最低等级的法院中（处理轻罪或纠纷的）的法官
+majority|n. [U] 成年的法定年龄
+make|vt. 制定（规则、法律等）
+malefactor|n. [罕用；正式] 做错事的人；做道德上的坏事的人；违法的人
+manor|n. [sing.] [英，俚语] 归某人负责的一片工作区，尤指警察的管辖区
+marshal|n. [C] 一些美国城市的警察局长或消防局长
+marshal|n. [C] 美国法院的执行官（负责法律的执行）
+maul|vt.（动物）通过撕咬来袭击或伤害某人
+minority|n. [U] 法律上可指处于未成年的一种状态
+misappropriate|vt. [正式] 将别人的钱财或财产据为己有，通常此人因为信任你而将这些钱财或财产交托给你照管。可称为私吞、挪用
+misconduct|n. [U] [正式] 不可接受的行为，尤指专业人士的失职、行为不端、处理不当
+misdeed|n. [usually pl.] [正式] 恶行、不端行为
+mob|n. [sing.] [非正式] the Mob可指犯罪团伙；黑手党
+mobster|n. [C] 有组织犯罪（常为暴力犯罪）的一群人中的一员，可称为犯罪集团分子、黑社会成员
+monster|n. [C] 非常残忍而邪恶的一个人
+mortgage|vt.（根据按揭贷款协议向银行等机构）抵押（房产、土地等）
+mug|vt.（尤指公开地）暴力抢劫、打劫（为抢取财物）
+mule|n. [C] [俚语] 赚取佣金的非法越境运毒者
+murderer|n. [C] 蓄意且非法杀害别人的一个人，即谋杀犯
+nail|vt. [非正式] 抓住某人并证明其有罪（或证明其做了坏事）
+nest|n. [sing.] 坏人藏匿或在其中活动的一个秘密地点，即窝点
+neutral|adj. 1 在分歧、竞争等处境中不支持任何一方的，即中立的
+neutrality|n. [U]（在协议、竞争或战争中的）中立状态（即不支持任何一方）
+neutralize|vt. 使一个国家或地区中立
+novel|n. [C] 一部新的法令；或一部现存法律的修正案
+nuisance|n. [C, U] [法律] 某人对别人造成妨害的行为
+offend|vi. [正式] 犯罪、犯法
+offender|n. [C] 犯罪者、罪犯
+officer|n. 1 [C] 常用作称谓，相当于police officer。既可表示“警官”（是“警官”的基础通用词），也可表示“警察”
+one-sided|adj. [贬]（论点、观点等）片面的、偏颇的、不公正的
+onslaught|n. [C] ~ (against/on sb/sth) / ~ (of sth) 猛烈或暴力的攻击
+operative|adj. [名词前不常用]（法律等）生效的
+ordinance|n. [C, U] [正式] 政府或当权者制定的法令或规则
+outlaw|n. [C]（尤指在过去的年代）犯了法而躲避或逃跑的人；不受法律保护的人（即被剥夺法律权益者）
+outlaw|vt. 使某事物或某事非法，宣布…不合法
+p.c.|n. [C]（英式英语）Police Constable的缩写，表示级别最低的警务人员，即警察；警员
+paddle|n. [C] [美] 用于惩罚儿童的一片有柄的木头，可以叫戒尺
+paddle|vi. [美] 用一片木头打孩子来作为惩罚
+panel|n. [C]（也可用jury panel）[panel和jury panel均尤美] 陪审团
+party|n. [C] 法律上的“当事方”（如诉讼当事人、合同当事人等）。可以是一个人，也可以是一个组织。是表示此义的常规用词，也是一种正式用法，如
+patent|n. [C, U] 专利权；专利证书
+patrol|n. [C] 警察巡逻队、巡逻车队、巡逻船队
+penalize|vt. ~ sb (for sth)（因犯错或犯罪而）处罚、惩罚、处以刑罚
+penalty|n. [C] ~ (for sth)（对犯罪、违反罪责、违反合同、犯错等实施的）惩罚、处罚、刑罚
+perjury|n. [U] [法律] 伪证罪
+physical|adj. [非正式] 暴力的，粗暴的，是violent的一种委婉说法
+pick|vt. 不用钥匙而打开锁头（如小偷用铁丝撬锁）
+pilfer|vt.&vi. ~ (sth) (from sb/sth) 偷窃没什么价值的东西或很少的东西，即小偷小摸，尤指员工偷窃
+pinch|vt. [旧时，英式，非正式] 逮捕某人
+pinch|vt. [英，非正式] ~ sth (from sb/sth) 偷窃，尤指偷小且没什么价值的东西，如小偷小摸
+pirate|n. 1 [C]（尤指旧时的）海盗
+pirate|vt. 对某人的作品的非法复制或使用，如盗印、盗用
+plagiarize|vt.&vi. [贬] 剽窃、抄袭别人的想法、观点、文字或作品
+plaintiff|n. [C] [法律] 原告、起诉人
+plant|n. [C, usually sing.] [非正式] 用来栽赃的物品
+plea|n. 1 [C] [法律]（被告或被告律师在法庭上表明对于被指控的罪名服或不服的）答辩、辩护、抗辩
+plead|vt. 向法庭陈述案情
+plead|vt.&vi. 在法庭上作有罪或无罪答辩
+pledge|n. [C] 用于抵押或质押的一笔钱或重要物品
+poach|vt.&vi. ~ (sb/sth) (from sb/sth)（尤指秘密地、耍手段或不公平地）侵犯职权等
+poach|vt.&vi. ~ (sb/sth) (from sb/sth)（尤指秘密地、耍手段或不公平地）窃取资料、盗用想法等
+police|n. [pl]（通常用the police）警察部门，是一种警务组织，也可叫警方；还可指在警察局工作的一个人，即警察。是此义的基础通用词
+post|vt. [尤美] post bail/(a) bond 向法院交纳保释金（这样犯人就能在审判前不必待在看守所而自由行动）
+precinct|n. [C] [美] 城镇中的一片警区；分区警察局、分区派出所
+prerogative|n. [C] [正式]（某人或某个群体因其重要性或社会地位所具有的）特权、独有的权力
+prescribe|vt.（当权者、当局、法律、规则）规定、命令、指示
+presence|n. [sing.] 被派到某地去处理事情的一群警察
+principal|n. [C] [术语]（尤指在法律事务中）你所代表的一个人，即当事人，委托人
+prison|n. 1 [C, U] 监狱，看守所，相当于jail。是此义的基础和常规用词，最为常用
+prisoner|n. 1 [C] 囚犯，或被羁押等候审判者
+privilege|n. 1 [C] 某个人或团体所拥有的一种特殊权利
+privileged|adj.（有时贬）有特权的
+probation|n. [U] [法律] 缓刑制度；缓刑
+proceeding|n. [C, usually pl.] [正式] ~ (against sb) (for sth) 诉讼；诉讼程序
+procure|vt. 给妓女介绍客户，即拉皮条
+proof|n. [U, C] ~ (of sth/that…) 法律上的证据
+proposition|n. [sing.]（也可用Proposition）（美国）法律修正议案
+prosecute|vt.&vi. ~ (sb) (for sth/doing sth) 正式起诉某人（某项罪行）
+prosecution|n. [U, C]（被）起诉、检举
+prosecution|n. [sing.] the prosecution可指原告、控方（包括原告和控方律师等）
+prosecutor|n. [C] 公诉人、检察官
+prosecutor|n. [C] 原告律师、控方律师
+prosecutor|主要指“检控方（如检察官、公诉人、自诉人）”，个别情况下可指“控方律师”（不过表此义时极不常用）。
+provide|vt. [正式]（法律或规则）规定某事将发生或规定其必须发生，即规定，相当于stipulate
+provision|n. [C]（法律文件的）条款
+provision|n. [C]（法律文件的）规定
+provision|也可翻译为“条款”（或“规定”），但作为clause的一种，provision一般表示原始性条款（grandfather clause）。它可以衍生出一些派生条款，并对这些派生条款起到限定作用。当不确定一个clause是否是provision的时候，只要用clause就可以了，因为clause可指任何类型任何长度的“条款”。
+pull|vt. [非正式]（对某人耍手腕）得逞；已犯下（罪行）等
+punish|vt. 1 punish sb (for sth/for doing sth) 使某人因犯罪或犯错而遭到处罚，即惩罚。是此义的常规用词，极为常用
+punishment|n. [U, C] punishment (for sth) 对某人所进行的惩罚，处罚，可以是惩罚的过程，也可以是惩罚的结果。是此义的常规用词，极为常用
+pursuit|n. [U] 对某人的跟随或追赶
+push|vt. [非正式] 贩卖毒品
+rack|n. [C]（通常用the rack）旧时的拉肢刑具
+racket|n. [C] [非正式] 对钱财的不正当（或非法）获取，即非法的赚钱勾当
+raid|n. [C] ~ (on sth) 犯罪分子对建筑物等的突袭，如打劫
+rank|n. 1 [C, U] 警察等组织中某人所具有的级别，即警衔
+ransack|vt. ~ sth (for sth) 为找东西而把某处翻得乱七八糟（且造成损坏），如洗劫
+rap|n. [C] [美，非正式] 罪名；刑事责任；判刑
+rape|vt. 强奸
+rapist|n. [C] 强奸犯；实施强奸者
+rat|vi. [非正式] rat on sb 把某人做的坏事向当局告发
+rebound|vi. ~ (on sb) [正式] 某人对别人所做的坏事报应于（或反作用于）自己
+receive|vt.＆vi. [尤英] 购买（或接受）赃物（即你知道是被盗的物品）
+receiver|n. [C] 由法院所指定的破产公司的接管人，也可用official receiver
+receiver|n. [C] 购买（或接受）被盗的物品（即赃物）的人
+recompense|n. [U] [正式] ~ (for sth/sb)（对不幸遭遇的）赔偿（常指经济赔偿）
+record|n. [C] 以前的犯罪记录，即前科，也可叫criminal record
+recorder|n. [C] 在美国可指“法律文书登记官”，是一种被任命记录或登记契据和其它法律文书的官员
+recorder|n. [C]（英国和美国一些地区的）法庭的法官
+recruit|n. [C] 新警员
+redress|n. [U] [正式] ~ (for/against sth)（因受害而获得的）赔款
+referee|n. [C] 争端的调解人，仲裁员
+regulation|n. [C, usually pl.] 由政府或其他当权者制定的正式或官方规则，即规章，规定
+reimburse|vt. [正式] ~ sb (for sth) 补偿（某人损失的钱）
+reinforcement|n. [pl.] reinforcements可指被派到某地的（警队的）增援警力
+relax|vt. 放宽规则、法律等限制（使其不再那么严格）
+relaxation|n. [U, C, usually sing.]（对规章制度或管控措施的）放松、放宽
+relaxed|adj. ~ (about sth) 不用纪律加以约束的，或不用让人们遵守规则的
+remand|vt.&vi. [常用被动式] 将（嫌疑人从法庭上）还押候审；使某人取保候审（即被保释以等待审批）
+remedy|n. [C] [法律] ~ (against sth)（通过法律程序获得的）补偿、赔偿
+report|vt. report sth (to sb) / report sb (to sb) (for sth/for doing sth)（向当权人士）举报或告发（罪行、某人所做的坏事等）。是“报案”的常规用词
+reprieve|vt. [常用被动式]（通常不用于进行时）官方撤销…的死刑；官方延缓…的死刑（即缓期执行死刑）
+reserve|vt. 持有或保留某种权利
+retribution|n. [U] [正式] ~ (for sth)（对某人所犯的严重错误所实施的）严惩
+return|vt. return a verdict 指法官或陪审团应正式请求而“宣告”一个裁决
+reward|n. [C] 为帮助警察找到罪犯或帮助失主找回丢失物品所获得的悬赏金
+rifle|vt. 从某处偷窃、盗取某事物
+right|n. 1 [C, U] right (to sth / to do sth)指道德或法律上（对某事物或行为方式）的正当要求，权利
+ring|n. [C] 在一起工作的一群人（尤指秘密或非法地进行），如团伙，集团，帮派等
+rob|vt. rob sb/sth (of sth) 对一个人或地点进行抢劫或盗窃
+robber|n. [C] 劫匪、抢劫犯、强盗
+robbery|n. [U, C]（尤指通过暴力手段）从银行、商店、人的身上盗取钱财或物品的一种罪名，如抢劫
+rod|n. [C]（也可用the rod）[旧时] 责打人用的棍棒
+rough|adj. 1 不温柔或不小心的，粗暴的，粗野的，猛烈的。如果说violent强调力量之大且突然，那么rough则强调行为的性质之粗野
+rule|n. [C] 在某个情况、活动或游戏中所遵循的规则
+rule|vt.＆vi. rule (on sth) 既可指对某事做出官方决定或裁定，是一种正式用法，与pronounce近义；也可指裁决（庭审中的）一个争议点
+ruling|n. [C] ~ (on sth) 当权者（尤指法官、法院）作出的正式裁决、判决
+run|vi. run (for sth) 在一段时间内有效
+runner|n. [sing.] 用于构成复合词，走私者；偷运者
+running|n. [sing.] 构成复合词，指（毒品、枪支等的）走私、偷运
+rustle|vt. 偷窃牲口
+sack|n. [sing.] [正式]（通常用the sack）（在攻陷的城镇中的）抢劫，劫掠或毁坏房屋
+safe|adj. 在法律上可指基于确凿证据的
+sanction|n. 1 [C, usually pl.] ~ (against sb)（对一国所实行的贸易等领域的）制裁
+savage|vt. [常用被动式]（动物）凶恶地攻击某人（造成重伤）
+say|n. [sing., U] say (in sth) 在某事尚未决定前，发表观点以影响该事件或决定的权利，如发言权或决定权（在“发言权”之义下与voice相近，只不过say的使用范围更广一些，而voice则更正式一些）
+scaffold|n. [C] 断头台；绞刑架
+scalp|n. [C] [非正式] 对…的惩罚，（表示某人已被打败或已受到惩罚的）标志
+screen|vt. screen sb from sb/sth 保护某人使其免遭危险或不愉快，尤指保护犯法或不道德的人，即包庇，袒护，相当于shield
+seal|n. [C] 印在一份文件上的印章或图章，该图案带有某人或某个机构的权威性，也因此而表明了该文件的真实性
+section|n. [C] 条款
+secure|vt. 借贷中可指抵押
+security|n. [U, C] 贷款的抵押品
+seize|vt. 1 逮捕、俘虏或捉拿某人。是此义的常规且专业用词
+seizure|n. [U, C] ~ (of sth) 利用法律所赋予的权力拿走某人的东西，如起获、没收、充公；也可指一定数量的被起获、没收或充公的事物
+self-defence|n. [C] 自我辩护
+sentence|n. [C, U] 法庭上所做出的判决，且专指刑法上的有罪判决，通常是法官（而非陪审团）对经过审理而被定罪的刑事被告人所做出的判决。是此义的常规用词，极为常用
+serve|vt. serve sth (on sb) / serve sb with sth 法律中可指把官方文件送达某人，尤指送达要求对方出庭的文件
+serve|vt.（在监狱中）服刑一段时间
+service|n. [U] 法律中可指官方文件等的正式送达（即交给某人）
+session|n. [C] 法庭开庭处理业务的一段时间。狭义上可指每日的“开庭期”或“庭审期”；但在广义上也可指从第一次开庭到最终休庭之间的整个时间段（此期间也许包括若干天、若干周，甚至更长的时间），在此意义上与term或sitting同义，很多权威人士都将session与term作为同义词而互换使用
+settlement|n. [C] 和解补偿金
+shackle|n. [p.] shackles 可指（囚犯的）镣铐、手铐、脚镣
+shield|n. [C] 警察用的高强度塑料防暴盾牌
+shield|vt. 包庇、窝藏
+shop|vt. shop sb (to sb) 在英式非正式用法中可指告发某人犯罪了，尤指向警察告发
+shoplift|vt.&vi. 在商店行窃（即在商店里把货品藏在包里或衣服里而偷走）
+shoplifting|n. [U] 冒充顾客在商店行窃（罪）
+silk|n. [C] [英] 代表政府（即国王或女王）的一种律师，即王室律师
+sit|vi.（法庭）开庭
+skim|vt. [非正式] 在一段时间内经常偷盗少量的钱
+smuggle|vt. 将货物（或人员）秘密或非法地带进（或带出）一个国家等，如走私、私运、偷运
+smuggling|n. [U] 走私（罪）
+sneak|vi. ~ (on sb) (to sb) [旧时，英，贬] 向成年人告另一个孩子的状，尤其旨在引起麻烦
+sneak|vt. [非正式] 偷走小东西或不重要的东西
+solicitor|n. 1 [C] [英]（英国向委托人提供法律咨询、准备法律文件和诉讼材料并在初级法院代表委托人出庭的）事务律师
+solitary|n. [U] [非正式] 单独监禁，单独禁闭，相当于solitary confinement
+spank|vt. 用手打屁股很多次（作为一种惩罚），尤指打小孩的屁股
+specify|vt.（尤指通过给出具体的信息）明确规定
+spoil|n. [pl.] [正式或文学] the spoils 可指被小偷拿走的赃物
+spree|n. [C]（尤用于报章）一阵犯罪活动
+squad|n. [C]（专门处理某类犯罪的）警察分队
+square|adj.（尤指在生意上）公平的
+squeal|vi. [非正式，贬] ~ (on sb) 向警方告发
+stake|n. [sing.] the stake 指木质火刑柱（以前将人绑在上面烧死作为惩罚）
+stand|n. [C] 法庭上的证人席，相当于witness box
+status|n. 1 [U, C] 一个人（或群体、国家）的法律身份
+statute|n. [C] 成文法；法令；法规
+statute|n. [C] 组织机构的章程、条例、规章
+steal|vt.＆vi. steal (sth) (from sb/sth) 偷，窃取物品，也可指剽窃观点。是“偷窃”的基本通用词，含义广泛，也最为常用
+stipulate|vt. [正式] 明确地规定（某事必须被执行或其必须以何种方式被执行）
+stipulation|n. [C, U] 规定
+stipulation|专指契约（而非其他类型的法律文件）中具有实质性内容的“规定性条款”。该词强调以契约的形式来“规定…”或“约定…”（即约定各方必须做某事，或必须不做某事）。
+stock|n. [pl.] stocks可指过去用于惩罚犯人的足枷，尤指在公共场所所戴的足枷
+stretch|n. [C, usually sing.] [非正式] 某人的服刑期
+strike|vi. 攻击或袭击人或事物，尤指突然袭击
+sue|vt.&vi. ~ (sb) (for sth)（通常为索赔而）对…提起诉讼、控告
+suit|n. [C] 法律诉讼或起诉，相当于lawsuit
+summon|vt. [正式] 传唤（某人出庭）
+summons|n. [C] [美也用citation] 法院的传唤
+summons|n. [C] [美也用citation] 法院的传票
+super|n. [C] [英，非正式]（英国的）警官；（美国的）警长
+suspect|n. [C] 被怀疑犯了罪或做错了事的人，即嫌疑人，可疑对象
+suspect|vt. suspect sb (of sth/of doing sth) 怀疑某人有罪，但没有明确证据
+swipe|vt. [非正式] 偷窃
+tariff|n. [C] [英，法律] 量刑标准
+technical|adj. 只作前置定语，与法律细节或一系列规则相关的
+tenure|n. [U]（在一个固定期间内的）房屋居住权或土地使用权
+term|n. [C, pl.] terms 可表示协议、条约等的条款
+testify|vt.&vi. ~ (against/for sb) / ~ (to/about sth)（对发生的事或某事的真实性）作证，尤指出庭作证
+testimony|n. [C, U]（尤指在法庭上的）正式的书面或口头证词
+theft|n. [U, C] theft (of sth) 偷窃，偷窃罪，盗窃案
+thief|n. [C] 小偷
+thread|n. [C] 线索
+thug|n. [C] 一个暴力的人，尤指暴力罪犯，可称为恶棍、暴徒、罪犯
+ticket|n. [C] ticket (for/to sth) 交通工具的票（如车票）、剧院等的入场券等。是“票”的基本和常规用词，含义极广，也极为常用
+tip-off|n. [C] [非正式] 举报者所提供的秘密消息
+title|n. [U, C] title (to sth/to do sth)拥有某事物的合法权利，尤指对土地或财产的所有权；还可指能够昭示这种所有权的凭证
+tort|n. [C, U] [法律] 侵权行为（不构成刑事犯罪但可引起民事诉讼）
+torture|n. [U, C]（为了惩罚某人、获取情报或迫使某人去做某事所进行的）拷打、拷问、酷刑
+tough|n. [C] [旧时，非正式] 经常对他人使用暴力的一个人，如粗暴的人，暴徒等
+trace|vt. ~ sb/sth (to sth) 通过仔细寻找而找到某人或某事物
+traffic|n. [U] traffic (in sth) 非法交易（如毒品或赃物等）
+trail|n. [sing.] on the ~ of 努力追踪或寻找某人或某事物
+transport|vt.（在旧时）把某人流放到一个遥远的地方以作为一种惩罚
+transportation|n. [U]（旧时的）对罪犯的流放（即将罪犯流放到偏远之地作为惩罚）
+trespass|vi. ~ (on sth)（未经许可或没有权利而）擅自进入、非法闯入（土地或建筑物）
+trespass|vi. 旧时用法，指做错事
+trial|n. [U, C] 通常意义上的“审理”、“审判”，可以包括从法院立案到做出裁决的全过程，也可指法庭审讯（即“庭审”）。是此义的常规用词
+tribunal|n. [C] 处理某一问题或争议的、带有权威性的一种法庭
+truncheon|n. [C] 警用短棍
+trust|n. 1 [C] [尤英] 信托机构或团体
+trustee|n. 1 [C]（财产的）受托人或受托机构
+try|vi. try sb (for sth) / try sth在法庭上检察证据并判定某人是否有罪，即审判、审理、审讯
+tutelage|n. [U] [正式]（一个人、组织机构、国家等给予另一个人、组织机构、国家等的）保护、监护、托管
+unbalanced|adj. [常用于名词前] 对某事物的一部分或一方面赋予过多（或过少）重要性的，如不公平的
+unbiased|adj. 公正的，不受其他人的观点或意愿等影响的、无偏见的
+unblemished|adj. [正式]（某人的记录、名誉、性格等）没有污点的、清白的
+under|prep. 根据或按照（一项协议、一部法律或一项制度）
+underworld|n. [sing.]（在某地从事犯罪活动的）黑社会、黑帮、黑道
+uneven|adj. 组织得不规则或不公平的
+unfair|adj. unfair (on/to sb)（根据一系列规则或原则）不公平的，不公正的，待人不平等的。是此义的基础通用词，词义范围最广（主语可以是人、事件、行为、标准等）
+unorthodox|adj.（某人的行为、信仰、习俗、做事方式）非法的
+unscrupulous|adj. 不公正的
+valid|adj.（票或其他文件、行为）为法律或官方所认可的，是此义的常规用词
+validity|n. [U] 法律上的有效、合法；官方的认可
+verdict|n. [C]（陪审团或法官作出的）裁决、裁定
+veto|n. [C, U] 否决权，尤指当权者对立法机构通过一部法律所行使的否决权或对一项决策的否决权
+vice|n. [U] 涉性或涉毒的犯罪活动
+villain|n. 1 [C] 道德低下且喜欢制造麻烦的人，即恶棍、坏蛋
+violate|vt. 1 [正式] 违反或拒绝遵守法律、协议等
+violation|n. [U, C]（对法律、协议或承诺的）违反
+violence|n. [U] violence (against sb) 意在伤害或杀害某人的暴力行为
+violent|adj. 涉及肢体暴力的，或由肢体暴力引起的。是此义的基础和常规用词，最为常用
+voice|n. [sing.] voice (in sth) 表达看法（并影响决策）的权利
+void|vt. [法律] 正式宣布…在法律上无效
+vouch|vi. vouch for sb/sth 你相信某人行为良好（因此你愿意为其行为负责），即替…担保（或保证）
+vouch|vi. vouch for sth（因有证据而）为…作证
+vulture|n. [C] 乘人之危的人；趁火打劫的人
+wanted|adj. 受通缉的
+ward|n. [C] 受法院或监护人保护的一个人，即受监护人，尤指儿童
+warrant|n. [C] ~ (for sth) / ~ (to do sth) 法官发出的、授予警方去执行的一份法律文件（如搜查令、逮捕令等）
+weapon|n. [C] 打架或袭击用的东西，可称为凶器
+well|n. [C] [英] 法庭中法官前面的律师席
+whip|vt. [英，非正式] 偷、盗窃
+whip|vt. 用鞭子抽打一个人或动物（作为一种惩罚，或让其走得更快或工作更努力）
+witness|n. 1 [C] 法庭上的证人
+wrong|n. [C] [正式] 违法行为，不公平、不诚实或不道德的行为，反义词为right
+wrong|n. [C] 冤屈，冤枉

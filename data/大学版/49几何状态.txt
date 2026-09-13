@@ -1,0 +1,126 @@
+around|adv. [尤美] [英常用round] 1 绕着一个圆圈来运动，即围绕；环绕等
+bend|vt. 把某物用力弯曲成一个角度或弧线。是一个常规用词
+bend|vt.＆vi. 改变方向以形成一个弧度或角度；使…改变方向以形成一个弧度或角度
+bent|adj. 弯曲的，不直的
+bind|vi. ~ sth (up)（用长布条）缠绕
+bow|vt.＆vi. 弯曲，或使…弯曲
+bumpy|adj. 1（平面）不平的，多凸块的
+circuit|n. [C] 巡回性的事件或活动
+circular|adj. 沿着环形移动的，如（旅程或路线）环行的，巡回的
+clump|n. [C]（电线、头发等的）团
+coarse|adj. 1 皮肤或布料粗糙的
+coil|n. 1 [C] 绳索、金属丝等所盘成的一圈儿一圈儿的形式
+coil|vt.&vi. ~ (sth) round, around, etc. sth / ~ (sth) up（使某事物）缠绕成一圈儿一圈儿的
+collapse|vt.&vi. 折叠起来（以减少空间占用）；可被折叠
+contort|vt.&vi.（使）某事物扭曲变形
+creamy|adj. 像奶油的，光滑细腻的
+crease|n. 1 [C]（布或纸张的）褶皱、皱痕
+crease|vt.&vi. 把布、纸张等压出（或折叠出）褶子
+crimp|vt. 把织物、纸张或面团压出小的褶皱
+crumple|vt.&vi. ~ (sth) (up) (into sth) 把某事物压皱，被压得变皱
+crush|vt. 充满褶皱；使某事物充满褶皱
+curl|n. [C] 卷状事物，螺旋状事物
+curve|vt.&vi.（使）呈曲线形
+cycle|n. 1 [C] 循环、周期
+direct|adj. 1 常作前置定语，不涉及中间的人或事物的，即直接的，亲自的
+direct|adv. 不涉及其他人或事物地，即亲自地，直接地
+double|vt. double sth (over) 把…对折或折叠（使其成为两层）
+elbow|n. [C]（管子、烟囱等的）拐弯处
+entangle|vt. [常用被动式] ~ sb/sth (in/with sth) 使某人或某事物被缠住
+entangled|adj. 被缠住的，纠结在一起的
+entwine|vt. [常用被动式] ~ sth (with/in/around sth) 把某事物缠绕或盘绕在另一个事物上
+even|adj. 平滑的，水平的，平坦的
+explicit|adj. 以一种开放或直接的方式被做或被展现的（以致于使人对正在发生的此行为没有怀疑），即不隐晦的；直截了当的
+file|vt. file sth (away/down, etc.)（用锉）锉掉…、锉成某种形状、锉平滑等
+flat|adj. 1 拥有一个平的水平面的，不弯曲也不倾斜的，即水平的；平坦的
+flat|adv.（尤指贴着另一表面）伸展平直地
+flip|vt.&vi.（使）突然快速翻转
+flush|adj. [不用于名词前] ~ with sth（两个表面）完全齐平的
+fold|n. 1 [C] 某事物（尤指衣服）的折叠部分，或其悬垂得像被折叠起来的一部分
+fold|vt. fold sth (up) / fold sth (back, down, over, etc.) 折叠（尤指纸张或衣服），也可指折叠式的收拢和放置
+foul|vt.&vi. ~ (sth) (up)（被）缠住（因而不能运转或移动）
+full|adv. full in/on sth 直接地，径直地，相当于directly
+grain|n. [U, C] 表面的粗糙感或光滑感，即质感、触感、质地
+gyrate|vt.＆vi. 旋转；使某事物（尤指身体部位）旋转
+hem|n. [C] 织物（尤指衣服）等的被折叠或被缝纫而成的褶边、卷边，裙子的下摆
+hem|vt. 给某事物制作褶边
+huddle|vi. ~ (up)（通常因寒冷或害怕）把胳膊和腿紧紧缩成一团
+huddled|adj.（人）蜷缩的
+immediacy|n. [U] [正式] 直接性；直观性
+immediate|adj. 1 [只用于名词前]（关系或级别）最接近的，直系的，直接的
+immediately|adv. 通常与过去分词连用，表示紧密且直接地（与某一情况相关）
+intertwine|vt.&vi. [常用被动式]（使）两个或多个事物缠绕在一起，以致难以分开
+jagged|adj. 边缘不平的、带尖的（且尖常锋利），如锯齿状的
+knot|n. [C] 缠在一起的条带状物
+level|adj. 表面平坦且没有斜坡的。与flat未见明显差别
+level|vt. level sth (off/out) 使…平坦或平整
+loop|n. [C] 电流、能量的一个完整环路、回路
+over|adv. 从一侧到另一侧，即翻转
+overturn|vt.&vi.（使）（某事物）上下翻覆
+pirouette|n. [C] 尤指芭蕾舞者所做的单脚尖旋转
+pirouette|vi. 尤指芭蕾舞者做单脚尖旋转
+pivot|vt.＆vi.（使）某事物在一个中心点上旋转或保持平衡
+plane|adj. 在术语中可指完全平坦的，平的，只作前置定语
+plane|vt. 用刨子将木头刨平
+pleat|n. [C] 在布料上缝的褶
+rev|n. [非正式] 一次旋转（用于谈论发动机的转速）
+revolution|n. 1 [C, U] revolution (around/on sth) 环绕一个点所进行的旋转，尤指某一星体围绕另一星体运行
+rewind|vt.＆vi. 倒回磁带等
+roll|vt. 通过在…上面推动重物而使其变平
+roll|vt.＆vi. 1 在原地一次又一次地翻转、转圈或打转；使…做如此运动
+rotate|vt.＆vi. ~ (about/around sth)（使某事物）沿着一个固定的中心点移动或转动
+rough|adj. 表面不平坦或不规则的，即粗糙的，高低不平的
+round|adv. [尤英；美常用around] 1 以圆形的方式来运动，即旋转；环绕；兜圈子
+roundabout|adj. 常作前置定语，指做事迂回的
+rugged|adj. [常用于名词前] [褒]（男人的脸）强健有魅力的、粗犷的
+rugged|adj.（地形地貌）不平的，且有很多岩石（而无植物、树木）的
+sand|vt. 用砂纸打磨（如木头或金属表面，使其光滑或干净等）
+screw|n. [C] 对螺丝钉的旋拧
+screw|vt. 扭曲（脸）
+screw|vt. 拧紧
+seethe|vi. [正式]（液体）快速而剧烈地翻滚、翻腾
+slap|adv. [非正式] 直接且用力地
+slippery|adj.（也可用非正式的slippy）（因为光滑、潮湿而）滑得抓不住（或站不稳、难以行走）的
+smooth|adj. 完全平整、平坦、平滑、光滑的，没有任何隆起、坑洼或粗糙区域的。是此义的常规用词。与rough相对立
+smooth|vt. smooth sth (back/down/out) 使某事物平整、平坦、平滑或光滑
+snarl|n. [C] [非正式] 乱糟糟地缠结的事物
+snuggle|vt.&vi. ~ (up to sb/sth)（使）做出一个温暖舒适的姿势，如蜷伏
+spin|n. [C, U] 高速的旋转
+spin|vt.＆vi. spin (sth) (round/around) 一圈一圈地快速旋转；使…一圈一圈地快速旋转
+spiral|adj. 螺旋式的
+spiral|n. [C] 螺旋的形状或样式
+spiral|vi. 螺旋式上升或下降，盘旋式上升或下降
+straight|adj. 1 直的，不弯的
+straight|adv. 1 没有任何弧线或角度地，即笔直地；成直线地；平正地
+swerve|vi.（使）（运动中的事物）突然转弯
+swing|vt.＆vi. 做大幅度的弧线运动；使…做大幅度的弧线运动
+swing|vt.＆vi. 突然改变方向；使…突然改变方向
+swirl|n. [C] 打旋、旋动、旋涡
+swirl|vt.&vi.（使）呈圆形快速旋转，即打旋
+tangle|n. [C]（线、毛发等的）缠结的一团
+tangle|vt.&vi. ~ (sth) up（使）缠结
+tangled|adj. 混乱缠结在一起的
+toss|vt.&vi.（使）左右移动（如辗转）
+true|adv. [旧时或文学] 在一条直线上，如笔直地，不偏不倚地
+tuck|n. [C] 衣服或织物的褶（可作为装饰）
+tuck|vt.&vi. 把衣服、纸张等的边缘折叠，卷起（使其就位或看起来整洁）
+turbulence|n. [U] 空气和水在流动时的一系列突然剧烈的方向变化，如湍流、涡流
+turn|n. [C] 转动；旋动
+turn|vt. 以某种方式来折叠
+turn|vt. 翻转或翻动…（使其处于或面对一个不同的方向），即把…翻过来（与roll存在一定交集，如翻身等，不过turn此时仅为及物动词）
+turn|vt.＆vi. 绕着一个中心点转动，旋转；使…绕着一个中心点转动，旋转。是一个基础通用词，涵盖了各种类型的旋转运动，最为常用
+twist|n. [C] 一个故事或情况的意外转折（或发展）
+twist|n. [C] 用手对某事物进行的转动、旋转
+twist|vt. 1 把某事物弯曲或扭曲成某一形状。且twist更多情况下表示“扭曲”
+twist|vt. 将某事物缠绕在一个物体上。与wind存在一定交集，不过twist还可表示一种“纠缠”的形式
+twist|vt. 用手转动或旋转某事物
+uneven|adj. 一个平面凸凹不平的，不平坦的
+whirl|n. [sing.] 快速旋转
+whirl|vt.&vi.（使）某人或某事物快速旋转
+wind|vt. 反复转动把手
+wind|vt. 把…包裹或缠绕起来（可以包裹或缠绕自身，也可以包裹或缠绕在别的东西上，一般是缠绕成一个球形物或柱状物）
+wrap|vt. ~ sth around/round sth/sb 把某事物紧紧地缠绕或围住
+wreathe|vi. [正式] 缓慢且轻轻地移动，尤指绕成圈
+wrinkle|n. [usually pl.]（一块布或一张纸上的令人不快的）褶皱，皱痕，相当于crease
+wrinkle|vt.＆vi. 起（不整洁的）褶皱；使…起（不整洁的）褶皱
+wrinkled|adj.（衣服等）有褶皱的

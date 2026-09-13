@@ -1,0 +1,4 @@
+briefing|n. [C, U] 传达指示会上所传达的详细指示或信息，如详情介绍
+introduce|vt. introduce A (to B) / introduce A and B / introduce yourself (to sb) 把两个或多个以前未见面的人彼此介绍给对方，也可叫引见；向别人介绍自己（如把自己的名字告诉对方）
+introduction|n. [C] introduction (to sb) 在两个人之间所做的正式的介绍或引见（如向双方介绍各自的姓名）
+present|vt. [正式] present sb (to sb) 正式介绍或引见某人（尤指引见给等级或地位更高的人）

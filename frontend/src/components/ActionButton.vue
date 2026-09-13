@@ -35,9 +35,9 @@ const handleClick = () => {
 
 <style scoped>
 .action-button {
-  height: 48px;
-  padding: 0 var(--space-6);
-  border-radius: var(--radius-md);
+  min-height: 48px;
+  padding: 0 20px;
+  border-radius: 14px;
   font-size: var(--text-body);
   font-weight: var(--font-semibold);
   transition: all 200ms ease;
@@ -54,7 +54,7 @@ const handleClick = () => {
 .action-button.primary {
   background: var(--primary);
   color: #ffffff;
-  box-shadow: 0 4px 12px rgba(0, 122, 255, 0.3);
+  box-shadow: 0 10px 24px rgba(242, 123, 91, 0.22);
 }
 
 .action-button.primary:hover:not(:disabled) {
@@ -68,8 +68,9 @@ const handleClick = () => {
 }
 
 .action-button.secondary {
-  background: rgba(0, 0, 0, 0.05);
+  background: rgba(255,255,255,.08);
   color: var(--text-primary);
+  border: 1px solid rgba(255,255,255,.1);
 }
 
 .action-button.secondary:hover:not(:disabled) {

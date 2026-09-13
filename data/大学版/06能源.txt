@@ -1,0 +1,70 @@
+ablaze|adj. [名词前不可用] 快速且猛烈地燃烧
+alight|adj. [名词前不可用] 燃烧；着火
+bar|n. [C] 电热炉的电热棒
+blast|n. [sing.] full ~ / at full ~（加热器等）以最大功率
+blaze|n. [sing.] 明亮的火焰
+blaze|vi. 熊熊燃烧
+boiler|n. [C]（为建筑物提供集中供暖或为发动机提供蒸汽动力的）锅炉
+bonfire|n. [C]（在室外焚烧垃圾的）火堆；（在室外为了庆祝某事而点燃的）篝火、营火
+burn|vi. 1 燃烧、烧。是“燃烧”的常规用词，最为常用
+catch|vt.＆vi. 开始燃烧，着火。此义与light无明显区别，但作为及物动词，light更常用，作为不及物动词，catch更常用
+charcoal|n. [U] 木炭（可用作燃料或用于作画）
+charred|adj. [常用于名词前] 烧焦的、烧黑的
+coal|n. 1 [U] 煤
+coke|n. [U] 焦炭（为一种燃料）
+crude|n. [U]（也可用crude oil）未经化学处理的石油，即原油
+diesel|n. [U]（也可用diesel fuel, diesel oil（与汽油相对应的）柴油
+dry|adj. 油井不再产油的
+dynamo|n. [C] 发电机
+efficiency|n. [U] [术语]（机器或发动机的）效率、功率
+energy|n. [U] 能源。是此义的常规用词，最为常用
+fan|vt. 通过吹风而使火烧得更旺
+fender|n. [C] 壁炉的围栏
+fire|adj. -fired 构成形容词，指“以…为燃料的”
+fire|n. 1 [U] 火。是此义的基础用词和常规用词，最为常用
+fire|n. [C] [尤英] 房间的取暖设备
+fire|vt. 烧制粘土做成物件，使其坚硬结实，如烧制陶器或砖瓦等
+fireplace|n. [C] 壁炉
+flame|n. 1 [C, U] 火焰；火舌
+flame|vi. [文学] 燃烧（同时产生明亮的火焰）
+flammable|adj. 易燃的
+flare|n. [usually sing.] 短暂的明亮（但是不稳）的火焰
+flare|vi.（通常指短时间但是不稳定地）明亮燃烧、突然烧旺
+fuel|n. [U, C] 燃料
+furnace|n. [C] [尤美] 为建筑物提供热量（或为发动机提供蒸汽）的锅炉。相当于boiler
+gas|n. [U] 用作燃料的气体或气体混合物，如煤气、天然气
+gasoline|n. [U] [美] 汽油
+generator|n. [C] 发电机，是此义的常规用词
+geyser|n. 1 [C] [英] （厨房或浴室的）热水器（通常以天然气为燃料）
+grate|n. [C] 壁炉的金属炉栅（用于拢住煤炭或木柴）
+heat|n. [U] [尤美]（建筑物内的）暖器装置，相当于heating
+heater|n. [C]（尤指屋内或车内）对空气或水进行加热的一个机器或设备，即加热器、炉子
+heating|n. [U] [尤英]（也可用heat[尤美]）（尤指从经济角度考虑的）对建筑物的供暖；也可指此种供暖系统或暖气设备
+ignite|vt.&vi. [正式]（使）点燃、着火
+ignition|n. [U] [术语] 着火、点火、点燃
+jacket|n. [C] 热水管等的外套（例如用于减少热量损失）
+juice|n. [U] [尤英，非正式] 汽油
+lay|vt. 摆好木头、柴或煤以生火
+light|vt. 使…开始燃烧，即点燃，点火
+line|n. [C] 水、燃气、电力的输送管线。是一个简单用词和统称（并不强调线路本身的规模大小）
+live|adj. 常作前置定语，（煤块）燃烧着的，仍然灼热发红的
+main|n. 1 [C]（将水、燃气、电输送到建筑物的）一条大型管道或大型线缆
+nuclear|adj. 使用或产生核能的；由核能导致的
+oil|n. 1 [U] 石油、原油
+oilfield|n. [C] 陆地或海上的油田
+oily|adj.（质地、味道、气味、形态）像油的
+output|n. [U, sing.] 某一设备的输出功率、能量等
+petrol|n. [U] [英；美为gasoline或gas]（汽车、发动机等用作燃料的）汽油
+pipeline|n. [C]（常指埋于地下的）石油、燃气等的输送管线
+plumbing|n. 1 [U] 建筑物的供水和排水系统、自来水管道
+power|n. 1 [U]（可被收集起来，并被用于操作机器、发电等活动的）能量，有时可译为“功率”
+radiator|n. [C] 房屋内的散热器、暖气片
+rich|n. [pl.] 复数名词，指大量且珍贵的自然资源，如矿藏、木材、石油
+roar|vi.（火）熊熊燃烧
+slack|n. [U] 煤屑
+solar|adj. 只作前置定语，太阳能的
+spark|n. 1 [C] 燃烧或撞击出的金属火花、火星子
+spark|vi. 产生火花或电火花
+stove|n. [C] 取暖用的炉子、火炉
+turf|n. [U, C] 泥煤、泥炭；泥煤块、泥炭块
+well|n. [C] 油井，相当于oil well

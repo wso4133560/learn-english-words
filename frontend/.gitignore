@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Generated vocabulary bundle
+/public/word-data/
+/test-results/
+/.gradle-cache/

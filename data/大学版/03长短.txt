@@ -1,0 +1,143 @@
+afternoon|n. [U, C] 一天中的中午十二点至下午六点左右
+all|det. 与单数名词连用，表示某事在某段时间内一直（或持续）发生，即全部的，整个的
+along|adv. 一直。不太常用
+always|adv. 1 总是；每次都是
+anniversary|n. [C]（重要或特殊事件的）周年纪念日
+autumn|n. [U, C] [尤英] [美通常用fall] 一年中的秋天，秋季
+band-aid|adj.（问题的解决办法）短期有效的，权宜之计的，治标不治本的
+bit|n. [sing.] [尤英] a bit（时间的）一会儿
+brief|adj. 仅持续很短的一段时间的，短暂的
+ceaseless|adj. [正式]（常指令人不快之事）不停的、看起来无休止的
+century|n. 1 [C] 一百年的一段时间，百年
+chronic|adj. 1（某人的坏习惯或行为）积习难改的、难以根除的
+clear|adj. 只用于名词前，（一段时间）全部的，整体的，完整的
+consistent|adj. 以相同的方式发生并持续一段时间的，如连续的，持续的
+constant|adj. 常作前置定语，一直都在发生的，或重复发生的，即持续不断的，重复的
+dawn|n. [U, C] 黎明，破晓
+day|n. 1 [C] 一天，一日
+daylight|n. [U] 白昼、白天
+daytime|n. [U] 白天、白昼、日间
+decade|n. [C] 十年的一段时间，尤指一个年代（如从1990年到1999年）
+down|prep. 贯穿一段时间
+dusk|n. [U] 黄昏，傍晚（但天色还未完全黑）
+edge|n. [sing.] 常用the edge，指某事（尤指坏事）可能开始发生的一刻，相当于brink或verge
+endless|adj. 持续很长一段时间且似乎没有尽头的
+enduring|adj. 持续长时间的，持久的
+ephemeral|adj. [正式] 持续短时间的，如短暂的、瞬息的
+eve|n. [C] [旧时或文学] 傍晚；黄昏
+evening|n. [C, U] 从下午到上床睡觉之间的一段时间，即晚上；傍晚
+ever|adv. 1 用于否定句和疑问句，或用于与if连用的句子，表示在任何时候
+expedient|n. [C] 权宜之计、应急措施
+extend|vt. 使…持续更长时间
+extension|n. [C] extension (of sth) 对某事所允许的一段额外的时间，即延长期，放宽的期限
+fall|n. [C] [美] 秋天，相当于autumn
+fit|n. [C] 一阵突然的、短时间的、控制不住的咳嗽或笑
+forever|adv. 1（英也写作for ever）用于说明某一情况或状态将永远存在
+fortnight|n. [C, usually sing.] [英] 两星期
+fugitive|adj. [只用于名词前] [文学] 持续极短时间的，即短暂的、易逝的
+hard|adv. 长时间地。不过不常用
+hardly|adv. 刚一…就…
+hour|n. 1 [C]（缩写为hr或hr.）小时
+hour|n. [pl.] hours 可指长时间
+immediacy|n. [U] [正式] 即时性；迫切性、紧迫性
+immediacy|n. [U] [正式] 立即；迅速
+immediate|adj. [常用于名词前] 迫切的
+immediate|adj. 立即的、立刻的
+immediately|adv. 1 没有任何拖延，即立即、立刻、马上，相当于at once
+immortal|adj. 长生不老的、永生的
+immortality|n. [U] 永生
+imperative|adj. [名词前不常用] ~ (that…) / ~ (to do sth) [正式] 非常重要且急需关注或采取行动的，如迫切的、紧急的
+improvisation|n. [U, C] 即兴的创作；即兴创作的作品
+improvise|vt.&vi.（常因没有自己需要的东西）用手头的东西来临时拼凑、临时做
+in|prep. 表示时间段达到一定的长度
+indefinite|adj. 持续无限期的（即没有固定的截止时间）
+instant|adj. 常置于名词前，立即（发生）的，立刻的，相当于immediate
+instantaneous|adj. 立即发生的、立刻的、瞬间的
+interim|adj. [只用于名词前] 暂时性的（直到出现一个长期的人或事物）、过渡性的
+interminable|adj. 冗长的且令人厌烦的，如没完没了的
+just|adv. 1 just as ... 正当…时
+lapse|n. [C]（两件事发生的）间隔时间
+length|n. [U, C]（某事所持续的）时间长度
+length|n. [U] 长时间
+lengthy|adj.（时间）很长的，通常是太长的
+little|adj. 只作前置定语，（时间）短的；短暂的
+long|adj. 1（时间）长的。是此义的常规用词，最为常用
+makeshift|adj. [常用于名词前] 因真正的…还没做好准备，故而将…作为临时性的替代措施的，如权宜的
+midnight|n. [U] 午夜十二点，子夜
+minute|n. [C]（缩写为min.）分钟
+minute|n. [sing.] [非正式] 非常短暂的一段时间，即一会儿
+moment|n. [C] 非常短的一段时间，即片刻，瞬间。是此义的常规用词
+momentary|adj. 持续很短时间的，如短暂的
+monsoon|n. [C] 南亚的季风季节、雨季
+month|n. 1 [C]（一年中的任意一个）月份，月
+morning|n. 1 [C] 从人们醒来到中午之间的一段时间（或到午饭前的一段时间），即早晨；上午
+night|n. 1 [U, C] 夜晚；夜间（人们通常在此期间熟睡）
+noon|n. [U] 一天中的中午十二点，相当于midday
+now|adv. 从此刻就开始，立刻
+on|prep. 在某事之后立即…，即一…就…
+once|conj. 一…就；当…时候
+outright|adv. 骤然间、立即、一下子（而非逐渐地）
+passing|adj. [只用于名词前] 持续时间短暂的、转瞬即逝的
+perennial|adj. 持续很长时间的；反复发生的
+permanent|adj. 持续很长一段时间的；或将来一直持续下去的；一直存在的。即永恒的，永久的；长久的
+persistent|adj. 持续长时间而不间断的；或经常反复出现的（尤指不好的状态或情况持续存在，且此过程无法阻止）
+precise|adj. 只用于名词前，用于强调某事发生在一个特定的时间，如恰好，就
+prolong|vt. 延长某事的时间
+prolonged|adj. 持续很长时间的
+prompt|adj.（人）做事不拖延的，即立即的、迅速的、及时的。相当于immediate
+protracted|adj. 比预期或通常情况持续时间更长的，即延长的
+protracted|adj. 比预期或通常的时间要长的
+provisional|adj. 1 临时安排的（这种安排在将来有可能发生变化），即暂时性的
+quarter|n. [C] 三个月的时间（尤用于财务结算），即季度；季
+quarter|n. [C] 整点之前或之后的15分钟，即一刻钟
+ready|adj. ready to do sth 很可能立即去做某事的，相当于on the point of
+renew|vt. 延长（执照、合同等的）有效期；使续签
+renewal|n. [U, C]（执照、合同等的）续签、延期
+right|adv. 立即，为非正式用法
+running|adj. 1（置于数字和year、day或time等名词后，表示同样的事一再重复发生）连续
+scarce|adv. [文学] 刚
+scarcely|adv. 用于表示一件事紧接着另一件事而发生，即刚一…就…
+season|n. 1 [C] 季节
+second|n. [C]（也可用非正式的sec）一段非常短的时间，即片刻；瞬间。相当于moment
+second|n. [C]（符号）（简写为sec）秒（时间单位）
+secure|adj. 很可能持续（或成功）很长时间的，即可靠的，稳固的。同义词为safe，反义词为insecure
+set|vi. 指太阳或月亮落到地平线以下
+shaky|adj. 不会长久的
+short|adj. 1（时间）短的。是此义的常规用词，最为常用
+shortly|adv. 1 立刻，马上
+shortly|adv. 一小段时间，不久（可以是在…之前的不久，也可以是在…之后的不久）
+solid|adj. 非正式，（一段时间）无暂停的，即连续的，不间断的
+soon|adv. 1 从现在起（或从刚刚发生过的某事起）一小段时间，即不久，很快，马上
+spring|n. [U, C] 春天，春季
+standing|adj. [只用于名词前] 长期存在的、永久性的、常设的
+straight|adv. 立即
+straight|adv. 连续不间断地；一连
+summer|n. [C] 一年中的夏天，夏季
+sunset|n. 1 [U] 日落时分、傍晚
+temporary|adj. 持续（或将要持续）一小段时间的，即短暂的，暂时的；被使用一小段时间的，非长久的，即临时的。与permanent相反
+tentative|adj.（安排、协议等）不确定的（因为你可能想要以后做出变动），亦可称为暂定的
+through|prep. 从时间的开始到结束，即从始至终，从头到尾
+throughout|prep. 贯穿整个时期，自始至终
+tick|n. [C] [英，非正式] 一会儿，一瞬间，一刹那，片刻
+tide|n. [sing.]（旧时用法）（构成复合词）-tide可指（一年中的）时节、季节
+together|adv. [正式] for hours, days etc. together 接连…不断地
+tonight|adv. 在今晚，在今夜
+transient|adj. 1 [正式] 持续时间短的，即短暂的
+transitory|adj. [正式] 持续短时间的，即暂时性的、片刻的、转瞬即逝的
+twilight|n. [U] 暮色、黄昏
+unbroken|adj. 1 连续的；不间断的
+upon|prep. 用于描述两个紧接着发生的事件，即一…就…
+urgency|n. [U, sing.]（某事的）紧急、紧迫
+urgent|adj. 1 需要立刻处理的（或立刻发生的），即紧迫的，迫切的，紧急的。相当于pressing
+very|adj. 只用于名词前，用于强调一个名词，如仅仅的、唯独的，相当于mere
+week|n. 1 [C] 星期，周（从周一到周日或从周日到周六的七天）
+weekday|n. [C] 星期一至星期五的任何一天（不包括周六和周日）
+weekend|n. [C] 星期六和星期日，即周末
+when|conj. 一…就…，刚…就…
+whenever|conj. 1 在任何…的时候，即无论何时；也可表示在任何…的情况下
+will|modal verb. 用于谈论习惯
+winter|n. [C] 一年中的冬天，冬季
+working|adj. [只用于名词前] 用于作为工作、讨论等活动的基础，将来很可能会改变或改进，即暂定的、初步的
+year|n. 1 [C]（也叫calendar year）年，日历年
+year|n. [pl.] [非正式] years 可指很长时间，很久
+yet|adv. 用于否定句，表示现在，立刻，马上（在否定句中的整体意思指虽然稍后不得不做某事，但此时还不能做此事）

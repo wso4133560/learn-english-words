@@ -20,6 +20,11 @@
         :progress="progress"
         :is-flipped="isFlipped"
         :is-playing-audio="isPlayingAudio"
+        :audio-engine-label="engineLabel"
+        :audio-error="audioError"
+        :error="learningError"
+        :is-busy="isLoading"
+        @back="handleSwitch"
         @flip="handleFlip"
         @play-audio="handlePlayAudio"
         @known="handleKnown"
@@ -51,11 +56,11 @@ import SelectionView from '@/views/SelectionView.vue'
 import LearningView from '@/views/LearningView.vue'
 import CompletionView from '@/components/CompletionView.vue'
 import AutoPlayView from '@/views/AutoPlayView.vue'
-import { useGradioClient } from '@/composables/useGradioClient'
 import { useFileSelection } from '@/composables/useFileSelection'
 import { useWordLearning } from '@/composables/useWordLearning'
 import { useAudio } from '@/composables/useAudio'
 import { useKeyboard } from '@/composables/useKeyboard'
+import { warmupKokoro } from '@/services/kokoroFrontend'
 
 type View = 'selection' | 'learning' | 'completion' | 'autoplay'
 
@@ -65,7 +70,6 @@ const error = ref<string | null>(null)
 const selectedFolder = ref<string>('')
 const selectedFile = ref<string>('')
 
-const { connect, error: gradioError } = useGradioClient()
 const {
   folders,
   files,
@@ -78,6 +82,7 @@ const {
   isFlipped,
   progress,
   isComplete,
+  error: learningError,
   startLearning,
   restartLearning,
   markAsKnown,
@@ -88,37 +93,46 @@ const {
 
 const {
   isPlaying: isPlayingAudio,
-  playPronunciation
+  playPronunciation,
+  preloadPronunciation,
+  engineLabel,
+  error: audioError,
+  reset: resetAudio
 } = useAudio()
 
-onMounted(async () => {
-  isLoading.value = true
-  const connected = await connect()
+const preloadCurrentAudio = () => {
+  if (currentWord.value) void preloadPronunciation(currentWord.value.word)
+}
 
-  if (connected) {
-    await loadFolders()
-  } else {
-    error.value = gradioError.value || '无法连接到后端服务，请确保后端已启动'
-  }
+onMounted(async () => {
+  // Let the first screen paint before the one-time model initialization starts.
+  window.setTimeout(() => { void warmupKokoro() }, 800)
+  isLoading.value = true
+  try { await loadFolders() }
+  catch (cause) { error.value = cause instanceof Error ? cause.message : '无法加载本地词库' }
 
   isLoading.value = false
 })
 
 const handleFolderChange = async (folder: string) => {
-  await loadFiles(folder)
+  try { error.value = null; await loadFiles(folder) }
+  catch (cause) { error.value = cause instanceof Error ? cause.message : '无法加载词库' }
 }
 
 const handleStart = async (folder: string, file: string) => {
   error.value = null
   isLoading.value = true
+  selectedFolder.value = folder
+  selectedFile.value = file
   const result = await startLearning(folder, file)
 
   if (result.success && result.state === 'learning' && currentWord.value) {
     currentView.value = 'learning'
+    preloadCurrentAudio()
   } else if (result.success && result.state === 'completion') {
     currentView.value = 'completion'
   } else {
-    error.value = result.message || gradioError.value || '开始学习失败'
+    error.value = result.message || learningError.value || '开始学习失败'
   }
 
   isLoading.value = false
@@ -129,20 +143,26 @@ const handleFlip = () => {
 }
 
 const handlePlayAudio = async () => {
-  await playPronunciation()
+  try { await playPronunciation(currentWord.value?.word) } catch { /* The audio control displays the error. */ }
 }
 
 const handleKnown = async () => {
-  await markAsKnown()
-  await handleNext()
+  if (isLoading.value || !isFlipped.value) return
+  isLoading.value = true
+  try { if (await markAsKnown()) await handleNext() }
+  finally { isLoading.value = false }
 }
 
 const handleUnknown = async () => {
+  if (isLoading.value) return
   await handleNext()
 }
 
 const handleNext = async () => {
+  resetAudio()
   await nextWord()
+
+  preloadCurrentAudio()
 
   if (isComplete.value) {
     currentView.value = 'completion'
@@ -156,6 +176,7 @@ const handleRestart = async () => {
   const restarted = await restartLearning()
   if (restarted && currentWord.value) {
     currentView.value = 'learning'
+    preloadCurrentAudio()
   } else {
     resetLearning()
     currentView.value = 'selection'
@@ -166,6 +187,7 @@ const handleRestart = async () => {
 }
 
 const handleSwitch = () => {
+  resetAudio()
   resetLearning()
   currentView.value = 'selection'
 }
@@ -177,7 +199,7 @@ const handleStartAutoplay = async (folder: string, file: string) => {
 }
 
 const handleAutoplayComplete = () => {
-  currentView.value = 'completion'
+  currentView.value = 'selection'
 }
 
 const handleAutoplayBack = () => {
@@ -215,6 +237,7 @@ useKeyboard({
 
 <style scoped>
 .app {
+  padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
   position: relative;
   min-height: 100vh;
   overflow: hidden;

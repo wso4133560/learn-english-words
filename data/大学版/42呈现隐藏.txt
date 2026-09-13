@@ -1,0 +1,233 @@
+about|prep. 用于强调某事的方面
+against|prep. 以…为背景作为对比，即衬托
+air|n. [sing.] 由某人或某事物所造成的感觉或印象；某人做某事的某种方式，如神态等
+alien|adj. ~ (to sb/sth) 陌生而令人害怕的、不熟悉的
+angle|n. 1 [C] 看…时所处的位置，即角度
+anonymity|n. [U] 匿名、不公开姓名
+anonymous|adj. 1（人）名字不公开的，如匿名的
+apparent|adj. apparent (from sth) (that ...) / apparent (to sb) (that ...) 通常不用于名词前，容易看见的，或易于理解的。如显而易见、显然，相当于obvious（与obvious和evident未见明显区别）
+apparent|adj. 常用于名词前，看起来是真的但实际上可能不是，即貌似的、表面上的，相当于seeming
+appear|linking verb. 给予是（或做）…的印象，即似乎，看起来，显得，相当于seem
+appearance|n. [C, U]（人、事物、行为的）外观，外表，外貌，样子，印象。含义最为广泛，因为其只是从“事物之呈现”的角度来下的定义（即凡是呈现于人类感官的事物，其首先被人类感官所感知的部分都可叫做appearance），而对所形容的事物种类并不做限制
+area|n. [C] 一个更大、更普遍的情况（或活动）的某一部分，即方面
+aspect|n. [C] 一个情况（或想法、问题等）的一个特定的部分（或特征）；也可指其可能得到考虑的一个方面。如方面、层面。是“方面”的常规用词，极为常用
+aspect|n. [U, sing.] [正式] 一个地方（或一种情况、一个人）的外观、样子。不常用
+assume|vt. [正式] 开始拥有某种品质或外观，即呈现出（外观或品质），相当于take on
+at|prep. 1 at sb’s/sth’s best/worst, etc. 处于最佳或最差状态
+backdrop|n. [C]（实物或景象的）背景或周围陪衬景物
+bald|adj.（某事物）表面没有任何（通常应该有的）标记的
+bald|adj.（言语）不需要任何额外信息或细节来解释便能理解的，如明摆着的
+bear|vt. [正式] 显示或带有（某个标记或特征）
+bold|adj.（形状、线条等）明显的、轮廓突出的
+broad|adj.（所给予的暗示）明显的
+by|prep. 用于补充信息，所补充的信息是关于某人来自何地、或其职业等
+capture|vt. 用图画、文章、电影等准确地表达、刻画或描述（一种感觉或气氛）
+card|vt. [美，非正式]（如购买酒类饮料的时候）让一个人出示其身份证以核查其年龄
+cast|n. [sing.] [英，非正式]（人或事物的）外表，外貌
+cipher|n. [U, C] 密码
+clear|adj. clear (to sb) (that) / clear what, how, whether, etc. 明显的，且不使人产生任何疑惑的。是一个基础用词
+close|adj. close (about sth) 1 只作表语，（对自己的个人信息）守口如瓶的
+closet|adj. [只用于名词前]（一个人）隐藏个人信息的，（信仰、习惯、情感）隐蔽的，不公开的： closet gays 不公开表明的同性恋者 / closet misogyny 内心对女性的仇视 / I suspect he's a closet fascist. 我怀疑他是秘密的法西斯分子。 **dark**
+closet|adj. [只用于名词前]（身份或个人信息、习惯、情感）隐秘的
+closet|vt. 把某人关在房间里（尤指为了私下会谈或避免他人打扰）
+code|n. [C, U]（常构成复合词）密码
+confidence|n. 1 [U] 私下、秘密（向别人透漏某事）
+confidential|adj. 1 机密的，保密的，不可对外泄露或与他人分享的
+confidentiality|n. [U] 保密性、机密性
+conspicuous|adj. 容易看到或注意到的；惹人注意的
+contour|n. [C] 某事物的外部边缘；外形线、轮廓线
+conversant|adj. [正式] ~ with sth 对某事知晓的、通晓的、熟悉的
+covert|adj. [正式] 秘密的或隐藏的，难以被发现的
+coy|adj. ~ (about sth)（因愧疚或难为情而）不愿提供信息的、（对关于自己的问题）不肯作答的
+crisp|adj.（图像等）清晰分明的
+dawn|vi. 变得明显、清晰
+define|vt. 表现出清晰的线条、形状或边缘
+definite|adj. 1 易于看到或易于理解的，即明显的
+demonstrate|vt.（通过自己的行为来）表示、表达、表现、显露（自己拥有某种品质、感情或观念）
+depict|vt. ~ sb/sth (as sb/sth) [相对正式] 在一幅图画中描绘
+dimension|n. [C] 看待（或思考）某事的一个方面或一种方式，即方面，侧面
+disclose|vt. ~ sth (to sb) 给出关于某事（尤指先前的秘密之事）的信息
+display|n. 1 [C] 将某事物在公共场合展览或陈列（以供人欣赏或购买）
+display|vt. ~ sth (to sb) 把某事物放在人们容易看到的地方；把某事物展示给人们
+distinct|adj. 容易被看到、听到或感觉到的，如清楚的、清晰的、明显的
+dominant|adj. [生物学]（基因）显性的，优势的
+elusive|adj. 难以找到的
+emphasize|vt. 使突出、使更明显
+emphatic|adj.（胜利、失败等）明显的
+enigma|n. [C] 神秘且难易理解的人、事物或情况
+enigmatic|adj. 神秘且难以理解的
+evident|adj. evident (to sb) (that ...) / evident (in/from sth) 清楚的，容易被看到的，即显而易见的、显然的，相当于obvious
+evoke|vt. [正式] 在头脑中唤起（形象）
+exaggerate|vt.（将情况、属性、特征等）突显出来。主语一般是事物
+exhibit|n. 1 [C] 公共场合（如博物馆）的展览品
+exhibit|vt.&vi. 在公共场合向人们展出、展览（以供人们欣赏或向人们提供信息）
+exhibit|vt.（为了得到别人的羡慕、关注或信任而）公开炫耀
+exhibition|n. 1 [C] 一批展览品，如艺术品等。该用法尤用于英式英语，在美式英语中常用exhibit
+expose|vt. 1 显露、暴露或露出（通常隐藏的东西），相当于reveal
+exposed|adj. 1（地方）没有树木、建筑物或高地等遮挡的，不能遮风挡雨的
+exposure|n. 1 [U] ~ (to sth) 暴露于（危险、有害或令人不悦的环境）
+express|adj. 1 [正式] 只作前置定语，（愿望或目的）阐述得清晰明白的、特定的，相当于definite
+expression|n. [U, C] 一事物在另一事物中的表现
+exterior|n. 1 [C] 某事物（尤指建筑物）的外部、外观、外表
+face|n. [sing.] face of sth 事物的某个方面（如某个活动、信仰或制度的方面）
+face|n. [sing.] face of sth 事物的某个特征（如某个地方、机构或活动区域在变化中所显示出来的外观特征）
+facet|n. [C] ~ (of sth) 事物的某个部分或方面
+familiar|adj. 1 familiar (to sb)（对自己来说）熟悉的；常被看到或听到因而容易辨认的
+familiarity|n. [U] ~ (with sth) / ~ (to sb) 熟悉、通晓；认识
+feel|n. [sing.] 由一个地方、一种形势等所创造的印象；气氛
+flash|vt. [非正式] 向某人快速地出示，显示（如亮一下证件）
+flatter|vt. 使某人显得比原本更漂亮（或更好）
+flattering|adj. 让人显得更好看的
+flaunt|vt. [贬] 炫耀；夸耀；卖弄
+flicker|n. [usually sing.] ~ (of sth)（情感、情绪的）闪现、一闪而过
+flicker|vi.（情绪、思想等）短时间闪现、一闪而过
+flourish|n. 1 [usually sing.] 为引起别人的注意而做出的夸张动作
+foil|n. [C] ~ (for sb/sth) 起陪衬作用的人或事物
+foreign|n. [正式] foreign to sb/sth 不是典型的某人或某事物的，即非典型的；（对某人或某事物来说）陌生的
+give|vt. 公开进行…或表演…
+gloss|n. [U, sing.] 有吸引力的外表（而内里并非如此），即虚假的外表
+greet|vt. 常用被动式，（景象、声音、气味）在某一时刻成为第一个被看到、听到或闻到的对象
+guard|vt. 保护信息或自己拥有的优势
+idea|n. [U, sing.] idea (of sth) 对某人或某事物的印象（或对其在头脑中的图像）。经常是一种想法
+impress|vt.＆vi. impress sb (with sth/sb)（某事物或某人）给某人留下好印象（使此人产生敬仰或钦佩之情），用在句子中时，其主语是造成印象的一方
+impressed|adj. ~ (by/with sb/sth) 对…有深刻的好印象的，如钦佩的、敬仰的
+impression|n. [C] impression (of sb/sth) / impression (that ...) 从某人或某事物处所得出的（或该人或该事物所给予你的）一种想法、感情或观点，即印象。是“印象”的常规用词
+impressive|adj.（事物或人）令人赞叹的；令人敬佩的；令人印象深刻的
+in|prep. 关于，在…方面
+indicate|vt.（不用通过言语的方式）显示信息
+intimate|adj. 个人隐私的（常指性方面的）
+keep|vt. keep a secret / keep sth secret (from sb) 保守（秘密）
+know|vt. 熟悉（某人、某地、某事物等）
+legible|adj.（手写的或印刷的文字）清晰得能够看懂的
+level|n. [C]（看待、回应、应对或理解事物的）某种方式；思考的层次
+light|n. [C]（所呈现的事物的）角度；或其状态、性质
+like|conj. [非正式] 好像，仿佛，似乎
+literate|adj.（某人）对某个学科（尤指很多人不了解的学科）通晓的
+look|linking verb. look (to sb) like sb/sth 看起来像，似乎，显得
+look|n. 1 [C, usually sing.] …的外观，外表，外貌，样子。仅指各种事物呈现于人类视觉（而非其他感官）的部分（即被人类视觉所感知的部分），含义的范围比appearance要窄
+low-key|adj. 不想吸引很多注意力的，如低调的、不招摇的、小规模的
+make|vt. 表现；描绘或刻画等
+manifest|adj. [正式] ~ (to sb) (in sth) / ~ (in sth) [正式] 容易看到或理解的，即明显的，显而易见的
+manifest|vt. [正式] ~ itself (in sth) 显现，变得明显
+manifest|vt. [正式] ~ sth (in sth) 清楚地显示（尤指一种感情、态度或品质）
+manifestation|n. [C, U] [正式] ~ (of sth) 表明、显示（…的存在或发生）
+marked|adj.（改变或区别）显而易见的、明显的
+mysterious|adj. 1 难易理解或解释的，即神秘的、奇怪的
+mystery|n. 1 [C] 不可理解之事，神秘之事
+naked|adj. [只用于名词前]（情感、态度等）表露得直白的、露骨的
+naked|adj. [常用于名词前]（事物）无遮盖的
+notable|adj. ~ (for sth) 值得注意的；显著的；重要的
+noteworthy|adj. 值得注意的；显著的
+noticeable|adj. ~ (in sb/sth) / ~ (that…) 容易看到或注意到的；显而易见的
+obscure|adj. 不知名的、鲜为人知的
+obvious|adj. 1 obvious (to sb) (that ...) 容易看到的或易于理解的，相当于clear
+occult|adj. [只用于名词前] 与神秘力量或事物相关的，不能通过理性和科学来解释的。相当于supernatural
+occult|n. [sing.] the occult可指神秘的事物、玄机
+open|adj. 1 比赛等对大众开放的，公开的，人人可参加的，相当于public
+open|adj.（结构或物体）无遮盖的，无包裹物的
+openness|n. [U] 空间上未被遮盖
+ostentatious|adj. 1 [贬]（人）炫耀的、卖弄的
+out|adj.（关于某事的消息或信息）被公开的
+outline|n. [C] 轮廓线；或（不展示细节的）略图
+outline|vt. 常用被动式，显示（或映衬出）…的轮廓
+outstanding|adj. 常用于名词前，非常明显的；或非常重要的。如突出的，相当于prominent
+outward|adj. 只用于名词前，看起来的，表面的，外表的，而非实际上的
+overt|adj. [正式] [常用于名词前]（行动或态度）公开的、非秘密的
+package|vt. package sb/sth (as sth) 以某种方式来呈现…，即把…包装成…
+palpable|adj. 很容易被头脑或意识察觉到的
+parade|vt. 在公共场合展览、展示（某人或某事物）
+parade|vt. 炫耀、展示（情感、品质、成就等）
+password|n. [C] 进入某地所需要的暗号、暗语
+patent|adj. 正式用法，强调某件坏事是很清楚明显的，赤裸裸的
+peek|vi. ~ out/over/through, etc. 可以刚刚被看到，如微微露出、探出
+peep|vi.（从隐蔽处）隐现、微微露出
+penetrate|vt. 洞察、发现或揭示（难以理解的或隐藏的…）
+perceptible|adj. 1 [正式] 明显得可觉察得到的、看得出的
+perspective|n. [C] ~ (on sth) 对某事的某种态度，思考…的一个方法，可称为视角、观点。尤指受到自己的信仰和经历影响而产生的看待问题的视角
+phenomenon|n. [C] phenomenons 在美国可指令人印象非常深刻的一个人或事物
+picture|vt. 常用被动式，指将…显示在照片或图片上，用照片或图片来显示
+plain|adj. 易于看到的、易于理解的，如清楚的、明显的、浅显的，相当于clear
+plot|vt. 用图表或计划来展示…的发展方式（或暗示其发展方向）
+point|n. [C]（某个事物、事件或人的）某个细节、方面、事实、品质、特征
+portray|vt. 在一幅画中展示某人或某事物；在一篇文章中描述某人或某事物。如描绘或描写
+portrayal|n. 1 [C] 在画作或图片中刻画或展示
+present|vt. present sth / present sth/sb/yourself as sth（以某种方式）显示，展现，表现等
+presentation|n. 1 [U] 将某事物展示给某人
+privacy|n. 1 [U] 隐私；私密
+private|adj. 1 常作前置定语，指专门为某个人（或群体）所拥有或使用的，而非公用的，即私有的，私用的，不对外开放的
+privileged|adj. [法律]（信息）经法律特许保密的（只有少数人知道的，不对公众公开的）
+produce|vt. 1 给出证据、论点等
+profile|n. 1 [C] 一个人脸部的侧面轮廓
+profile|n. [C] 公众对某人或某事物的印象，或某人或某事物在公众眼中的形象
+project|vt. project (yourself) 把某人（如自己）或某事物以某种方式呈现给他人，尤指给人良好印象，即表现
+projection|n. [C, U]（思想感情的）体现，形象化
+prominent|adj.（某事物）容易被看到的，如显眼的、显著的
+pronounced|adj. 非常明显的、极其显著的、表达明确的
+prove|linking verb.（在一段时间后）发现（或被发现）是，相当于turn out
+public|adj. 1 为公众所知晓的，即公开的
+read|vi. 某事物（例如标牌）上面写着…
+reflect|vi. 使人对…产生好或坏的印象
+release|vt. 展示能力
+relief|n. 1 [U] 光和色彩等产生的醒目效果，使物体与周围事物相比更明显
+represent|vt. 1 represent sb/sth (as sb/sth)（尤指在图画、图片或图表中）展示某人或某事物，还可称为描绘，相当于depict
+representation|n. [U, C] 对某人（或某事物）的表现、描述、刻画；表现形式
+resolve|vt.&vi. [正式]（使）某事物分解为更清晰的形式（其形状或各构成部分将变得清晰）
+respect|n. [C] 事物的某个方面（或细节）
+reveal|vt. ~ sth (to sb) 使某事为人所知
+revealing|adj. 揭露以前不知道的信息的，如透露内情的
+revelation|n. 1 [C] ~ (about/concerning sth) / ~ (that…) 被曝光的（尤指秘密的或令人震惊的）真相
+say|vt.＆vi. 无被动语态，（书面材料或可见的东西）提供某信息或某指示
+secluded|adj. 1（地方）清净的，不受其他人打扰的
+seclusion|n. [U] 隐居、与世隔绝、清静（不与外人联系）
+secrecy|n. [U] 保密；秘密
+secret|adj. 1 secret (from sb) 只有几个人知道，而对其他人保密的
+secret|n. 1 [C] 只有少数人知道，而未被告诉给其他人的事物或事情，即秘密，机密
+seem|linking verb. 1 seem (to sb) (to be) sth / seem like sth 给予是（或做）…的印象，即似乎，好像，看起来，相当于appear
+self-evident|adj. 显而易见的、不需要任何进一步的证据或解释的
+semblance|n. [sing., U] [正式] ~ of sth 某事物看起来存在（而实际上未必存在），如表象、外观
+sharp|adj. 常作前置定语，指差异、图像或声音等清晰可辨的、清楚明确的、鲜明的
+sharpen|vt. 使问题在人们之间变得尖锐和明朗化
+show|n. 1 [C, U] 展览或展览会。是一个普通用词，使用范围最广，各种大大小小正式非正式的展览会都可以用show来表示
+show|vt. 1 show sth (to sb) / show (sb) sth 让某人看，即出示，展示
+side|n. [C] 事物的某个方面（尤指情况或某人性格的一个方面）
+significant|adj. 显著的
+silhouette|n. [C, U]（浅色或强光背景衬托出的）人或物体的暗色轮廓
+silhouette|vt. [常用被动式] ~ sb/sth (against sth) 使某事物呈现暗色轮廓
+silhouetted|adj. 显出轮廓的；显出影像的
+skyline|n. [C]（建筑物、树、山等在天空映衬下的）轮廓线
+sneak|adj. [只用于名词前] 没有任何警告而突然完成的，如出其不意的
+sneak|vt. 偷偷地做某事，偷偷地把…带走（通常没得到许可）
+speak|vi. sth speak for itself 可指（自己）会说话；（本身）能说明问题
+stealthy|adj. 安静或秘密地做某事或完成某事的，即偷偷摸摸的、不声张的、秘密做某事的
+straight|adj. 只作前置定语，（选择）简单明了的；非此即彼的
+strand|n. [C]（观点、计划、故事、理论等的）部分，方面
+strange|adj. strange (to sb)（由于以前没在那里或没见到某人而）感到陌生的，不熟悉的。是此义的常规用词
+stranger|n. [C] stranger (to sb) 你所不知道的一个人，即陌生人
+strike|vt. strike sb (as sth) 给某人以某种印象，或让某人觉得
+striking|adj. 足够有趣且不寻常，因而能够吸引注意力的，如显著的
+surface|n. [sing.]（人、事物的）外表；外观；表面。不太常用
+surreptitious|adj. 秘密或快速完成的（以期不被别人发现）
+tell|vt.（文章、标记等）提供关于…的信息，即说明，显示
+tender|vt. [正式] ~ sth (to sb) 将某事物正式提供给某人，如出示
+trace|vt.（用手指或脚尖等在表面上）绘出、勾勒出某事物的外形或轮廓
+transparent|adj.（借口、谎言等）易于识破的、易看穿的，相当于obvious
+tribute|n. [sing.] ~ to sth/sb（良好效果或影响的）体现，显示
+twilight|adj. [只用于名词前] [正式]（状态）奇妙神秘的、虚幻神秘的
+uncover|vt. 揭开覆盖物
+underscore|vt. [尤美] 强调、突出、凸显
+unearth|vt. 艰难地揭露关于某件坏事的事实或证据（通常因其被保密或被谎言所掩盖）
+unfamiliar|adj. 1 ~ (to sb) 陌生的；不熟悉的；不认识的
+unfold|vt.&vi.（使）（一种情况）逐渐为别人所知或逐渐为人所理解，可称为逐渐显露
+unheard|adj.（口头言论或乐曲等）不为人知的、前所未闻的
+unknown|adj. ~ (to sb) 未被知晓的；未被确认的
+unknown|n. [sing.] the unknown可指未知的地方或事物
+unmistakable|adj. 清楚明白的
+unused|adj. 不习惯的、不熟悉的
+unveil|vt. 在公共场合为画作、雕像等揭幕（使其初次呈现于公众面前）
+viewpoint|n. [C]（观看某事物的）角度
+visibility|n. 1 [U]（尤指受到光线或天气影响的）能见度
+visible|adj. 容易被看见的
+visible|adj. 明显的，能被注意到的
+way|n. [C] 方面，与respect同义
+withhold|vt. [正式] ~ sth (from sb/sth) 拒绝透露
+writ|vi. [文学] ~ large 容易看见或理解的，即显而易见的

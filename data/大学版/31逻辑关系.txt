@@ -1,0 +1,90 @@
+after|prep. 尽管，虽然（发生了某事）。不常见
+again|adv. 1 用于对刚说过的话做出添加，即再说；其次
+also|adv. 不与否定动词连用，表示此外，而且，也，还
+although|conj. 用于对一个陈述进行评论，表示但是，不过，然而。可看作是其“虽然”之义的变相说法
+although|conj. 虽然，尽管，即使。一定不要倒装
+and|conj. 1 用于引出话语或问题
+and|conj. 1 用于连接单词或句子中的并列部分
+anyhow|adv. 同anyway
+anyway|adv. 尽管…；即使这样
+anyway|adv. 用于添加一个信息以支持一个观点或论点，即而且，加之，反正，相当于besides
+anyway|adv. 用于转换谈话的话题、结束谈话或回到原话题，即无论如何，反正
+as|conj. 尽管，虽然，即使。在语法上一定要采取倒装结构
+assume|vt. 假设，假定，即未经证明而认为。比suppose更专门地表示采取不确定的态度，以检验一项假设
+assumption|n. [C]（在没有证据的前提下做出的）假设、假定
+be|auxiliary verb. [正式] if sb/it were to do sth ... / were sb/it to do sth ... 用于表达一个条件
+before|conj. 用于警告或威胁某人，说坏事有可能发生，即不然，以免
+besides|adv. 1 用于对自己刚所说的做出额外陈述（或称补充），如再说、况且
+but|conj. 1 用于引出一个与已陈述内容相对比的一个词或短语、句子，即相反，而
+conclusion|n. [C]（对一种情况中所有相关信息进行思考后得出的）结论
+deduction|n. [C] 推理所得出的结论
+either|adv. 1 用于否定表达后，阐述一种与已提及的感情或情况相似的对应者，即也
+even|adv. 用于强调某事出乎意料或令人吃惊，如即使
+failing|prep.（如果刚提到的一种建议不可行的话）用于引出另一种可供选择的建议，如万一不行的话、如果不能的话、如果没有的话
+for|adv. 在条件句中，if not for 或 were it not for 可表示“要不是”
+further|adv. [正式] 除了已经提到过的之外还有，即此外、而且。相当于furthermore
+furthermore|adv. [正式] 除了已经被阐述过的，即此外、而且、再者。尤用于给论证添加论据。相当于moreover
+however|adv. 1 与形容词或副词连用，表示无论到什么程度
+however|adv. 用于引出一个与已陈述内容相对比的陈述，即然而，不过；仍然。转折感最为明确而强烈
+hypothesis|n. [C]（有少量事实依据但未被完全证实的）假说，假设
+hypothesize|vt.&vi. [正式] 在明确了解…之前对其采取的一种假设性的解释方式；形成一个假设
+hypothetical|adj.（基于）假设的；假定的（而非基于真实情况的）
+if|conj. 1 用于承认某事是可能的，但不是很重要，即虽然，即使。不常见
+if|conj. 1 表示假设，即如果，假如，倘若
+inference|n. [C] 推断得出的结果，即结论
+instead|adv. 反而，却。实际是用一个对象（如行为、人等）代替另一个对象
+likewise|adv. [正式] 也、还、而且
+meanwhile|adv. 用于对比一个情况的两个方面（尤其是完全对立的两个方面）
+moreover|adv. [正式] 用于给自己先前所说的内容添加新论据，即此外、而且、再者
+neither|adv. 1 用于表示一个否定的陈述同样适用于其他人或事物，即也不
+neither|det., pron. 两者都不
+nevertheless|adv. 尽管（情况如自己所说），用于与自己刚才所说过的形成对比。有时翻译为“不过”、“如此”
+nor|conj., adv. 1 neither ... nor ... / not ... nor ... 也不
+now|adv. 口语中用于所叙述信息的承上启下
+now|adv. 用于引出和已叙述内容形成对比的内容，即然而。不太常用
+oh|exclamation. 用于思索接下来该说什么，即嗯
+once|conj. 一旦
+only|conj. [非正式] 除了，只是；但是，可是
+or|conj. 1 用于引出另一种可能性，即或者，或
+or|conj. 1（也可用or else）用于警告或忠告某人（坏事有可能发生），否则，不然。是一个常规用词
+otherwise|adv. 用于说明如果某事没有发生或情况如果不同，将会是什么结果，即否则，不然
+plus|conj. [非正式] 用于添加更多信息，即而且，此外，况且，相当于furthermore
+plus|prep. [非正式] 和，也，外加，与minus相反
+postulate|n. [C] [正式]（作为一个理论之基础的）假设、假定
+postulate|vt. [正式] 假设、假定（某事是真的，以此作为一个理论的基础）
+premise|n. [C] [正式]（论证或思想的）前提、假设（论证或思想以此为基础进行阐发）
+presume|vt.&vi.（虽然没有确实证据而）假定、假设…是真的，即不肯定地认为、相信、推测。相当于assume
+presumption|n. [U, C] [法律]（在未证实或未确定的情况下做出的）假设、假定、推定
+presuppose|vt. [正式]（在证明…的真实性或存在性之前）姑且认为…是真的或存在的，并以此为基础来行事，即假设
+rather|adv. 用于提出一个与自己以前所陈述的观点所不同或相反的观点，如相反，反而，而是
+regardless|adv. 无论（即使情况糟糕或有一些困难）
+regardless|prep. regardless of 无论
+say|vt. 无被动语态，比方说；假设。是一个简单用词
+should|modal verb. 1 [英，正式] 同I或we连用，以代替would，表示如果某事先发生，你就将怎样做（即表示虚拟语气）
+so|adv. 也。一般用于倒装结构
+so|conj. 1 用于引出叙事的下文
+still|adv. 然而；（虽然…）还是；但；不过。语气要比however稍弱。也较为常用
+suppose|vt. 假定（某事是真的）、假设（某事是真的将会发生什么）
+supposition|n. 1 [C] [正式] ~ (that…) 虽然没有证据，但是你认为正确的想法，即假设性的想法
+that|conj. 用于某些动词、形容词和名词后，引出从句
+then|adv. 1 [正式] 用于引出对已陈述之内容的总结，即总之
+then|adv. 1 与now、well、okay等词连用，以引出新话题或新观点
+though|adv. 尤用于一个句子的结尾以添加一个事实或观点，使之前的陈述弱化，即不过，可是，然而
+though|conj. 用于添加一个事实或观点，使之前的陈述弱化，即不过，可是，然而。可看作是其“虽然”之义的变相说法
+though|conj. 虽然，尽管，即使。是一个常规用词，最为常用。可以倒装，也可以不倒装
+thus|adv. [正式] 以此方式，像这样，如此
+too|adv. 1 通常置于句末，表示也，还，又
+unless|conj. 1 用于说明只有在某种情况下某事才会发生或属实，即除非，除非在…情况下
+verdict|n. [C] ~ (on sth/sb)（经过检验、调查或认真考虑后的）结论
+well|exclamation. 1 用于在停顿后继续交谈
+whatever|adv. [非正式] 用于说明不管某人做什么或发生什么，都不要紧，因为结果都将一样，即不管发生什么
+whatever|det., pron. 表示无论某人做什么或无论发生什么事都没有关系，因为结果都一样
+when|conj. 虽然，然而，可是
+whenever|conj. 在任何…的情况下
+whereas|conj. 1 用以比较或对比两个事实，即然而、但是、尽管
+whether|conj. 用于表达…在两种情况中都属实
+while|conj. 用于对比两件事物，即…而，…然而。具有鲜明的对比色彩，所对比的两者是并列关系
+while|conj. 虽然…，尽管…。在语法上要置于句首
+with|prep. 虽然，尽管
+would|modal verb. 用于表示过去可能发生的行动或事件没有发生（因为之前另一件事没有发生）
+yet|conj. 然而，但是，相当于nevertheless

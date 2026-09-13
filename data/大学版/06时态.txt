@@ -1,0 +1,58 @@
+about|adj. be about to do sth 可指即将做某事、将要很快做某事
+after|adv. 后来，以后
+ago|adv. 用于表示时间的表达法中，表明某事发生在多久以前（常用于一般过去式）
+ahead|adv. 1（时间）向前面，在前面
+already|adv. 1 在现在（或过去某一时间）以前，即已经
+at|prep. 处于…状态，某人正在做某事，或某事正在发生
+back|adj. 只作前置定语，（在时间上）过去的，即旧时的
+be|auxiliary verb. be to do sth 用于说明后来发生的事
+be|auxiliary verb. 与现在分词连用，构成进行时
+before|adv.（某时或某事）以前；过去；已经
+behind|prep. 用于说明某事成为某人的过去
+brink|n. [sing.] the ~ (of sth) 某个处境的边缘
+current|adj. [只用于名词前] 现在发生的、当前的、现在的
+former|adj. 1 只用于名词前，（常常存在于）以前的
+formerly|adv. 在以前、从前
+forthcoming|adj. [只用于名词前] 即将发生的、即将出版等的
+forward|adv. 1 朝向未来，即向将来，往后
+fresh|adj. fresh from sth 刚从某地来的；刚有过某种经历的
+future|n. 1 [sing.] the future 将来的时间；将来要发生的事
+hardly|adv. 用于表示某事刚刚开始、刚刚发生等，即刚刚、才
+here|adv. 现在；在这一点（例如时间点）上
+hot|adj. [非正式] 指消息或新闻最新的
+immediate|adj. [常用于名词前] 目前的；当前的
+imminent|adj.（尤指不愉快之事）很可能即将发生的
+impending|adj. [只用于名词前]（通常指不愉快的事）很快即将发生的的。词义与imminent几无差别，不过imminent还可作表语
+in|prep. 当（正做某事）时，当（某事发生）时，即在…的过程中
+just|adv. 刚才，方才，刚刚
+last|adj. 只用于名词前，最近的
+loom|vi. 重要或危险的事情好像很快就要发生，即迫近
+midst|n. [sing.] in the ~ of 某事正在进行中
+new|adj. 1 new (to sth) 初来乍到的
+now|adv. 1 现在，此刻，目前；到现在。是此义的基础用词，含义较广，也极为常用
+now|adv. 对故事或过去事件进行描述时，now用于指正写道（或正说到）…的时刻，即这会儿，那时候
+nowadays|adv. 现在，目前，当今（与过去形成对比）
+old|adj. 1 只用于名词前，从前的；属于过去的时光的；属于生命中的过去时光的
+on|adv. 1 已连接，处于运转中或处于使用中
+on|adv.（预先安排的事）将发生
+once|adv. 1 在曾经的某时，即曾经
+original|adj. [常用于名词前]（绘画、写作等的作品）原作的、真迹的、非复制的
+past|adj. 1（在时间上）过去的，即往昔的、昔日的
+pasture|n. [pl.] pastures更好的地方（或工作、条件）；更好的前程。算是一种比喻用法
+present|adj. 只作前置定语，现在（发生或存在）的
+previously|adv. 1 在谈论的时间以前
+prospective|adj. [常用于名词前] 被期望（或被预期）很快发生的，即行将发生的、即将来临的。相当于forthcoming
+recent|adj. 常用于名词前，发生（或开始）于一小段时间以前的，即近来的。强调时间距离现在不远
+shall|modal verb. [正变得过时] 同I和we连用，以谈论或预测将来
+subsequent|adj. [正式] 在某事之后发生或到来的，即之后的、后来的、随后的
+then|adv. 用于指过去或将来的某一时间，如当时，那时；或到那时，届时
+today|adv. 1 在今日，在今天
+tomorrow|adv. 1 在明天，在明日
+under|prep. 正处于某个过程中
+upon|prep. [正式，尤英]（具有文学性）与on同义，通常较正式，或用于once upon a time等短语中
+upon|prep. upon sb 可表示（对某人来说）某个事件即将发生
+verge|n. [C] on/to the ~ of sth/of doing sth 极其接近于某个状态，如即将、接近于、濒于
+will|modal verb. 用于谈论或预测将来
+would|modal verb. will的过去式，用于转述某人的所说所想
+would|modal verb. 常含贬义，用于谈论你所认为的典型的行为
+yesterday|adv. 在昨天

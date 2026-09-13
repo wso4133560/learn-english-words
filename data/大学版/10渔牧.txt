@@ -1,0 +1,116 @@
+angle|vi.（常用go angling）（用鱼钩和钓线）钓鱼
+bait|n. [U, C] 鱼饵
+bait|vt. 在鱼钩上放诱饵
+battery|n. [C] [英] 常用作形容词，指养殖场使用的层架式饲养笼（如此类鸡笼）（由很多小笼子组合在一起所形成）
+bay|n. [C] 深棕色（或称栗色）的马
+bedding|n. [U]（供动物睡在其上的）垫草
+bit|n. [C] 马的嚼子（放在马嘴里的一根金属棒，以使骑手能够控制该匹马）
+bite|vi.（鱼）咬饵，咬钩，上钩
+breed|vt. ~ sth (for/as sth) 饲养（动物）
+breeding|n. [U]（为繁殖的）饲养
+cage|n. [C]（用于关动物或禽鸟的）金属笼子
+cage|vt. cage sth (up) 常用被动式，把动物关在笼子里
+calf|n. [C] 小牛、牛犊
+cast|vt. 马偶然踢掉马蹄铁
+cast|vt.＆vi. 将钓鱼线的一端（如鱼钩）投入河流等水体中
+cattle|n. [pl.] 被作为家畜来驯养的牛，包括bull（公牛）和cow（母牛）
+chestnut|n. [C] 栗色马；红棕色的马
+chicken|n. [C]（饲养以供下蛋或食用的）鸡
+cock|n. 1 [C] [英] [英美也可用rooster] 公鸡
+comb|n. [C] 公鸡的鸡冠
+cow|n. [C] 被饲养以产奶的大型雌牛，即奶牛；有时也把该物种的雄性和雌性动物统称为cows
+crop|n. [C] [术语] 禽类的嗉囊
+crop|n. [C] 骑马者用的短鞭子
+crop|vt. 动物啃吃植物的顶部（尤指啃吃草的顶部）
+culture|n. [U] 某种动物的养殖
+cultured|adj.（珍珠）人工养殖的
+dip|vt. 给牲畜（尤指绵羊）洗药浴（以杀死其身上的虫子）
+dock|vt. 把一个动物的尾巴剪短
+domestic|adj.（动物）驯养的，非野生的
+domesticated|adj.（动物）被驯养的
+donkey|n. [C] 驴
+draught|adj. [只用于名词前] 用于拖拽重物的
+duck|n. 1 [C] 鸭子
+farm|n. [C] 尤用于构成复合词，鱼或禽畜的养殖场、饲养场
+farm|vt.＆vi. 从事畜牧业
+farming|n. [U] 畜牧养殖
+farmland|n. [U, pl.] 饲养场
+feed|n. [U, C] 动物的饲料
+feed|vt. feed sb/sth (on) sth / feed sth to sb/sth 给一个动物提供食物，即喂养、饲养
+fish|vi. 1 fish (for sth) 为运动休闲等目的而用钩、网等钓鱼或捕鱼
+fisherman|n. [C] 以捕鱼或钓鱼为业或将其作为一项运动的人，即渔民，垂钓者
+fishing|n. [U] 钓鱼运动；捕鱼活动
+float|n. [C] 被系在钓线上的，钓鱼时被放在水面上的，等鱼咬钩后会移动的一个小而轻的物体，即鱼漂；浮子
+fly|n. [C] 钓鱼时被用作诱饵的苍蝇或苍蝇状物品
+fodder|n. [U] 马等家畜的饲料
+fold|n. [C]（用栅栏或墙壁围起来的）羊栏或羊圈
+for|n. [U]（牛马的）饲料
+forage|n. [U] 牛马的饲料
+goat|n. [C] 山羊
+goose|n. 1 [C] 鹅，可以是野生的，也可以是饲养的
+graze|vt. 放牧、放牛、放羊
+hack|n. [C] 供日常骑的马；供出租的骑用马
+harness|n. [C] 将马套在马车上所需要的一套器具（包含了皮带和一些金属器件），即马具、挽具
+hay|n. [U] 被割下来晾干用作动物饲料的草，即干草
+hen|n. [C] 母鸡
+herd|vt. 驱赶（牲畜）；牧放（牲畜、兽群）
+hook|n. [C]（用于钓鱼的）钩
+hook|vt. 专指用鱼钩来钓鱼
+horse|n. [C] 马
+hunter|n. [C] [英] 捕猎狐狸时所用的一匹快速强壮的马
+keep|vt. 拥有并照顾动物，即养，饲养
+kid|n. [C] 小山羊
+lad|n. [C] [英] 马夫；马倌
+lamb|n. [C] 小绵羊，即羔羊
+land|vt. 捕到鱼，钓到鱼
+lash|n. [C] 鞭子的末端皮条，即鞭梢
+lasso|n. [C]（捕马、套牛等用的）套索
+lasso|vt. 用套索套捕（动物）
+litter|n. [U] 供农畜睡觉用的物质（尤指麦秆，作为垫草）
+low|vi. [文学] 牛（哞哞地）叫
+milk|n. [U] 牛、羊或其他动物的奶
+mount|n. [C] [正式或文学] 一匹供骑乘的马，即坐骑
+mule|n. [C] 骡子
+novice|n. [C] 尚未赢过重要赛事的一匹马
+ox|n. 1 [C] 被阉割的公牛，用于拉动农具或拉动交通工具、搬运货物
+pair|n. [C] 一起拉马车的两匹马
+pastoral|adj. 畜牧的
+pasture|n. [U, C] 牧草地、牧场
+pasture|vt. 放牧
+pen|n. [C] 临时圈养牲畜的圈
+pen|vt. pen sb/sth (in/up) 把动物或人关在一个狭小的地方
+pig|n. [C] 猪
+pony|n. [C] 矮种马、小型马
+poultry|n. [pl.] 家禽（如鸡、鸭、鹅）
+raise|vt. 饲养（牲畜）
+ranch|n. [C]（饲养牛、马、羊等的）大型牧场，尤指北美或澳大利亚的大牧场
+range|n. [sing.] [美] the range 可指（饲养奶牛等的）大牧场；乳牛场
+rear|vt.（例如在饲养场）饲养动物或禽鸟
+rein|n. [C, usually pl.]（骑手控制马所用的）缰绳
+ring|vt. 给一只禽鸟的腿上戴上一个金属环（以便将来易于辨认）
+rod|n. [C] 钓鱼竿，相当于fishing rod
+rooster|n. [C] [尤美] 公鸡
+rope|vt. [尤美] 以扔出圆形套索的方式来抓捕动物，相当于lasso
+run|n. [C] 常构成复合词，指动物或禽鸟的饲养场
+saddle|n. [C] 马鞍
+shed|n. [C] [澳大利亚；新西兰]（常构成复合词）剪羊毛棚；挤奶棚
+sheep|n. [C] 绵羊
+shoe|n. [C] 铁制马掌，即马蹄铁。相当于horseshoe
+shoe|vt.（给马）钉马蹄铁
+silage|n. [U] 青贮起来（而不用晾干）的、用于在冬天喂养家畜的饲料，即青贮饲料
+spur|n. [C] 骑马者戴在靴子的脚跟部位的锋利尖锐物体，用于使马加速，即马刺、靴刺
+stable|n. 1 [C] 马厩
+stable|vt. 把马置于马厩（如拴在马厩或饲养在马厩）
+stall|n. [C] 能容纳一头牲畜的牲畜棚，如马厩、牛棚（一般是一个大建筑的一部分）
+station|n. [C] 常构成复合词，指澳大利亚或新西兰用于放羊或放牛的大型牧场
+steer|n. [C] 饲养以供食用的被阉割的公牛
+stirrup|n. [C] 马镫（在马鞍的两侧，用于踩着跨上马）
+stock|n. [U]（饲养以供获取其肉、皮毛等的）牛、羊等家畜、牲畜
+tack|n. [U] [术语] 骑马所需要的装备，如马鞍和缰绳，即马具
+tackle|n. [U]（做某项体育运动或活动所用的）用具，尤指渔具
+tame|adj.（动物、鸟等）驯服的
+trace|n. [C, usually pl.] 用于把马和其所拉的车拴在一起的两根皮质长绳子之一
+trough|n. [C]（动物吃食喝水的）长槽、饲料槽、饮水槽
+water|vt. 给动物水喝，即饮（动物）
+whip|n. [C] 鞭子
+worry|vt.（狗）通过追赶和咬来攻击动物（尤指一只羊）

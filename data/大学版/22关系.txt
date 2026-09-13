@@ -1,0 +1,84 @@
+about|prep. 关于、对于（某人或某事物），与某人或某事物有关
+after|prep. 关于…
+allied|adj. [正式] ~ (to/with sth)（两个或两个以上的事物）类似的；有关联的、相关的
+apart|adv.（关系）破裂地
+association|n. [C, U] association (with sb/sth)（不同的人或组织之间的）联系或关系
+bearing|n. [U] ~ on sth 关系
+between|prep. 用于表示一种联系或关系
+bond|n. [C] bond (between A and B) 人或团体之间的纽带、联系、关系，例如友谊、共同的观念或经历（relations、relationship、bond、tie、link都可表示两个或多个人、团体、国家之间的关系。其中relation要用复数relations，relations与relationship均是此义的常规用词，最为常用。bond、tie与link均为形象化用法，也较为常用）
+bond|vt.＆vi. bond (with sb) 与某人创建或发展信任关系
+bound|adj. 紧密联结的
+breach|n. [C] 两人或两国之间关系的破裂
+break|vt.＆vi. 终止或断绝（与…的联系或与某人的关系）
+break-up|n. [C]（婚姻、家庭、关系或联系的）破裂，终结
+breakdown|n. [C, U]（关系的）破裂
+broken|adj. 常用于名词前，（关系）结束或破裂了的
+concern|vt. 1 常用被动式，影响某人、涉及或牵涉某人。是一个常规用词
+connect|vt. 1 connect sb/sth (with sb/sth) 常用被动式，与某人或某事物有联系（或有关联）
+connection|n. 1 [C] connection (between A and B) / connection (with sth)（两个事实、观念、事物、区域等的）联系、关联，相当于link
+contact|adj.（细节信息、电话号码等）供联系的、供联络的
+contact|n. 1 [U] ~ (with sb) / ~ (between A and B)（人或机构）与某人（或其它机构）的联系、联络，尤指经常的联系或联络
+contact|vt.（例如用电话或信件）联系、联络某人
+continuity|n. [U, C]（某事物的两部分，或两个事物之间的）逻辑上的连接或联结
+correlate|vi.（两个或两个以上的事实、数字等）相互关联影响；相互依赖
+correlation|n. [C, U] ~ (between A and B) / ~ (of A with B) 两者间的相互关联（即一方的变化会造成另一方的变化）
+correspondence|n. [C, U] ~ (between A and B)（两个事物间的）相关；相似
+correspondence|n. [U, C] ~ (with sb) 书信联系
+cover|vt. 涉及
+cut|vt. 完全与某人断绝关系
+deny|vt. 否认与某人有关系
+dependence|n. [U] [术语] ~ of A and B（受其影响或决定的）相关性
+drop|vt. 不再与某人（如朋友）往来，与某人（如朋友）断绝联系
+entwine|vt. [常用被动式] be entwined (with sth) 与…紧密相关或紧密相联
+extend|vi. 涉及某人或某事物
+follow|vt.（书籍或电影）涉及…生活；或有关…的发展
+for|prep. 1 考虑到…的情况（基于从…所获得的期望值所做出的陈述，强调一种由该期望所得出的结论，横向上则构成对比关系）
+for|prep. 关于
+identify|vt. 把…与…密切联系、认为…与…有关联
+implicate|vt. ~ sb (in sth) 一件坏事或一桩罪案把某人牵涉进去
+implication|n. [U] ~ (of sb) (in sth)（被）牵连，牵涉（进罪案之中）
+incriminate|vt. 使某人看起来好像做了错事或犯了罪，如牵连、连累
+interrelate|vt.&vi. 相互关联、相互影响
+interrelated|adj. 相互关联的
+intersect|vt.&vi. 与…交叉、与…相关联
+intertwine|vt.&vi. [常用被动式] 与某人或某事物紧密相联
+into|prep. 关于
+involve|vt.（一种情况、一个事件或活动）牵涉或影响某事物
+involved|adj. [名词前不可用] ~ (in sth) 与某事有关联
+involvement|n. [U] ~ (in/with sth) 牵连；牵涉
+liaise|vi. [尤英] ~ (with sb) 与某人协同工作并交换信息，如联络、联系
+liaison|n. 1 [U, sing.] ~ (between A and B) 机构之间或机构内部的部门之间的联络、联系（常涉及交换信息或观点）
+link|n. 1 [C] link (between A and B)（两个或多个人或事物之间的）联系，关联，连接
+link|vt. 1 link A to/with B / link A and B (together) 常用被动式，（两个事物、事实或情况）相互联系，相关联
+network|n. [C] 紧密联系起来的一群人或公司等（以交换信息等），如关系网、人际网络等（network和web均可指人或组织之间的“关系网络”，其中network是一个常规用词，强调各节点之间有某种往来，而web则强调这种网络的整体上的复杂性）
+network|vi. 商业中可指与别人建立工作关系
+of|prep. 关于或展示、反映（某人或某事物）
+on|prep. 关于某事（或某人）
+over|prep. 由于…，关于…
+peg|vt. [常用被动式] ~ sth (at/to sth) 使工资、价格等与…挂钩
+pertain|vi. [正式] 在某种情况下（或在某个时间）与…相关
+pertinent|adj. [正式] ~ (to sth)（对某种情况来说）合适的、恰当的；与某一主题有关的、相关的
+relate|vt. relate A (to B)（在两个或多个事物之间）表明或建立一个联系，如使有联系、把…联系起来，相当于connect
+related|adj. ~ (to sth/sb) 与…有关的、有联系的
+relation|n. 1 [pl.] relations (between A and B) / relations (with sb/sth) 两个人（或团体、国家）之间的关系（是双方之间的一种互动方式或处理与对方有关的事务的方式）
+relationship|n. 1 [C] relationship (between A and B) / relationship (with sb) 两个人（或团体、国家）之间的关系（是双方之间的一种互动方式或处理与对方有关的事务的方式）
+relative|adj. [正式] relative to sth 与…有关的；涉及到…的
+relevance|n. [U] 相关性
+relevant|adj. relevant (to sth/sb) 与你正在讨论的主题（或你正在思考的情况）紧密相关的。极为常用
+renounce|vt. [正式] 公开宣布断绝与某人或某事物的关系
+repudiate|vt. [正式] [旧时用法] 拒绝与某人再来往
+sever|vt. [正式] 彻底断绝与某人的关系或所有联系
+surround|vt. 与…紧密相关，即围绕
+through|adj. [尤美] 不作前置定语，用于表示已与某人断绝了一种关系
+tie|n. [usually pl.] 不同的人或组织等之间的一种牢固的联系、关系或纽带
+tie|vt. tie sb/sth (to sth/sb) 常用被动式，将…与…紧密联系起来
+to|prep. 1 指向；对于（表示某事对…造成影响）
+to|prep. 关于
+to|prep. 表示两个人或两个事物之间的关系
+touch|n. [U] 联系。不如association正式，且仅为不可数名词
+touch|vt. 1 [旧时或正式]（短暂地）影响到…；与…有关
+triangle|n. [C] 涉及三个人复杂关系的一种情况，即三角关系
+unravel|vi.（关系）瓦解
+with|prep. 关于，对于，对…来说
+with|prep. 用于说明两个事实之间的关系
+withdrawal|n. [U, C]（关系的）断绝

@@ -1,0 +1,152 @@
+acute|adj. 几何中可指角度小于90°的，即锐角的
+angle|n. 1 [C]（两条线或两个面所形成的）角（以度数来测量）
+angle|vt. 移动（或放置）…，使其不直接对着某人或某物，即斜移；斜置
+arc|n. 1 [C] [几何学] 弧
+arch|n. 1 [C] 拱形结构
+area|n. [C, U]（量度意义上的）面积。是此义的常规用词，最为常用
+around|adv. [尤美] [英常用round] 以圆周计算
+at|prep. 用于说明两者之间的角度
+band|n. [C] 带状（如颜色带、光带、衣服等事物上的条纹等）
+blueprint|n. [C]（建筑、机器等的）蓝图
+bore|n. [C]（美式也尤用gauge）管道（如枪炮的管道）的宽度，即内径、口径
+box|n. [C] 纸上的一个小方格子（可以是正方形或长方形），用于填写信息
+breadth|n. [U, C]（度量的）宽度
+broad|adj. 1 宽阔的；广阔的。相当于wide。此时一般可以和wide互换使用
+bubble|n. [C]（漫画中显示人物对白的）气泡框，圆框
+cant|vt.&vi. [正式]（使）某事物倾斜
+check|n. [C, U]（通常指双色的）方格图案，方格，格子
+circle|n. 1 [C] 一个完全的圆形，圆。是几何中“圆形”的常规用词，最为常用
+circular|adj. 圆形的；环形的；圆的
+circumference|n. [C, U] 圆形（或其它曲线形状）的圆周；也可指此种周长
+construct|vt. 几何学中可指（按照数学规则来）画线或绘制图形
+corner|n. 1 [C] 某事物（如建筑物、物体、形状）上两个或多个侧面、线、边缘相接合的一个地方，即角
+cube|n. [C]（实体或中空的）立方体
+cubic|adj. 拥有立方体的形状的，即立方形的
+curve|n. [C] 曲线；弧线
+curve|n. [C] 曲面；弯曲
+cut|vt.（几何学中可指一条线与另一条线）相交
+cylinder|n. [C] 实心或空心的圆柱体，即圆柱、圆筒
+decoration|n. [U, C] 被添加到某事物上的装饰性图案等（使该事物看起来不那么单调朴素）
+deep|adj. 1（由顶到底）深的，厚的
+depth|n. 1 [C, U] 从某事物的顶部（或表面）到其底部的距离，即深度
+descend|vi. [正式]（山、道路等）向下倾斜
+descent|n. [C] 向下的斜坡
+design|n. [C] 作为装饰的（线条和图案的）一种安排，可称为装饰图案、花纹等，相当于pattern
+diagonal|adj.（一条直线）成斜线状的；对角线的
+diameter|n. [C] 直径
+diamond|n. [C] 菱形
+dimension|n. [C] 一种空间的量度（例如长、宽或高），即维度（常用dimensions）
+drop|vi. drop (away) (from sth) 急剧向下倾斜
+ellipse|n. [C] [术语] 椭圆
+erect|adj. [正式] 垂直的；竖直的；直立的。相当于straight
+extension|n. [U, C] 空间的延长
+extent|n. [sing., U] 一个区域的物理面积
+face|n. [C] 某事物的面或表面（如悬崖、山、建筑物等的侧面）
+fall|vi. fall (away/off) 向下倾斜
+figure|n. [C]（几何学中由线或面所构成的）图形，尤指规则图形
+form|vt.＆vi. form (sb/sth) (up) (into sth) 移动（或安排）一些物体或人，使其形成一个具有某种形状的群体；（一些物体或人）排列成某种形状
+formation|n. [U, C] 一些人或事物移动时以某种方式进行的编排，如编队、队形
+gauge|n. 1 [C]（尤指金属或金属丝的）宽度、厚度、直径
+geometry|n. [U] 几何图形，几何形状，几何结构
+gradient|n. [C] [术语]（在曲线图或一系列测量数据中，温度、压力等的数值在两个区域之间的）变化率
+gradient|n. [C] [美式也尤用grade] 地面（尤指公路或铁路）的坡度、倾斜度
+grain|n. [U] 木头、织物或岩层等的纹理；由各条线（或纹理）所形成的样式或图案
+grid|n. [C] 通常指互相交叉而形成一些正方形的一些直线，如网格、方格
+head|n. [C] a head 为单数名词，可表示一种量度，指如人或动物的一个头的长度或高度
+height|n. 1 [U, C]（人或物的）身高，高度
+heptagon|n. [C] [几何学] 七边形、七角形
+hexagon|n. [C] [几何学] 六边形、六角形
+high|adj. 1（从底到顶）高的（不用于形容人、动物或植物的个头）
+horizontal|adj. 水平的、与地面平行的、横的
+in|prep. 用于表明某事物的形式、形状、秩序等
+inclination|n. [C, usually sing., U] [术语] 倾斜度
+incline|vt.&vi. [正式] ~ (sth) (to/towards sth)（使）倾斜
+inclined|adj. 倾斜的；成某个角度的
+intersect|vt.&vi.（线、道路等）彼此相交、交叉
+irregular|adj.（形状）不整齐的；不平整的；参差不齐的
+irregularity|n. [U, C] 形状不整齐（或不平整）的事物
+lean|vi. 从一个垂直（或竖直）的位置弯曲或移动，即前俯（或后仰）、倾斜
+length|n. 1 [U, C]（从一端到另一端的）空间长度
+level|n. [C, U]（与地面或过去的位置相对的）高度。与height有交集，在交集部分，二者可互换使用
+line|n. 1 [C] 一个表面上的一个细长的标记，即线、线条
+linear|adj. 1 线的、直线的、线状的
+linear|adj. 长度的
+lined|adj.（纸张）画有横线的；印有横线的
+long|adj. 1（空间距离）长的
+loop|n. [C] 环形；环状物；圆圈
+make|vt. 排成（某图案）
+marked|adj. 带有斑点或斑纹的
+meet|vt.＆vi.（两条线）相交。其词义与cut类似，而与cross有明显区别。即meet与cut可表示除交叉外的两种特殊情况，第一是相交的两条线段在各自的顶点处与对方相交（此时构不成交叉），第二是相交的两条线段中有一条的顶点与另一条的非顶点处相交（此时也构不成交叉）。此时meet与cut在几何领域难见差别，但是现实生活中meet在此义项下比cut更为常用
+motif|n. [C] 装饰图案
+mould|vt. ~ A (into B) / ~ B (from/out of/in A) 通过挤压或放在模具里而将某种柔软物质（如塑料、黏土）塑造成特定的形状，即塑造、浇铸
+oblique|adj. 1（线）斜的、倾斜的
+obtuse|adj.（角度）钝的、钝角的（即角度位于90°到180°之间）
+octagon|n. [C] [几何学] 八边形；八角形
+oval|adj. 椭圆形的；卵形的
+parallel|adj. parallel (to/with sth)（两条或多条线）平行的。是此义的常规用词，最为常用
+pattern|n. [C]（材料、地毯、音乐等东西上的）对于线条、形状、颜色、声音等的规则排列，作为一种图案或式样
+patterned|adj. ~ (with sth) 带有装饰性图案的
+pentagon|n. [C] [几何学] 五边形、五角形
+perimeter|n. [C] [数学]（一个区域或形状的）周长
+perpendicular|adj. ~ (to sth) [通常为术语] 与一条线或一个平面形成90°角的，即垂直的、成直角的
+pitch|n. [sing., U] [术语] 屋顶的倾斜度
+plan|n. 1 [C] 一栋建筑物、一个城镇等的一张详细图纸
+plane|n. [C] 几何学概念上的平面，不止是水平的平面，也可以是有一定坡度的平面。可以是现实中的平面，也可以是想象中的平面
+plunge|vi.（道路、表面等）陡峭地向下倾斜
+polygon|n. [C] [几何学] 多边形；多角形
+pyramid|n. [C] 几何学中的角锥体（其底面可以是正方形，也可以是三角形等）
+quadrilateral|n. [C] [几何学] 四边形
+radius|n. [C]（圆的）半径；半径长度
+ramp|n. [C] 连接一条道路、一座建筑物等的两部分（其中一个部分比另一个部分位置要高）的一个斜坡
+rectangle|n. [C] 长方形，矩形
+regular|adj. 形状均匀的，或形状端正整齐的
+ring|n. [C] 环形的标记或形状。如眼圈、站成的一圈。此时和circle有交集，二者可以互换使用（如stand in a circle可换成stand in a ring）
+rough|n. [C] [术语] 绘画或设计的第一版（完成得比较快且有很多细节需要完善的），即草稿；草图
+round|adj. 1 圆形的；环形的；球形的。是此义的一个常规用词，最为常用
+round|adj. 球形的
+round|adv. [尤英；美常用around] 周长
+rounded|adj. [常用于名词前] 圆形的
+screw|adj.（盖子、配件）带螺旋的
+section|n. [C] 剖面图；断面图；截面图
+sector|n. [C] [几何学] 扇形
+segment|n. [C] [几何] 从圆形中分离出来的一部分，即弓形、圆缺
+semicircle|n. 1 [C] 几何学中可指半圆
+shape|n. [C, U] 某事物的形状；外形；样子；呈…形状的事物
+shaped|adj. 具有某种形状的
+short|adj.（空间长度）短的（可指本来就短的，也可指比通常要短的）
+side|n. 1 [C] 某事物的一个扁平侧面（非顶端或底端；也非前面或后面）
+silhouette|n. [C] 物体的形状
+skew|vi. [英] 以一定角度移动或躺下（尤指不正常的姿势），如偏离、倾斜
+slant|vt.&vi.（使）倾斜、歪斜
+slope|n. 1 [C] 倾斜的平面；土地的斜坡
+snub|adj. [只用于名词前]（鼻子）短平而上翘的
+solid|adj. 几何学中可指立体的，立方的（而非平面的）
+solid|n. [C] 几何学中可指立体图形
+span|n. 1 [C] 宽度
+sphere|n. [C] [几何] 球；球体；球形
+spiral|n. [C] 螺旋的形状或样式
+spot|n. [C] 某事物表面上的斑点（常为小的圆形有色区域，可以是颜色与周围不同的斑点，也可以是其他感觉上与周围不同的斑点）
+spread|n. [C, usually sing.] spread (of sth)（某事物所覆盖的）面积。不常用
+spread|n. [C, usually sing.] spread (of sth)（某事物的）宽度
+square|adj. 1 几何学中可指正方形的
+square|adj. square (with sth) 不用于名词前，指与…在同一水平线上的，或与…平行的。此时不太常用
+stature|n. [U] 一个人的身高、个子
+streak|n. [C]（与周围颜色不同的）条纹、条痕
+stripe|n. [C]（与周围颜色不同的）条纹、线条
+swirl|n. [C] 螺旋或旋涡状的图案
+symmetry|n. [U]（某事物的两个部分或两侧在尺寸和形状方面）对称
+tangent|n. [C] [几何学] 切线
+thickness|n. [U, C] 宽度
+thickness|n. [sing.] 最深处
+tilt|vt.&vi.（使）变得倾斜、倾侧
+tip|vt.＆vi.（使）倾斜，与tilt相同
+trapezium|n. 1 [C] [英] [美用trapezoid] [几何学] 梯形
+tread|n. [C, U]（鞋底或轮胎外面凸起的）花纹
+triangle|n. 1 [C] 三角形；三角形物体
+uneven|adj. 没有规则的尺寸或形状的
+upright|adj. 1（人）直立的（可以是站直，也可以是坐直的，而非躺下或背部弯曲的）
+vein|n. [C]（石头、木头、奶酪上的）纹理、纹路
+vertical|adj. 1（线、杆等）与一个水平面垂直的，或（在一个图片等中从顶部到底部）竖直的，相当于perpendicular
+wide|adj. 1（从一边到另一边）宽的；宽阔的
+width|n. 1 [U, C] 宽度
+wreath|n. [C] [文学]（烟、云等的）圈

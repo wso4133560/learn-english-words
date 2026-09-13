@@ -13,7 +13,7 @@ export function useKeyboard(handlers: KeyboardHandlers) {
   const handleKeyDown = (event: KeyboardEvent) => {
     const target = event.target as HTMLElement
 
-    if (target.tagName === 'INPUT' || target.tagName === 'SELECT' || target.tagName === 'TEXTAREA') {
+    if (event.repeat || target.tagName === 'BUTTON' || target.isContentEditable || target.tagName === 'INPUT' || target.tagName === 'SELECT' || target.tagName === 'TEXTAREA') {
       return
     }
 

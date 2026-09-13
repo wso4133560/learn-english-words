@@ -1,0 +1,42 @@
+at|prep. 北美英语中，提供电话号码时可用at
+busy|adj. [尤美]（电话）正被占用的，即占线的，相当于engaged
+buzz|vt.&vi. ~ (for sb/sth)（尤指用内线）给…打电话；用蜂鸣器召唤某人
+call|vt. 打电话让某人迅速来到某地，即打电话叫…
+cell|n. [C] [尤美，非正式] 等于cellphone，蜂窝式便携无线电话，即移动电话，手机
+cellphone|n. [C] [尤美] 移动电话。相当于mobile phone和cellular phone
+collect|adj. [美]（电话）由受话人付费的
+connect|vt. 为某人接通电话（使双方能够通话），相当于put through
+connection|n. [C] 将两个部分连接起来的一个点，即连接点，尤指电力系统中的接头
+cradle|n. [C] 电话机的听筒架
+dial|n. [C] 一些旧式电话机上的（以旋转的方式来拨号的）拨号盘
+dial|vt.＆vi.（通过按压或转动的方式来）拨电话号码
+earphones|n. [C, usually sing.] 电话的听筒
+end|n. [usually sing.] 电话线所联接的两个地方之一
+exchange|n. [C] 电话交换台，电话总机，电话局
+extension|n. [C] 缩写为ext. 指电话分机线；电话分机号码
+get|vt. [非正式] 接（电话）
+get|vt. 无被动式，指（与某人）电话联系；（与某人）通电话
+give|vt. 给某人打电话，是一个简单用词，常用
+hold|vt.＆vi.（打电话时）等待，不挂断
+hotline|n. 1 [C]（供公众咨询或提供信息用的）热线
+information|n. [U] [美，非正式] 查询某人电话号码的一种电话服务，相当于英式的directory enquiries
+intercom|n. [C]（办公室、飞机等场合中的）电话（或无线电）通讯系统，即内部通话系统；也可指这种内部通话设备
+line|n. [C] 电话线路；电话号码
+mobile|n. [C] [英] 移动电话，手机，相当于mobile phone
+mouthpiece|n. [C] 电话的话筒
+number|n. [C] 常构成复合词，指电话、传真等的号码
+on|prep. 用于给出一个电话号码
+operator|n. [C] 英也用telephonist，指电话接线员
+outside|adj. 只用于名词前，位于主建筑物外面的；从主建筑物出去的
+phone|vt.＆vi. [尤英] [英也用phone up] 给某人打电话，相当于call
+raise|vt.（通过无线电或电话）与某人取得联系并和其通话
+reach|vt. 与某人联系，尤指用电话联系
+receiver|n. [C] 电话的听筒
+reverse|vt. [英] ~ (the) charges 打对方付费的电话
+ring|vt.＆vi. [英] [英美也用call] ring sb/sth (up) 给…打电话
+switchboard|n. [C] 电话的交换机、交换台、总机
+telephone|n. 1 [C, U] 用电话线或无线电与某人进行远程通话的一个系统，即电话系统；也可指此类机器，即电话机；还可指用电话进行的通话
+telephone|vt.＆vi. [正式，尤英] 给某人打电话，相当于call和phone
+through|adv. 指电话接通着
+tinkle|n. [usually sing.] [过时，英，非正式] 电话通话
+videophone|n. [C] 可视电话（打电话的同时可看到通话的对方）

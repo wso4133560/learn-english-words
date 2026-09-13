@@ -1,0 +1,56 @@
+about|adv. [尤英] 能够在某地被发现，如附近、周围
+after|prep. 表示某地在另一地以外的更远的某处
+apart|adv. 被空间上的距离所隔开，即（空间上）相隔，相距
+approach|vt.＆vi.（在空间上）靠近，接近
+at|prep. 在（桌子、门、某人等的）旁边
+at|prep. 用于说明距某物的距离
+away|adv. away (from sb/sth)（在时间或空间上）到某一距离处；在某一距离处
+away|adv. away (from sb/sth)（在空间上）到某一距离处；在某一距离处
+bedside|n. 1 [usually sing.] 床的旁边
+beyond|prep. 在…较远的一边；向…较远的一边
+bit|n. [sing.] [尤英] a bit（空间的）短距离
+block|n. [C] [美] 一块地（或一群建筑）一侧的街道长度（且该街道依次穿过至少两个街道）
+bottom|n. [sing.] [尤英] the bottom (of sth) 某事物距离你（或距离你的住宅等）最远的部分，可称为尽头
+by|prep. 在…旁边，靠近…
+clear|adv. [尤美] 一直（到远处的某事物）
+clearance|n. [U, C] 两个物体间为保持两者互不接触所需要的空间或距离，如（路面、河面与上方桥梁之间的）净空，间隙，间距
+close|adj. close (to sb/sth) / close (together) 常作表语，指（在空间上）靠近的
+distance|n. 1 [U]（空间的）遥远
+distance|n. [C, U]（两地或两个事物之间的）距离，间距
+distant|adj.（空间上）远的，即遥远的，远处的
+door|n. [pl] 两个住宅（或房间）之间相隔的住宅（或房间）的数量
+end|n. [sing.] 一个物体或地方的末端、尽头、距离中心的最远端
+extreme|adj. 只用于名词前，尽量远离中心、开始或某个方向的，如末端的、尽头的
+far|adv. 1 far (from, away, below, etc.)（空间距离）远
+for|prep. 表示距离
+from|prep. 表示两地的距离
+further|adv.（far的比较级）[尤英] 空间距离较远、更远
+immediate|adj. [只用于名词前]（在空间上）接近的；附近的
+immediately|adv. 通常与介词连用，表示挨着（或紧挨着）某一地点
+inch|n. [C] 短距离
+last|adj.（空间）尽头的
+level|adj.（某人）接近（某人或某事物）的
+little|adj. 只作前置定语，（距离）近的
+near|adj. 距离近，不远，相当于close
+nearby|adj. 常用于名词前，（在位置上）附近的，临近的，不远的
+off|adv. 在（空间的）某个距离上
+off|prep. 在离某地（如海岸、房间、道路等）的不远处
+on|prep. 在某地附近
+out|adv., prep. out (of sth) 远离（某地或陆地）；距离某地或陆地有多远
+pace|n. [C]（走或跑时）迈出的一个步子；也可指（迈出的）一步的距离。相当于step
+piece|n. [sing.] [旧时，美，非正式] 一段短距离
+proximity|n. [U] [正式] ~ (of sb/sth) (to sb/sth)（空间上的）接近、邻近、靠近
+reach|n. [pl.] the outer, further, etc. reaches of sth 远离中心的一个区域或地方
+reach|n. [sing., U] 手臂展开（以够到或触摸到某物）时的长度；使用某一物体以够到或触摸到其他事物时的长度或距离；走到某地的距离
+remote|adj. remote (from sth)（与其他人居住的地方）距离较远的，即偏远的，偏僻的，与isolated近义
+remove|n. [C, U] [正式] 两个相分离的事物之间的间距、差距、距离
+side|n. [sing.] 某人或某事物的近旁，旁边
+step|n. [C] 一步的距离
+stride|n. [C] 一大步；一步的距离
+terminal|adj. [正式或术语] 常用于名词前，处于某事物的末端的，末梢的
+throw|n. [C] 某事物被投掷的距离
+to|prep. 在空间长度或距离上达到某处
+top|n. [sing.] the top of sth（一条街道、一张桌子等）相对于你所在的位置来说的最远端、尽头
+walk|n. [sing.] 去某处所需步行的距离
+way|n. [sing.] [美国的非正式用ways] 两点之间的距离
+within|prep.（以某事物为起点）在某段距离之内；不超出某段距离

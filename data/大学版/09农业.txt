@@ -1,0 +1,104 @@
+agricultural|adj. 农业的；农艺的
+agriculture|n. [U] 农业；农学，农艺
+allotment|n. [C] [英]（城镇居民可以租来种菜的）小块土地
+arable|adj.（农业）耕种的; （土地）适于耕种的，可开垦的
+bank|n. [C] 像“堤”一样的土地形态，如垄、埂
+barley|n. [U] 大麦；大麦粒
+barren|adj.（土地或土壤）贫瘠的，不利于植物生长的
+bean|n. 1 [C] 豆子的总称，豆科植物，常是一种藤蔓植物；也可指豆荚
+bed|n. [C] 园子或院子中用于种植花、蔬菜等的一块土地，如花坛，苗圃，菜园等
+border|n. [C]（草坪边缘的）狭长花坛
+breed|vt. ~ sth (for/as sth) 培育（植物）
+bumper|adj. [褒] [只用于名词前] 产生大量…的，尤指庄家丰收的
+cereal|n. 1 [C] 谷类植物
+collective|n. [C] 共同拥有并运用一个农场的一群人；也可指此类农场。可称为合作农场
+combine|n. [C] 英国也用combine harvester，农场用的一种大型的谷物收割机，可称为联合收割机
+compost|n. 1 [U, C] 腐烂的植物、食物等混合而成的肥料，即堆肥
+compost|vt. 把…制成堆肥
+corn|n. 1 [U] [英] 任何一种谷类作物，例如小麦；还可指这种谷类作物的籽粒，即谷物颗粒
+cotton|n. [U] 农作物意义上的棉花
+crop|n. [C] 庄稼、作物
+crop|n. [C] 谷物、水果等一季的产量、收成。此时不如harvest常用
+crop|vt. 用土地来种庄稼。名词用作动词，不常用
+cultivate|vt. 开垦、耕作（土地）
+cultivate|vt. 种植、栽培、培育（植物或庄稼）
+cultivated|adj.（土地）用于耕种的
+cultivated|adj.（野生植物）为出售之目的而栽培的、培植的
+culture|n. [U] 某种作物的种植（或栽培）
+drill|n. [C] 在田垄上播种的一种机器，即条播机
+dung|n. [U] 动物的粪便，尤指大型动物（如牛、马等）的粪便
+ear|n. [C] 谷类植物（例如小麦）的穗
+estate|n. [C]（农村的）大片私有土地，庄园
+fail|vi. 歉收
+failure|n. [U, C] crop/harvest failure（庄稼或收成的）歉收
+fallow|adj.（农田）休耕的（即为增强土壤肥力而刻意在一段时间内不种庄稼）
+farm|n. [C] 农场（用于种植庄稼、饲养禽畜的一片土地，还有一些建筑。其生产的农产品常用于售卖）
+farm|vt.＆vi. 务农
+farmer|n. [C] 拥有或管理一个农场的人，即农场主
+farming|n. [U] 农场经营、务农
+farmland|n. [U, pl.] 农田、耕地
+fecund|adj. [正式]（土地或土壤）肥沃的、多产的
+feed|n. [U, C] 植物的肥料
+feed|vt. 为植物提供一种特殊的物质以使其生长，如施肥
+fertile|adj.（土地或土壤）肥沃的
+fertilizer|n. [C, U] 肥料，是此义的基础用词，农家肥料和化学肥料都是一种fertilizer
+field|n. [C] 乡村用于种庄稼或饲养动物的土地，即田地或牧场，有的有围栏
+flail|n. [C] 连枷（旧时长柄脱粒农具）
+frame|n. [C] 花园中的冷床，阳畦（保护育种或幼苗抗寒的床框）。相当于cold frame
+fruitful|adj. [文学]（土地）富饶的、丰产的
+furrow|n. [C] 地上的犁沟
+furrow|vt. 犁地
+garden|n. 1 [C] [英；美用yard] 房子周围种了花草树木、蔬菜水果的一片地
+gather|vt. 1（从一大片区域内）采集植物或水果等
+grain|n. [U, C] 农作物的小而硬的种子颗粒，如小麦、稻米等，即谷物、谷粒；一粒种子颗粒
+grove|n. [C] 一小片果树林（专门栽植某种果树）
+harvest|n. 1 [C, U] 庄稼的收获时节；庄稼的收割、收获
+impoverish|vt. 使土地变得贫瘠
+impoverished|adj. 贫瘠的
+infertile|adj.（土地）贫瘠的，不能种庄稼的
+infertility|n. [U] 不肥沃；贫瘠
+manor|n. [C] [英] 带有一座大宅的一片田地，即庄园；庄园领地
+manure|n. [U] 动物排出的粪肥
+manure|vt. 给植物施农家肥
+mushroom|vi. 常用go mushrooming，采蘑菇
+nursery|n. [C] 苗圃，即种植树木或其他植物以供售卖或移栽的一片地方
+nurture|vt. [正式] 在某事物生长发育的时候对其进行养育、培养、养护
+oats|n. [pl.] 燕麦
+orchard|n. [C] 果园
+park|n. [C] 英国的庄园，即附属于一座乡村大宅（常归有钱人所有）的一片土地，常有田地和树木
+pesticide|n. [C, U] 杀虫剂
+plant|vt. 1 播种或栽种植物等（其含义比sow广泛，sow只表示播撒种子）
+plantation|n. 1 [C] 种植园，尤指热带国家种植咖啡、甘蔗、橡胶等的大庄园
+plough|n. [C] 耕地用的犁
+plough|vt.&vi. 犁（地）；耕（地）
+ploughshare|n. [C] 犁上的铧
+pot|vt. 将植物栽入（有土壤的）盆中
+potato|n. [C, U] 土豆，马铃薯
+productive|adj. 种植庄稼的，尤指生产大量庄稼的，如高产的
+prolific|adj.（地理条件）丰饶的、肥沃的、能养活很多动植物的
+pulse|n. [pl.] 一些可被食用的种子或果实，如豌豆或其他豆子等。其词义已为bean所涵盖，且不常用
+raise|vt. 种植或培育（庄稼）。与plant相比，raise还有培育的一层含义，而plant一般仅表示播种或栽种
+reap|vt.&vi. 收割、收货庄稼（尤指小麦）
+rice|n. [U] 大米（指大米籽粒）；水稻（指出产大米的一种作物）
+rich|adj.（土壤）肥沃的，同义词为fertile，反义词为poor
+seed|vt. seed sth (with) sth 常用被动式，往地里播种。是将名词用作动词，不过不如sow常用
+shading|n. [U]（尤指种植植物使用的）遮光材料（如遮光网、深色遮光漆）
+share|n. [C] [美] 农具中可指犁的铧，相当于英式的ploughshare
+sow|vt.＆vi. sow sth (in/on sth) / sow sth (with sth) 往地里（或地上）播种、撒种子。是此义的常规用词
+sterile|adj.（土地）贫瘠的
+stick|vt.＆vi. 用小棍支撑（植物）
+straw|n. 1 [U] 小麦等粮食作物收割后的干燥的黄色秸秆
+terrace|n. [C]（山间的）梯田
+till|vt. [旧时用法] 耕种或犁地（以准备种植庄稼）
+tobacco|n. [U] 烟草植物
+train|vt. train sth (around/along/up, etc) 使一株植物朝某个方向生长，即修整
+transplant|vt. 移栽（植物）
+villa|n. 1 [C]（尤指南欧的）乡间庄园
+vintage|n. [usually sing.] 采摘葡萄（用于酿酒）的期间（或季节）
+water|vt. 给植物等浇水
+weed|vt.＆vi. 除草
+wheat|n. [U] 小麦作物；小麦籽粒
+wool|n. [U] mineral wool可指矿物棉
+yard|n. [C] [美]（住宅旁或周围的）园圃，花园，果园，菜园等（常带有一片草坪），相当于英式英语的garden
+yield|vt. 产生或提供某事物（如粮食）
+yielding|adj. [正式]（与副词连用）产生一定数量的庄稼的

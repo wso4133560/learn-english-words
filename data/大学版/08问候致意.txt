@@ -1,0 +1,9 @@
+acknowledge|vt. 通过微笑、挥手等方式来表明你已注意到了某人或某事物，可称为致意
+acknowledgement|n. [U] 打招呼的表示（如微笑等）
+compliment|n. [pl.] [正式] compliments可指有礼貌的言辞或良好的祝愿，尤用于表达赞美或敬仰。如致意、问候、祝贺
+greet|vt. greet sb (with sth) 和某人打招呼、问好；或欢迎某人
+greeting|n. 1 [C, U] 为问候或欢迎某人所说的话或所做的事，即问候、迎接、致意
+love|n. [U] 由中间人转达给第三者的问候
+regards|n. [pl.] regards用于信函结尾，向某人表达良好祝愿；或用于让某人转达对不在场的某人的良好祝愿，即致意，问候。是一种敬语
+salute|vt. [正式] 向…致意，相当于acknowledge
+tribute|n. [U, C] ~ (to sb) 对逝者表达敬意或仰慕的一个行为、陈述或礼物

@@ -1,94 +1,20 @@
-# 背单词应用 - Apple 风格 UI
+# Word+ 客户端工程
 
-基于 Vue 3 + Vite 的现代化背单词应用，采用 Apple 设计语言。
+Vue 3 + TypeScript + Vite + Tauri 2，Windows 与 Android 共用卡片、词库、进度和语音逻辑。
 
-## 功能特性
-
-- 🎨 Apple 风格 UI 设计
-- ✨ 毛玻璃效果和流畅动画
-- 🔊 真人语音发音（Kokoro TTS）
-- 💾 自动保存学习进度
-- ⌨️ 完整的键盘快捷键支持
-- 📱 响应式设计，支持移动端
-
-## 技术栈
-
-### 前端
-- Vue 3 + TypeScript
-- Vite
-- Gradio Client SDK
-
-### 后端
-- Python + Gradio
-- Kokoro TTS
-
-## 安装与运行
-
-### 1. 安装依赖
-
-```bash
-# 后端依赖
-pip install -r requirements.txt
-
-# 前端依赖
-cd frontend
-npm install
+```powershell
+npm ci
+npm run desktop:dev
 ```
 
-### 2. 启动后端
+- npm run desktop:build：Windows NSIS 安装程序
+- npm run android:build：Android ARM64 Debug APK（需 Android SDK/NDK/JDK）
+- npm run dev：单独调试网页
+- npm run build：生成静态资源
+- npm test：本地进度与音频生命周期回归测试
 
-```bash
-python app.py --api
-```
+src/services/localWordClient.ts 提供有类型的本地词库和学习会话方法，没有 HTTP 数据服务或后端接口格式。
 
-后端将在 `http://localhost:7860` 启动。
+public/word-data/ 是构建前自动生成的资源；请修改仓库根目录的 data/ 源文件。设备本地进度按单词＋词义生成稳定 ID，避免同词多义计数错误。
 
-### 3. 启动前端
-
-```bash
-cd frontend
-npm run dev
-```
-
-前端将在 `http://localhost:5173` 启动。
-
-## 键盘快捷键
-
-- `Space` - 翻转卡片
-- `Enter` - 标记认识
-- `P` - 播放发音
-- `←` / `→` - 切换单词
-
-## 项目结构
-
-```
-frontend/
-├── src/
-│   ├── components/      # UI 组件
-│   ├── composables/     # 组合式函数
-│   ├── views/          # 视图组件
-│   ├── styles/         # 全局样式
-│   ├── types/          # TypeScript 类型
-│   └── utils/          # 工具函数
-├── public/
-└── package.json
-```
-
-## 开发
-
-```bash
-# 开发模式
-npm run dev
-
-# 构建生产版本
-npm run build
-
-# 预览生产版本
-npm run preview
-```
-
-## 浏览器支持
-
-- Chrome/Edge (最新两个版本)
-- Firefox (最新两个版本)
-- Safari (最新两个版本)
+完整安装与 Android 环境设置见根目录 QUICK_START.md。

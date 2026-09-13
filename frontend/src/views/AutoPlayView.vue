@@ -76,7 +76,7 @@
 </template>
 
 <script setup lang="ts">
-import { onMounted, watch } from 'vue'
+import { onMounted, onUnmounted } from 'vue'
 import { useAutoPlay } from '@/composables/useAutoPlay'
 import ProgressRing from '@/components/ProgressRing.vue'
 import ActionButton from '@/components/ActionButton.vue'
@@ -100,7 +100,6 @@ const {
   isPaused,
   isLoading,
   isPlaying,
-  isComplete,
   error,
   progress,
   preloadWords,
@@ -120,11 +119,7 @@ onMounted(async () => {
   }
 })
 
-watch(isComplete, (complete) => {
-  if (complete) {
-    emit('complete')
-  }
-})
+onUnmounted(stop)
 
 const handlePauseResume = () => {
   if (isPaused.value) {
@@ -203,7 +198,7 @@ const handleBack = () => {
   align-items: center;
   gap: var(--space-4);
   padding: var(--space-6);
-  background: rgba(255, 255, 255, 0.95);
+  background: var(--glass-bg);
   border-radius: var(--radius-lg);
   box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
   max-width: 400px;
@@ -250,7 +245,7 @@ const handleBack = () => {
 .word-list {
   max-height: 400px;
   overflow-y: auto;
-  background: rgba(255, 255, 255, 0.95);
+  background: var(--glass-bg);
   border-radius: var(--radius-lg);
   padding: var(--space-4);
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
@@ -271,7 +266,7 @@ const handleBack = () => {
 }
 
 .word-item.current {
-  background: rgba(0, 122, 255, 0.1);
+  background: rgba(242,123,91,.14);
   transform: scale(1.02);
 }
 

@@ -1,0 +1,331 @@
+above|prep.（数目、数量、水平、年龄）超过；多于；大于
+acre|n. [C] 丈量土地的一种单位，相当于4047平方米，即英亩
+add|vt.＆vi. add A to B / add A and B (together) 把若干数字或数量加到一起以得到一个总数，即加，反义为subtract
+addition|n. [U] 加；加法。反义词为subtraction
+altogether|adv. 用于给出一个总的数字或数额，如总共，一共
+amount|n. [C, U] amount (of sth) 尤与不可数名词连用，指数量或数额。有一种“总量”或“总额”的色彩，且通常不算是一种正式用法。此时单纯在词义上相当于quantity
+amount|vi. amount to后接某一总数，可表示总计
+and|conj. 1 用于连接整数后的分数
+and|conj. 加，加上，相当于plus
+arithmetic|n. [U] 计算，算术运算。也不太常用
+army|n. [C] 单数名词，指一大群人或事物，尤指以某种方式来组织起来的，或在某一活动中所涉及的一大群人或事物
+array|n. 1 [usually sing.] 一大群人或一大堆事物
+assess|vt. assess sth (at sth) 核算（或核定、估算）某事物的数量或价值，相当于estimate
+at|prep. 以（或达到）某个速度、比率、频率、水平、价格、数量等
+at|prep. 用于说明两者之间的角度
+average|adj. 只作前置定语，平均的。是此义的常规用词
+bag|n. [C] bag (of sth) 一袋子的数量
+band|n. [C]（因有共同的兴趣、信仰、观点或想法等而聚在一起共同做某事的）一群人，即趣味相投的群体
+bank|n. 1 [C]（尤指被风吹到一起的）积云或积雪等
+barometer|n. [C] 气压计；晴雨表
+barrage|n. [sing.] ~ (of sth)（常指快速而凶猛的）接二连三的一大堆（质问或指责等）
+base|n. [C, usually sing.] 基数（如十进制的10和二进制的2）
+basin|n. [C]（液体等）一盆的量
+basket|n. [C] 一篮（或一篓、一筐）的量
+batch|n. 1 [C] 被作为一组来处理的一群同类的人或事物，如一批
+battalion|n. [C] [正式] 一大群人，尤指有某个宗旨的、被组织起来的、高效的一大群人
+battery|n. 1 [C] battery (of sth) 同种类的大量事物或人，即一系列；一批；一群等
+be|linking verb. 等于。是一个简单用词，口语中较为常用
+below|prep.（数量、比率等）少于；（标准、水平等）低于
+between|prep. 介于两个数量、重量、距离等之间
+bite|n. 1 [C]（从更大块食物上咬下的）一口食物
+blanket|n. [usually sing.] blanket of sth 某事物的一个厚层（或一个厚的覆盖体）
+block|n. [C] 在测算事物的数量或时间量时，指被作为一个单元的数量，该单元常被批量处理
+bolt|n. 1 [C] ~ of lightning 一道（闪电）
+bombardment|n. [U, C]（气势汹汹的）一连串（想法、要求、质问或批评）
+book|n. [C] 装订成册的一套东西，如邮票、票等
+bottle|n. [C] 也可用bottleful，指一瓶的量
+bowl|n. [C] 也可用bowlful，指一碗，一钵或一盆等的量
+box|n. [C] 一个盒子和其中的东西
+brace|n. 1 [C] [复数为brace]（ 猎获的鸟或兽）一对，一双
+brigade|n. [C] [常贬]（信奉某事或具有共同特点的）一群人
+bunch|n. 1 [C] bunch of sth 生长在一起（或被系在一起）的一些同种类事物，如串、束、扎等
+bundle|n. 1 [C]（捆扎或包裹在一起的）一捆、一包、一扎
+by|prep. 用于乘法或除法运算
+by|prep. 用于表示尺寸
+by|prep. 用以表明…的程度或数量
+calculate|vt.（利用数字来）计算或核算出一个总数、数量、距离等，相当于work out。是此义的常规用词
+calculation|n. [C, U] 数学计算
+calculator|n. [C] 小型电子计算器（用于数学计算）
+can|n. [C] 一个金属罐所能容纳的量，即一罐的量
+cardinal|n. [C]（也可用cardinal number）基数、纯数（而非序数）
+carry|vt. 加法中可指（向左）进位
+catalogue|n. [C] 所发生的一长串的事件（尤指坏事）
+catch|n. [C] 被捕获的某事物的数量
+centigrade|adj. 摄氏的，摄氏度的，等于Celsius
+chord|n. [C] [数学]（在一条曲线的两点之间起连接作用的）弦
+clump|n. 1 [C]（尤指树或植物的）聚集在一起生长的一小丛、簇、束
+clump|n. [C]（草的）堆
+cluster|n. 1 [C]（同类物丛生或聚集的）簇，团，束，串
+clutch|n. [sing.] [英] a ~ of sth 一群（人、动物或事物）
+collection|n. [C] 一组物品或一群人
+complement|n. [C] 被需要或被允许的全部数额，如装备定额；编制名额
+complex|n. [C] 相关联的一组事物
+consort|n. [C] 一组（古乐器）；一组（演奏几世纪前音乐的乐师）
+constant|n. [C] [术语] 常数，常量
+constellation|n. [C] [正式] 一群在某方面相似的思想、事物或人
+content|n. [sing.] 用于名词后，指某事物中所包含的某种物质的总量，即含量
+coordinate|n. [C]（地图或几何图形上的）坐标
+count|n. 1 [usually sing.] 所数出的总数
+count|vi. count (from sb) (to/up to sth)（按正确顺序）数数
+counter|n. [C] 尤用于构成复合词，指电子计数器或计算器
+couple|n. [sing.] couple (of sth)（特定场合或有特定联系的）两个人（或事物）
+crop|n. [sing.] a crop of sth 同时做某事的一群人；同时发生的一些事
+cube|n. [sing.] 经过立方运算后所得到的一个数字，即立方，三次幂
+cubic|adj. 1 只作前置定语，立方的（是一种表示体积的量度，为长宽高三者的乘积）
+cup|n. 1 [C] 杯子里的东西（如饮料）；或一杯子的量
+deal|n. [C] 单数名词，a good/great deal指很多，大量，相当于much和a lot
+deduct|vt. [常用被动式] ~ sth (from sth)（从总量中）扣除，减去
+deduction|n. [U]（从总数中）减去或扣除某个数额，尤指扣除某个金钱的数额
+deep|adj. 构成形容词，指有多少排的，或有多少层的
+determination|n. [U, C] [术语] 测定
+determination|n. [U, C] [术语] 计算
+deviation|n. [C] [术语] [统计学] ~ (from sth) 测量中与平均数值的偏差
+difference|n. [sing., U] difference (in sth) (between A and B) 相差的数额，即差额
+digit|n. [C]（从 0 到 9 的任何一个）数字，数位
+divide|vt.＆vi. 1 divide (sth) by sth 除以
+divisible|adj. [数学] [名词前不可用] ~ (by sth) 可被除的，通常指可被除尽（即没有余数）的
+division|n. [U] 除或除法
+domain|n. [C] [数学] 某一变量的所有数值的范围，即区域、定义域
+dose|n. [C] [非正式] 一定数量的某事物，(尤指数量很多的)一份，一次，一点
+double|adj. 1 常作前置定语，是通常的两倍的
+dozen|n. 1 [C] 一组隶属于同种类的十二个事物
+drift|n. [C] 大丛的某事物（尤指花）
+drop|n. [sing.] 从一个高点到一个低点的距离，即落差
+each|det., pron. 当对两个（或多个）人（或事物）中的每个进行单独考量时，用于指其中的每一个
+element|n. [C, usually pl.] 一个更大群体中的一群人
+ensemble|n. [C, usually sing.] [正式] 一组事物
+entry|n. [sing.] 某项比赛的参赛人数（该词常为新闻记者所用）
+equal|linking verb. 指在尺寸、数量、价值等方面与…相等，即等于。是此义的常规用词
+equation|n. [C] [数学] 等式
+even|adj.（数目）可以被2整除的，即偶数的
+exponent|n. [C] 指数；幂
+express|vt. express sth as/in sth（尤指在数学中）用某种方式（如符号）来代表或表示
+expression|n. [C] 数学的式子或表达式
+factor|n. [C] [数学] 因子、因数
+factor|n. [C] a factor of 增减（一般是增加）的倍数
+factor|n. [C] 系数
+fifty-fifty|adj. [非正式]（发生概率）一半一半的，百分之五十的
+figure|n. 1 [C, often pl.] 数字，尤指官方资料中的统计数字
+figure|vt. [美] 计算（数量或成本等）。词义上相当于calculate
+flurry|n. [usually sing.] 一阵忙乱（或激动、兴奋等）
+foot|n. 1 [C] 一种计量单位，表示英尺（约为30.48厘米），常用单数形式表示复数
+forty|number.（数字）四十
+fraction|n. [C] [数学] 分数
+full|adj. 只用于名词前，用于强调数量或数额，如足足的，整整的
+function|n. [C] 函数
+galaxy|n. [C] [非正式] 一群著名的人，或一群具有某种技能的人，如群英
+gallon|n. [C] 加仑（液量单位，在英国、加拿大及其他一些国家约等于4.5升，在美国约等于3.8升，一加仑为四夸脱）
+gang|n. 1 [C] 一帮、一伙（有组织的罪犯）
+gauge|n. [C] 常构成复合词，指测量仪器或仪表
+gauge|vt. 用仪器测量
+get|vt. 从自己的行动中通过计算或实验而得出某个结果
+glass|n. [C] 一玻璃杯的量
+go|vt.＆vi. goes (into sth)（数字）除尽；除
+good|adj. 不少于、稍多于
+graduation|n. [C] 刻度，相当于gradation。是一个广义用词
+grain|n. [C] 一种微小的重量单位，相当于0.0648克，即格令，可用于称量药品等
+grain|n. [C] 一粒…
+gram|n. [C] 克（重量单位，英式也用gramme，其缩写为g或gm）
+gross|n. [C]（复数形式为gross）144个为一组的事物，可称为一罗
+group|n. [C] 在同一地的一群人或事物，或以其它方式联系在一起（如因拥有某个或某些共同特征）的一群人或事物，即组，群等
+half|n. [C] [英，非正式]（啤酒或一种相似饮料的）半品脱
+half|n. [C] 半，一半
+handful|n. [C] handful (of sth) 一只手可以抓住的量，即一把的量
+head|n. [C] 复数名词，head of sth 表示农场或牧群等的牲畜的数目，即头
+house|n. 1 [sing.] the house 可指（在一场正式辩论中）参与辩论的一群人
+in|prep. 用于表明比率或相对数量
+in|prep.（人或事物）以…的数量去做某事
+inch|n. [C] 英寸（长度单位，等于2.54厘米，1英尺等于12英寸，inch缩写为in.）
+incidence|n. [C, usually sing.] [正式] ~ of sth 某事（尤指坏事）的发生率
+index|n. 1 [C]（物价、工资等的）指数
+indicate|vt.（测量仪器）显示某一量度
+infinity|n. [U, C] [数学]（符号为∞）一个无穷大的数字
+infinity|n. [sing.] 大得无法计算的一个数量
+instrument|n. [C]（交通工具、机器等上面用于测量速度、高度、声音等的）仪器，仪表
+into|prep. 用于除数，即除
+jar|n. [C] 一个罐子（或瓶子）和它所盛装的东西
+kilo|n. [C] 千克，公斤，等于kilogramme或kilogram
+knot|n. [C] 紧密站在一起的一小群人
+knot|n. [C] 船和飞行器的速度计量单位，每小时一海里，即节
+league|n. [C] [旧时] 里格，一种长度单位，约等于3英里或4000米
+leave|vt. 数学中可指剩余或余下（某个数量）。常用于减法中
+length|n. [C]（某事物）细长的一段
+let|vt. [术语] 无被动式，用于计算时假设…是真的，即假设，设
+lot|n. [C] [尤英] 一组（或一套）人或事物
+make|vt. 1 成为总数，是…的总和
+make|vt. 估计；计算。是一个简单用词，常用于口语中
+make|vt. 合计；等于（表“合计”时一般用于加法）
+mark|n. [sing.] [英] Mark后接数词，指燃气烤箱上的某个温度水平的刻度
+mass|n. [C] mass (of sth) 没有一种确定形状的一团（或一块、一堆等）某种物质（可以是固态、气态或液态）
+mat|n. [C] 卡在一起的某事物的一个厚厚的集合体，如团，簇，丛等
+maximum|adj. 只作前置定语，最大的；最多的；最大极限的等
+mean|adj. [术语] 只作前置定语，（尺寸、数量等）中间的，中等的，平均的，介于最高和最低之间的
+measure|n. 1 [sing.] 表示尺寸、强度、严重程度等的标记，即尺度，标准，程度等
+measure|n. [C] 测量或计量所用的工具或仪器（如标有刻度单位的尺子、容器等）
+measure|vt. measure (sb/sth) (for sth)（以标准单位来）测量，度量（尺寸、数量等）。是此义的常规用词，最为常用
+measurement|n. 1 [C]（通常以数字形式呈现的）测量结果
+measurement|n. [C, usually pl.] 某事物的尺寸、长度或数量
+meter|n. 1 [C]（尤用于构成复合词）（用于测量电、煤气、水等，以及时间和距离的）计量器，计量表
+meter|n. [C] [美] 米。相当于metre
+meter|vt. 用仪表计量（耗用的煤气、电等）
+mile|n. 1 [C] 英里（距离单位，等于1609米或1760码）
+mileage|n. 1 [U, C, usually sing.]（以英里来计算的）车辆已经行驶的里程数
+minimum|adj. 只作前置定语，最低的；最小的；最低限度的等。是此义的常规用词
+minus|adj. 数学中可指小于零的，即负的
+minus|n. [C]（也可用minus sign）减号，与plus相反
+minus|prep. 将一个数字减去，减
+minus|prep. 表示温度低于零度，即零下
+minute|n. [C] 分（为角度单位，即六十分之一度）
+mm|n. [C] 毫米（为millimetre或millimeter的缩写）
+mode|n. [sing.] [数学] 众数（即一组数字中出现次数最多的数）
+mound|n. [C] 一堆。相当于pile
+mouthful|n. [C]（饮料或食物的）一口，一满口的量
+mug|n. [C] 一缸子的量
+multiply|vt.＆vi. multiply (A by B) / multiply A and B (together) 乘以，乘
+negative|adj. 数量小于零的，负数的
+nest|n. [C, usually sing.] 套叠在一起的一套物件
+null|adj. [术语] 零值的；等于零的
+number|n. [C] number (of sb/sth)（人或事物的）数量，数额。是一个基础用词，特别常用。此时单纯在词义上相当于amount和quantity（只不过amount相对不太正式，quantity则相对正式）
+number|n. [C] 代表了一个数量的文字或符号，即数字，相当于figure。是此义的基础用词，使用范围最广
+number|n. [sing.] [正式] 一群人；一定数量的人
+number|vt. 总计；共计。相当于total和amount，但amount为不及物动词，因此number与total最为相近，二者词义相近，词性也相同，难见差别
+odd|adj.（无比较级和最高级）（数字）奇数的、单数的（即不能被2整除的）
+of|prep. 与表示计量、时间、年龄、价值等的词连用（以表示计量、时间、年龄、价值等）
+of|prep. 用于可数名词后或不可数名词前以谈论单个的一个个体
+of|prep. 用于表示由…组成、或包含…
+one|number., det. 1（数字）一
+operation|n. [C] 数学运算。相对正式
+operator|n. [C] 数学中可指算子
+ounce|n. [C]（缩写为oz）盎司（英国和美国的重量单位，1磅合16盎司，1盎司等于28.35克）
+out|adv., prep. out of sth 从（某个数目或集）中
+output|n. [U, sing.] 作品、想法等的产量
+over|adv. 以上（above），多于（more）
+package|n. [C] 也可用package deal，指必须被整个购买或接纳下来的一套东西或想法
+pair|n. 1 [C] 同种类的两件事物（尤指二者被共同使用或穿戴、佩戴）
+pan|n. [C] 一锅的量
+parade|n. [C]（多得似乎没有尽头的）一系列（人或事）
+part|n. [C]（度量单位的）等份；份（用以对比各部分的数量）
+past|prep. 在某个点或阶段之上，即多于…，超过…
+per|prep. 每，每一（表示一种比率）
+percentage|n. [C] 百分率；百分比。如果说per cent前面一般都要加数字，那么percentage虽然前面也可加数字，但这种情况不常见
+piece|n. 1 [C] piece (of sth)（尤与of和不可数名词连用）某事物的一个标准数量（或数额）
+pile|n. 1 [C] 堆叠或摞放起的一些东西（即一个放在另一个顶上，且常指整齐的堆叠）
+pinch|n. [C] 用大拇指和另一个手指捏住的数量，如一撮
+pint|n. [C] 品脱（容量单位，为1/8加仑，在英国等国家约合0.568升，在美国约合0.473升，其缩写为pt）
+place|n. [C]（十进制小数点后的）位
+plate|n. [C] 一盘所盛之量
+plus|adj. 1 用于一个数字后，表示实际数量或数额较大，即略多一些的
+plus|n. [C]（也可用plus sign）加号，与minus相反
+plus|prep.（两个数量或数额）相加，加
+pocket|n. [C]（与周围不同的）一个小群体
+point|n. [C] 小数点（即将整数和分数所分开的一个点）
+point|n. [C] 计量刻度的一个单位点（或单位标记）
+pool|n. [C] pool (of sth) 摊在一个表面上的少量液体或光线，即一滩（液体）；一小片（液体或光）
+positive|adj.（数量或数目）正数的（即比0大的）
+pot|n. [C] 一罐、一瓶或一壶所盛装的量
+pound|n. [C] 一种重量单位，相当于0.454千克，即磅
+power|n. [C, usually sing.] 数学中的乘方或幂
+press|n. [sing.]（争抢空间或争抢着运动的）一大群人或事物，相当于throng
+product|n. [C] 乘积
+progression|n. [C] 连续出现的一系列事物，如一连串、一系列
+proportion|n. 1 [U] ~ (of sth to sth) 比例关系
+proportional|adj. ~ (to sth)（尺寸、数量、程度等）成比例的、相称的、均衡的
+proposition|n. [C] [数学] 命题
+pyramid|n. [C] 金字塔形（或角锥形）的一堆东西
+quantity|n. 1 [C, U]（某事物的）数量，数额，数目。常为正式用法
+quarter|n. 1 [C] [英] 夸特（重量单位，1/4磅；4盎司）
+quarter|n. [C] [美尤用fourth] 四等份之一，即四分之一。是此义的基础用词，含义较为广泛
+raise|vt. 使…自乘若干次
+range|n. [C, usually sing.] range (of sth)（同类型的）一系列（事物）
+rate|n. [C] 比率；率
+ratio|n. [C] ~ (of A to B)（两组之间的）比率、比例
+ration|n. [sing.] ~ (of sth) 通常或合理的数量
+read|vt. 1 指测量仪器显示某一数据（如重量、压力等）
+reading|n. [C]（测量仪器上的）读数
+record|vt.（测量仪器）显示（某一量度或数量）
+recount|n. [C] 重新清点（尤指对选票的重新清点）
+recount|vt. 重新清点（尤指重新清点选票）
+regiment|n. [C] [正式] 一大群人或事物
+register|vt.＆vi. 测量仪器（或其他事物通过测量仪器）显示（读数），或记录（读数）
+remainder|n. [C, usually sing.] [数学]（减法的）差数；（除法的）余数
+room|n. [sing.] 在一个房间里的所有人
+root|n. [C] 方根，根
+rope|n. [C] 用一根弦或线串在一起的一些相似的事物
+rot|n. [U] 为rotation的缩写，表示（数学函数上的）循环
+round|adj. 只作前置定语，整数的（即尾数常是0或5的）
+routine|n. [C]（演出中的）一套动作，一系列笑话等
+ruler|n. [C] 直尺
+run|vi. run as sth 处于或接近某个水平
+sack|n. [C] [美] 一大袋东西
+say|vt.＆vi. 无被动语态，（装置）提供某信息或某指示
+scale|n. [C] 量具上的刻度
+scale|n. [C]（地图、图表或模型的）比例、比例尺
+scale|n. [sing, U] ~ (of sth) 规模、范围、程度、尺寸，尤指与其他事物相比较时的规模、范围、程度、尺寸，且尤指庞大的规模或很深程度
+score|n. [C] 二十，或接近二十
+second|n. [C]（符号）秒（角度单位）
+section|n. [C] [美] 一平方英里（是一种土地单位）
+sequence|n. [C]（有特定顺序并导致某种结果的）一系列、一连串（事件、行动、数字等）
+series|n. [C, usually sing.] ~ of sth 一系列、一连串、连续、接连
+set|n. 1 [C] 一组、一套或一副类似的事物
+set|n. [C] 数学集合
+sheet|n. 1 [C]（覆盖在某事物表面上的）一大片覆盖物
+shock|n. [U]（尤指头发）浓密的一堆
+shower|n. [C] 一起到来或一起落下的大量事物
+size|n. 1 [U, C] 尺寸的大小。是一种空间的几何概念
+sound|vt.＆vi. [术语]（用垂线或声纳等）测量海洋、湖泊、井等的深度
+spoon|n. [C] 一勺的量，相当于spoonful
+spoonful|n. [C] 一勺的量
+square|adj. 用于数字后表示面积，即平方的
+stack|n. [C]（通常指码放整齐的）一叠，一摞，一堆
+stand|vt. 处于某一高度
+stick|n. [C] 一管，一支（固体胶水棒等）
+stone|n. [C] 英国的一种重量单位，相当于6.35千克或14磅，即英石
+strand|n. [C]（线、绳、金属线、毛发等的）股，缕
+stream|n. 1 [C] stream (of sth) 一股持续的液体流、气流、烟、光线等
+strength|n. [U] 一个群体、团队或组织中的人数（表示人数多寡）。强调由该数量的人员所拥有的某种实力之或强或弱
+string|n. [C] 被串接在一起的一组（或一系列）事物（如串接在弦上的一系列事物）
+succession|n. [C, usually sing.]（时间或顺序上的）一连串的人或事物。相当于series
+sum|n. [C, usually sing.] ~ (of sth) 数学中可指数量的加和、总和
+sum|n. [C] 简单的数字计算
+survey|n. [C]（对一个地区进行的）勘测、测绘（以绘制地图或制定计划）
+syndicate|n. [C] 为达到某一目标而联合起来的一群人
+table|n. [sing.] 数学中可指（尤指从1到12的）乘法表，等于multiplication table
+tablet|n. [C] [过时，正式] tablet of soap 一块肥皂
+take|vt. take A (away) from B / take A away 数学中可指减去，相当于subtract
+take|vt. 计量中可指量取或测定…。是一个简单用词
+tally|vt. ~ sth (up) 计算某事物的总数、总成本等
+tangent|n. [C] [数学]（缩写为tan）正切
+tape|n. [C]（塑料、布质或易弯曲的金属所制成的用于测量长度的）尺子，如卷尺，皮尺。相当于tape measure
+tell|vt.（仪器）提供关于…的信息，即显示。是一个拟人用词
+term|n. [C] 数列、方程等的项
+thermometer|n. [C] 温度计、体温计
+time|n. [pl.] 用于数字之后表示倍数
+to|prep. 表示数量或比率
+tolerance|n. [C, U] [术语] 公差（即虽然变化，但不至于引起问题的一个数值）
+toll|n. [C, usually sing.]（某场战争、灾难等造成的）破坏或伤亡人数
+ton|n. [C] 吨（重量单位，英国为2240磅，即长吨；美国为2000磅，即短吨）
+ton|n. [sing.] [英，非正式] a ton或the ton可指100，尤指每小时100英里的速度
+tonne|n. [C] 重量单位，相当于1000千克，即公吨、吨：65.5 million tonnes of coal 6,550万公吨煤 / Top quality Thai rice fetched $340 a tonne. 极品泰国香米卖得了1公吨340美元。/ a record grain harvest of 236m tonnes 2.36亿公吨创纪录的谷物收获量 / a 17-tonne truck 17吨卡车 **degree**
+total|adj. 常作前置定语，指经过计数或相加之后所得到的总的数量或数额的，即总的；总计的；全部的
+total|vt. 1 达到某一总数
+train|n. [usually sing.] 在天然上或逻辑上一次发生的一连串想法、事件或行动
+tribe|n. 1 [C] [常贬] 一群人或一个阶层，尤指从事相同活动或行为相同的一群人或一个阶层
+triple|adj. 1 [只用于名词前] 有三部分的；涉及三个人（或三个组）的
+troop|n. [C] 一群人或动物
+twice|adv. 1 两次；两遍
+twin|adj. 1 只用于名词前，用于描述两个一起被使用的东西，即成对的，成双的
+under|prep. 在某个年龄或数量以下，即少于…，小于…；比…年轻
+unit|n. 1 [C] 单独的事物、人或群体（其可以构成一个更大的事物），即单位；单元
+unit|n. [C] 个位数（即0-9中的任意一个）
+unity|n. [U] [数学]（数目或数字）一
+unknown|n. [C] [数学] 数值未知的一个数量，即未知数、未知量
+value|n. [C] 数学中的值，数值
+variable|n. [C] 数理计算中的变量
+vector|n. [C] [数学] 矢量、向量
+volume|n. [U, C] 某事物的数额、数量
+yard|n. [C] 码（长度单位，等于3英尺或0.9144米，缩写为yd）
+yardstick|n. [C] [尤美] 测量一码长度的尺子，即码尺
+zero|number. 1（英也用nought）零
+zero|number. 最低数量或水平；最少量；最低点；最低程度；毫无
+zip|n. [sing.] [尤美，非正式] 零

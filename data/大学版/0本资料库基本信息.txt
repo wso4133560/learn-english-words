@@ -1,0 +1,13 @@
+heguobin|杯具熊
+http|//corpus.leeds.ac.uk/internet.html (Leeds)
+http|//www.anc.org/ （American National Corpus）
+http|//www.natcorp.ox.ac.uk/   (British National Corpus)
+https|//visuwords.com/
+https|//wordnet.princeton.edu/
+https|//www.alipan.com/s/wgmngo8iFdY
+https|//www.aliyundrive.com/s/6KiAVECaqv7
+https|//www.aliyundrive.com/s/8UzhW8rLmTn
+https|//www.aliyundrive.com/s/qLCtGSatrEY
+https|//www.english-corpora.org/coca/ (Corpus of Contemporary American English)
+https|//www.thefreedictionary.com/ （内有“Thesaurus”专栏）
+https|//www.thesaurus.com/ （网站不太稳定，内有“THESAURUS”专栏）

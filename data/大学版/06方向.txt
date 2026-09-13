@@ -1,0 +1,16 @@
+bearing|n. [C] [术语]（用罗盘测定的）方位
+course|n. [C, usually sing.] 某人的想法（或行动）的方向
+direction|n. [C, U]（人或事物所移动或指向的）方向；方位
+down|adv. 向（或在、到）一国的南方
+eastern|adj. 只用于名词前，也可写作Eastern，缩写为E，位于东方（或东部）的；面向东方（或东部）的
+line|n. [C, usually sing.] 某人或某事物行进的路线，方向；或其位于的方位
+occidental|adj. 与西方国家（欧美）有关的，即西方的、西方国家的、欧美的
+on|prep. 表示方向
+oriental|adj. 东方（尤指中国和日本）的；东方人的
+orientation|n. [C] [术语]（建筑物、结构、物体等）所朝向的方向
+oriented|adj. 以…为方向的
+to|prep. to the sth (of sth) 位于某个方向
+track|n. [C]（人或事物所移动的）路径或方向
+up|adv. 向一国北部的地方
+way|n. [C, usually sing.] which, this, that, etc. way 某个方向；在某个方向上
+western|adj. 只用于名词前，也可写作Western，缩写为W，位于西方（或西部）的；面向西方（或西部）的

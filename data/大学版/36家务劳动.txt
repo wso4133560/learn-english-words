@@ -1,0 +1,88 @@
+alter|vt. 修改衣服，使其更合身
+baby|vt. 对某人非常关爱（像对待婴儿一样）
+bias|n. [U, sing.] 对布匹的斜裁
+calf|n. [U] 小牛皮；小牛皮革（尤用于制作皮鞋和皮衣）。相当于calfskin
+camel|n. [U] 驼绒料子，尤用于制造外套
+care|n. [U] 对某人或某事物的看护或照料（即提供所需的东西以确保其健康或确保其受到保护）
+cloth|n. [U] 用棉花、羊毛、丝绸等纺织（或编织）成的织物，布料
+companion|n. [C] 受雇照顾某人（尤指老人或病人）的一个人，以女性居多，即陪护
+cord|n. [U] 灯芯绒。相当于corduroy
+cotton|n. [U] [尤英] 缝纫用的线
+cotton|n. [U] 由棉花制成的织物
+cut|vt. 剪裁服装，常用被动式
+drill|n. [U] 一种斜纹粗棉布
+drop|vt. drop a stitch 编织过程中漏针、脱针或掉针等
+duck|n. [C] 一种粗棉布，用于做衣服、搭帐篷等
+embroider|vt.&vi. ~ A (on B) / ~ B (with A) 刺绣
+eye|n. [C]（缝纫用针的）针眼儿，针鼻儿
+fabric|n. [U, C]（由羊毛、棉花、丝绸等制成的）织物、布料（用于制作衣服、帘子、家具罩子等）
+fend|vi. fend for yourself 照顾自己
+flannel|n. [U] 法兰绒
+fleece|n. [U, C] 感觉像羊毛一样柔软温暖的织物，或此类织物做成的夹克、毛衣等衣物
+fox|n. [U] 狐狸皮，用于制作外套等
+fur|n. 1 [U] 动物带毛的皮肤，即毛皮，可用于制作服装
+fuzzy|adj. 覆有柔软的短绒毛（或皮毛）的
+gather|vt. gather sth (in) 给一件衣服做一些折叠，并将折叠处缝纫在一起，即（给衣服）打褶子
+gut|n. [U] 用动物肠道制成的线，即肠线（用于制作球拍的网线、乐器的弦等）。相当于catgut
+hand|n. [pl.] in sb’s hands 可指得到照顾
+have|vt. 无被动式，（尤指在有限的时间内）在自己家中照料或照看（某人或某物）。是一个简单用词
+hem|vt. 给某事物缝边、镶边
+iron|n. [C] 熨斗
+iron|vt.＆vi.（用熨斗）熨或烫平（衣服等）
+ironing|n. 1 [U] 熨烫
+jersey|n. [U]（尤用于制作女性服装的）平针织物，略有弹性的织物
+kid|n. [U] 小山羊皮做成的皮革
+knitting|n. [U] 编织、针织
+knitting|n. [U] 编织物、针织品
+lace|n. [U] 网眼织物；蕾丝
+lawn|n. [U]（用于制作布料的）上等细棉布（或麻布）
+leather|n. [U, C] 动物的皮革，可用来做鞋、服装、袋子或家具等
+linen|n. 1 [U] 亚麻布
+material|n. [U, C] 布料。强调其作为一种材料。不如cloth常用
+mend|vt. 修补织物上的孔洞，即缝补、织补
+mind|vt. [尤英] [美通常用watch] 关心，照看（某人或某物），相当于look after
+mother|vt. 给…以母亲的关爱；给…以母亲般的关爱
+nanny|n. [C]（在儿童家中照顾儿童的）保姆
+nap|n. [sing.] 某些织物（如地毯、天鹅绒）表面的短绒毛（这些绒毛通常指向同一方向）
+needle|n. 1 [C] 针，缝衣针
+notion|n. [pl.] 针线、纽扣、拉链等小件缝纫用品，即针头线脑
+nurse|n. 1 [C] [旧时] 旧时雇主家中的女保育员（其工作为照料雇主家的婴儿或小孩）
+nurse|vt. 1 给予…特殊关怀或照料
+nursing|n. [U]（对病人或伤者的）护理、看护
+pile|n. [U, sing.] 形成地毯和一些布料（如天鹅绒）的柔软表面的绒毛
+pill|vi.（织物，尤指羊毛织物）起球，结球
+pique|n. [U] 凸纹坚挺布料、珠地布
+plain|adj.（编织）平针的、平纹的（为编织过程中一种简单的用针方式）
+press|n. [C, usually sing.] 熨衣服
+press|vt. 用熨斗把衣服熨平或烫平
+rib|n. [U, C]（织物的）凸条花纹，罗纹，罗纹针织法
+row|n. [C] 编织中的针行
+sew|vt.＆vi. 用针和线在布上缝，即做针线活
+sewing|n. 1 [U] 缝纫
+silk|n. 1 [U] 蚕丝
+silk|n. [U] 用于缝纫的蚕丝线
+sit|vi. sit (for sb)照看小孩，相当于babysit
+sole|vt. [常用被动式] 给鞋换鞋底
+sponge|n. [U]（用以填充家具、垫子等的）人造海绵
+stitch|n. 1 [C]（缝纫的）一针，针脚；缝
+stitch|vt. 缝；缝补。相当于sew
+tack|n. [C]（将布料进行最终缝纫之前的）临时性粗略缝纫所采用的线脚（是一种又长又松的线脚或缝纫法），即粗线脚
+tack|vt. 用粗线脚进行临时缝纫
+tailor|n. [C] 以制作男士服装为工作的一个人（尤指为顾客私人订制套装等的一个人），即裁缝
+tend|vt.＆vi. tend (to) sb/sth 照料；照看；护理。是一个基础用词
+textile|n. [C] 纺织品
+textile|n. [pl.] textiles可指纺织业
+thimble|n. [C]（做针线活儿时手指上所戴的）顶针
+thread|n. [U, C]（棉、羊毛、蚕丝等的）线（用于缝纫或纺织）
+thread|vt. 1 将细长的事物（尤指线）穿过一个狭小的开口或孔洞
+touch|vt. 常用被动式，且用否定，意为处理或照管
+trim|adj. 精心照管的
+velvet|n. [U] 由棉、丝或尼龙编织而成的一种柔软布料，一面有一层厚厚的短绒，即天鹅绒
+vigil|n. [C, U] 对病人的夜间看护
+watch|vt. 短时间照看或看护
+weave|n. [C] 编织法；编织式样或图案
+weave|vt.&vi. ~ A (from B) / ~ B (into A) / ~ sth (together)（用手工或机器）编织（衣服、地毯等）
+wool|n. [U] 由羊等动物的毛制成的毛线、绒线
+wool|n. [U] 由羊等动物的毛所制成的材料，用于制造服装、毛毯等，即毛料
+woollen|adj. 1 常作前置定语，由羊等动物的毛制成的
+yarn|n. [U]（纺出来的，用于编织、制作布料等的）纱线

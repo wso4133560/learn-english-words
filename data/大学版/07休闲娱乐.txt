@@ -1,0 +1,415 @@
+ace|n. [C] A纸牌（亦称“爱司”）
+act|n. [C] 一个（或一组）表演者
+act|n. [C] 整场演出（show）中的一小段演出
+acting|n. [U]（在戏剧、电影等活动中的）表演；演艺业
+action|n. [U] 故事、戏剧等中的一次事件，即情节
+actor|n. [C] 在舞台上、电视或电影中从事表演活动的一个人，即演员（尤指专业演员）（单数形式的actor通常指男演员，但有些女演员喜欢被称为actor而不是actress)
+actress|n. [C] 在舞台上、电视或电影中从事表演活动的一位女性演员（actor在上下文不明确时通常指男演员，但现在很多女演员都喜欢被称为actor）
+adapt|vt. 将一本书（或一部戏剧）改编或改写成戏剧、电影、电视节目等
+adaptation|n. [C] 一部作品的改编本（如由文学作品改编成的电影、图书或戏剧）。其词义已为version所涵盖。因此在很多情况下，adaptation可以换成version。（但是version并不是所有情况下都可换成adaptation，因为version可表示各种事物的变体，而非仅限于文学作品的变体）
+agent|n. [C] 演员、音乐人等的代理人或经纪人（负责与外界打交道）。是此义的一个基础用词
+amuse|vt. 使某人（如自己）愉快地度过一段时间，即提供娱乐，使消遣。相当于entertain
+amusement|n. [C, usually pl.] 使人愉悦的游戏或活动等。一般需要人们亲自参与到游戏之中
+anchor|n. [C] [尤美] 电视或广播节目的主持人，尤指新闻主持人
+anchor|vt.＆vi. [美] 主持电视或广播的新闻节目
+announce|vt.（在广播或电视中）播报节目，如播音。是“播音”的常规用词
+announcer|n. 1 [C]（广播、电视的）播音员、节目主持人
+appear|vi. 参加电影、戏剧、电视节目等的演出
+appearance|n. [C] 出现在公共场合（尤指作为一名表演者）
+arena|n. [C] 圆形剧场
+artist|n. [C] 专业演员或表演艺术家（如音乐家、演员或舞蹈家）
+artist|n. [C] 创造影视作品的艺术家
+audience|n. 1 [C] 聚集在一起以观看或收听一场戏剧、音乐会、演讲等的一群人，即观众，听众
+audition|n. [C]（艺人等的）试镜，试演
+auditorium|n. [C]（剧院、音乐厅等的）听众席，观众席
+backdrop|n. [C]（挂在舞台后部的）彩画幕布，背景幕布
+balcony|n. [sing.]（剧院或电影院中主要座位区域上方的）楼上座位区
+bash|n. [C] [非正式] 盛大的聚会或庆典
+beginning|n. [C]（作品的）开头、开篇
+bid|vt.＆vi.（某些纸牌游戏中）叫牌
+bidding|n. [U]（在某些纸牌游戏中）叫牌
+bill|n. [C] 剧院等的节目单
+bingo|n. [U] 宾戈游戏（玩者均持有一张带有数字的卡片，第一个凑齐庄家喊出的全部数字或一组数字者胜出）
+bishop|n. [C]（国际象棋中的）象
+blowout|n. [C] [美，非正式] 盛大的社交聚会
+bomb|vi. 非正式用法可指戏剧、演出等票房极差，特别不卖座
+bounce|vt. 把小孩放在膝上颠着玩儿
+bowl|n. [C] [尤美] 构成名称，指一个大的、圆形的、露天的（即没有屋顶的）剧场（用于户外的音乐会表演等）。是一个形象化用词
+box|n. [C] 剧院中的包厢
+break|n. [C] 短假期，短期休假
+break|vt.＆vi. break (for sth) 在做某事的过程中暂停一会儿（尤指到了用餐或饮用…的时间）
+breather|n. [C] [非正式] 某事中途的短暂休息
+bridge|n. [U] 纸牌游戏中的桥牌游戏
+broadcast|n. [C] 广播节目或电视节目
+broadcaster|n. [C]（电视或电台的）节目主持人、播音员
+bump|n. [pl.] [英] the bumps可指在孩子生日时将其举高后再放在地上的仪式，举放次数与年龄相等，即生日举放仪式
+call|n. [C] 纸牌游戏中的叫牌或吊牌
+camp|n. [C, U] 度假营
+card|n. 1 [C] 一张纸牌或一张扑克牌，相当于playing card
+carnival|n. [C, U]（通常在每年的固定时间举行的、人们穿着颜色鲜亮的衣服表演音乐舞蹈的）狂欢节、嘉年华
+carnival|n. [C] [美] 露天游乐会、义卖游乐会，相当于fête
+carnival|n. [C] [美] 露天游乐场，相当于fair
+cartoon|n. [C] 也可用animated cartoon，指动画片或卡通影片
+cast|n. [C]（一出戏剧或一部电影的）全体演员
+cast|vt.＆vi. cast sb (as sb)（为一部电影、戏剧等）选择演员（以扮演不同的角色）；选择某一演员（以扮演某一角色）
+castle|n. [C]（也可用rook）国际象棋中的车
+celebrate|vt.＆vi. 通过做某件特别的事来表明一天（或一个活动）是重要的，即庆祝、庆贺
+celebration|n. [C] 人们为庆祝某事而组织的一次特殊活动，即庆祝、庆典。此时与ceremony未见明显区别，但不如ceremony常用
+celebration|n. [U, C] 庆祝
+ceremonial|adj. 仪式性的
+ceremony|n. [C]（包括一系列正式或传统活动的）公共（或宗教）仪式、典礼。是“仪式”的常规用词
+channel|n. [C] 电视台；电视频道
+character|n. [C] 书籍、戏剧或电影中的一个人（或动物），即人物，角色
+check|n. [C] 也可用check mark，用于美式英语，指入场券等票券
+check|n. [U] 国际象棋中可指被将军的局面
+chess|n. [U] 国际象棋游戏
+cinema|n. 1 [C] [尤英] 电影。此时与film未见明显差别
+cinema|n. [C] [英] [美为movie theater或theater] 电影院
+cinema|n. [sing.] [英] [美为复数的the movies] the cinema 可指（去电影院）看电影
+circle|n. [C] [英] [美英也用balcony]（剧院或电影院的）上层弧形看台（看台上设有观众席）
+circuit|n. [C] 巡回性的娱乐活动，此时与tour未见明显差别
+circus|n. 1 [C] 马戏团
+clip|n. [C]（电影、广播或电视节目的）片段
+close|vt.＆vi. 停演
+close-up|n. [C, U]（照相、电影的可以展示很多细节的）特写，特写镜头
+club|n. 1 [pl., U] 纸牌游戏中的梅花（为四组之一）
+club|n. [C] 人们（尤指年轻人）去听音乐、跳舞等的一个地方，可称为俱乐部，夜店
+club|vi. [英，非正式] go clubbing 可指在夜店中跳舞和饮酒，即泡夜店
+comedian|n. [C] 滑稽演员；喜剧演员
+comedy|n. 1 [U] 喜剧艺术
+comic|adj. [只用于名词前] 喜剧的
+comic|n. [C] 喜剧演员
+congratulate|vt. congratulate sb (on sth) 向某人道贺，祝贺
+congratulation|n. 1 [pl.] 祝贺某人时所说的话，即祝词，贺词
+contributor|n. [C] ~ (to sth)（电台、电视节目中的）嘉宾
+convocation|n. [C] [美] [正式]（大学的）学位授予典礼，毕业典礼
+costume|adj.（戏剧、电视剧等）古装的
+credit|n. [C] 常用复数，指电影或电视节目中对摄制人员的介绍，常以片头或片尾字幕的形式出现
+crew|n. [C] 一组演职人员团队
+curtain|n. [sing.] 剧院中舞台前方的幕布，帷幕，幕
+cut|vt. 1 电影、磁带等的剪辑，剪接
+cut|vt.＆vi.（纸牌游戏中可指为了决定谁先出牌而）切牌或抽牌
+dart|n. 1 [C]（作为游戏用的）飞镖
+deal|vt.＆vi. deal (sth) (out) / deal (sth) (to sb)（纸牌游戏中）发牌
+dealer|n. [C] 纸牌游戏的发牌者
+deck|n. [C] 纸牌的一幅（为52张）。相当于英式英语的pack
+dedication|n. [C]（建筑物等的）奉献典礼，落成典礼
+diamond|n. 1 [C, U] 作可数名词时为复数，指纸牌中的方块
+direct|vt.＆vi. 导演电影或戏剧
+direction|n. [U]（电影导演的）指点，指示
+director|n. [C] 电影或戏剧等的导演
+discard|vt.&vi.（在纸牌游戏中）打出自己不想要的一张牌
+display|n. [C]（为娱乐之目的）表演一种技能
+distraction|n. [C] 娱乐活动、消遣活动
+distribution|n. [U]（电影在各院线的）发行，上映
+diversion|n. [C] [正式]（尤指为了转移注意力而进行的）娱乐活动、消遣活动
+do|n. [C] [英，非正式] 聚会、社交活动
+documentary|n. [C] 纪录影片、纪实广播（或电视）节目
+double|n. [C]（电影中的）替身演员
+draught|n. [C] [英] [美用checker] 国际跳棋的棋子、西洋跳棋的棋子
+draught|n. [pl.] [英] [美用checkers] draughts可指国际跳棋、西洋跳棋
+edition|n. [C]（广播、电视节目的）一期，一辑
+editor|n. [C] 影片、广播电视节目播出前，对节目进行取舍并对播出顺序做出安排的人，即剪辑员，剪接师
+effect|n. [C, U] 视觉、听觉等效果
+enactment|n. [U, C]（戏剧或故事的）表演、演出、上演
+encore|n. [C]（音乐会或其他演出结束时应观众要求的）加演的节目；（观众喊的）再演一个
+ending|n. [sing.]（故事、电影等的）结尾、结局
+entertain|vt.&vi. 引起某人的兴趣并让其发笑
+entertainment|n. [U, C] 用于使人娱乐的电影、音乐等，即娱乐活动；还可指某项娱乐活动
+episode|n. [C]（电视连续剧或广播连续剧的）一集、（杂志连载故事的）一节
+evening|n. [C] 某类晚间活动，如晚会
+exercise|n. [pl.] [美] 仪式
+extra|n. [C] 受雇在一部电影里扮演一个非常小的角色的一个人（通常为一个人或一群群众演员）
+faction|n. [U] 纪实与虚构相结合的电影
+fair|n. [C] 英国可指露天游乐会
+fair|n. [C] 露天游乐场
+feed|n. [U] [美] 在一个电视网络中，由一个中心电视台向其他各电视台所提供的电视节目；也可指发送这些节目的一个系统
+festival|n. 1 [C]（通常在某地举办的一年一次的）一系列音乐、戏剧、电影等表演；（与某一活动或思想相关的）一系列公共活动。可称为节
+festivity|n. [pl.] festivities可指组织起来庆祝一次特别事件的活动，即庆祝活动
+fiesta|n. [C]（尤指西班牙或拉丁美洲的）带有音乐和舞蹈表演的宗教节日、狂欢节日
+film|n. 1 [C] [尤英] [美通常用movie] 电影，影片
+finale|n. [C] 演出（或乐曲）的最后部分
+firework|n. 1 [C]（用于燃放的）烟花（尤用于庆典）。是此义的常规用词
+flat|n. [C] [术语] 剧院舞台上的垂直布景
+flick|n. [C] [过时，非正式] 电影
+flick|n. [pl.] [过时，英，非正式] the flicks 可指电影院
+fling|n. [usually sing.] [非正式] 短暂的尽情欢乐、短暂的放纵
+float|n. [C] 节日中的大型彩车（车上载着穿着奇装异服的人们）
+flush|n. [C]（在纸牌游戏中某人所持有的）同花的一手牌
+fold|vi.（一出戏剧等）由于失败而停演
+format|n. [C] 电影、音乐录制品等的格式
+frame|n. [C]（电影的）帧、一幅画面
+front|vt. [英] 主持（电视节目、演出等）
+function|n. [C] 大型正式的社交聚会。不常用
+fuse|n. [C]（烟花爆竹的）导火线、导火索
+gala|n. [C] 一场特殊的公众庆典
+gala|n. [C] 一场特殊的演出
+gallery|n. [C]（剧场或音乐厅内的）顶层楼座（通常有票价最低的座位）
+game|n. 1 [C]（有规则的）游戏
+garden|n. [pl.] 类似park的地方，也可叫公园，内有植物、树草，可供人们参观和散步
+garden|vi. 在garden中工作，即做园艺工作、种植花木
+gathering|n. [C] 人们为某一目的进行的聚会
+ghost|n. [sing.]（电视屏幕上的）重影
+gig|n. [C] 现场表演，例如现场喜剧表演
+give|vt. 公开表演…。是一个简单用词
+go|n. [C] [英] [英，美也用turn]（一个人在下棋中）轮到的机会
+go|n. [C] [英] [英，美也用turn]（一个人在出牌中）轮到的机会
+go|n. [U] 围棋
+go|vi. 出现（在电视或广播电台上）。是一个简单用词
+god|n. [pl.] [英，非正式]（剧院内部处于后部的）顶层座位，高层座位
+graduation|n. [U, C] 毕业典礼
+grip|n. [C] 拍摄电影时的摄影机和照明设备管理人员
+guest|n. [C] 参加某一电视节目或音乐会等的一位著名人士或著名表演者，如特约嘉宾，客串演员
+guest|vi. guest (on sth) 作为一名来访（或临时）表演者而参加一个电视或广播节目（或参加一场音乐会、一场比赛等），如做特邀嘉宾，做客串，做特约演员等
+gym|n. [C] [非正式；正式为gymnasium] jungle gym在美式英语中可表示儿童攀爬架
+hack|vi.（通常用go hacking）[尤英] 骑马消遣
+ham|n. [C] [非正式] 常用作形容词，指表演糟糕的演员（尤指通过夸张情绪而演砸的演员）
+hand|n. [C] 在纸牌游戏中，可指分给一个打牌者的一手牌
+hand|n. [C] 纸牌游戏的一盘或一局
+headline|vt.＆vi. 是演出的一个主要表演者
+heart|n. 1 [pl., U] 统称纸牌游戏中的红桃牌
+hero|n. [C] 书籍、戏剧、电影或故事等艺术形式中的男主人公，男主角
+heroic|adj. 男主角的
+heroine|n. [C]（故事、小说、电影等作品中的）女主角
+hit|n. 1 [C] 非常受欢迎的人或事物，尤指娱乐业的事物
+holiday|n. 1 [U] [英] [美式为vacation] 也可用复数holidays，亦为英式，指（工作或学校的）假期
+honeymoon|n. 1 [usually sing.]（新婚夫妇的）蜜月
+horror|n. [U] 恐怖作品（如恐怖电影等）
+host|n. [C] 电视或广播节目的主持人（可单独主持，也可与嘉宾进行谈话）
+host|vt. 主持（电视或广播节目、演出等）
+hostess|n. 1 [C] 电视或广播节目的女主持人（可单独主持，也可与嘉宾进行谈话）
+house|n. [C] 剧院的观众席
+house|n. [C]（统称）某场演出的观众
+ice|n. [sing.] 可供人们滑冰的滑冰场、溜冰场
+inaugurate|vt. ~ sb (as sth) 为某人举行就职典礼
+inauguration|n. [U, C] 就职；就职典礼
+instalment|n. [C]（电视连续剧的）一集
+interlude|n. [C] 戏剧、电影等活动的短时间的幕间休息
+intermission|n. [C, U] [尤美] 戏剧、电影、音乐会、演出等活动的短时间的幕间休息、中间休息
+interpret|vt. 按自己的感觉演奏音乐或表现角色等，如演绎
+interpretation|n. [C, U] 一个人对戏剧角色等的演绎方式、表演方式
+interpreter|n. [C] 对音乐（或戏剧中的一个角色）进行出色演绎的一个人
+interval|n. [C] [英] [英美也用intermission]（戏剧、电影、音乐会、演出、比赛等的）进程中的短暂时间
+introduce|vt. 主持（电视或广播节目）；（向听众或观众）介绍（演讲者或演员）
+joint|n. [C] [非正式]（尤指价格低廉的）人们吃喝、跳舞等的一个地方
+jubilee|n. [C]（尤指25周年或50周年的）周年纪念、周年庆典
+king|n. [C] 国际象棋中的王
+king|n. [C] 纸牌中的K
+kite|n. [C] 风筝
+knight|n. [C] 国际象棋中的马
+layoff|n. [C]（劳累或受伤的人）休养、疗养
+lead|n. [C]（戏剧、电影、演出等活动中的）主角；扮演主角的演员
+lead|vt.＆vi. 纸牌游戏中可指先出牌，即开牌；也可指打出自己的第一张牌
+leave|n. [U]（由于特殊原因而从工作中获得的）假期，休假
+leisure|n. [U] 空闲、休闲、闲暇
+length|n. [U, C]（电影等所持续的）时间长度
+line|n. [C] 电影的台词，对白。是一个简单用词
+listener|n. [C] 收听广播节目的人
+long|adj.（演讲、电影等）长的
+lounge|n. [C]（旅馆、俱乐部等用于等候或放松的）休息室
+magazine|n. [C] 关于某一主题的广播（或电视）节目，即专题节目
+magic|n. [U] 为愉悦人们所表演的魔术或戏法（即做一些看起来不可能的事），相当于conjuring
+make|vt. 出产影视作品。是一个简单用词
+man|n. [C] 国际象棋中的棋子
+manager|n. [C] 为演员、音乐人等处理商业事务的一个人，即（演员、音乐人等的）经纪人，其含义已为agent所包括
+marble|n. [U] marbles 可指玻璃弹子游戏
+mate|n. [U] 国际象棋中的将死、输棋，相当于checkmate
+material|n. [U] 用以创作电影等所需的素材
+material|n. [U] 表演的曲目、剧目、节目
+monologue|n. [U, C]（戏剧、电影等的）独白
+monopoly|n. [C] “大富翁”游戏（是一种棋类游戏，游戏者以玩具钞票买卖房地产）
+move|vt.＆vi.（国际象棋和其他棋类游戏）走棋子；移动一颗棋子
+movie|n. 1 [C] [尤美] 电影，相当于film
+movie|n. [pl.] [尤美] the movies 可指去电影院看电影，相当于cinema
+mystery|n. [C] 疑案电影或戏剧）
+night|n. [U, C] 某一特殊事件（或活动）发生（或举行）的夜晚，即…之夜
+nightclub|n. [C]（人们夜间喝酒跳舞等的）夜店
+observe|vt. [正式] 庆祝节日、生日等。不常用
+occasion|n. [C] 特别的仪式或庆典
+off|adv. 休息或下班
+off|adv. 在剧院舞台的后面或旁边
+open|vi. open (with sth)（故事、电影等）以…开篇（或开始）
+open|vi.（电影、戏剧或其他公共活动）开始，开演
+opening|n. [C, U] 开演，与closing相反
+opening|n. [C, usually sing.] 庆祝某个公共活动开始的一场仪式，可称为开幕式；庆祝一栋新建筑、一条公路等首次投入使用的一场仪式，如落成典礼、通车仪式等
+opening|n. [C, usually sing.] 某事物的开始、开端或第一部分，与ending相反
+opera|n. [C] 歌剧院
+opposite|prep. 在电影或戏剧中与某人合演，即联袂演出
+orchestra|n. [sing.] [美]（英式英语用the orchestra stalls）（剧院或音乐厅的）正厅前排座位
+orgy|n. [C]（尤指包含性活动的）大吃大喝的聚会，即奢靡的聚会
+out|adv., prep. 放假（表示一个过程的结束）
+pack|n. [C] 英式英语中可指纸牌的一副，为52张
+paddle|n. [sing.] [英] 赤脚在浅水中行走
+pantomime|n. [C, U] 圣诞童话剧演出
+parade|n. [C]（为某个特殊的日子或事件举行的）公共庆典游行（通常街上有乐队和装饰过的车辆）
+park|n. [C] 供人们休闲、散步的公园；也可指某种主题公园或生态公园
+part|n. [C] 演员的台词。也是一个简单用词
+part|n. [C] 演员的角色。是一个简单用词
+part|n. [C]（电视系列片的、尤指单独播出的）集
+party|n. [C] 一种社交场合，常指在某人的家里吃喝、聊天、跳舞等，即聚会，派对。是此义的基础和常规用词，极为常用。尤用于构成复合词，如
+pass|vi. 纸牌游戏中可指不出牌或不叫牌，即过
+pastime|n. [C] 消遣或休闲活动
+patience|n. [U] [英] [美为solitaire] 单人纸牌游戏
+perform|vt.＆vi. 向观众或听众表演音乐、戏剧、舞蹈等，即演出。是此义的常规用词
+performance|n. 1 [C]（戏剧、音乐会等文艺娱乐节目的）表演，演出
+performer|n. [C]（一场演出、音乐会等的）表演者。是此义的一个基础用词，含义较为广泛
+picture|n. [C] 电影。不太常用
+picture|n. [C] 电视图像或画面
+picture|n. [pl.] [过时，非正式] the pictures 可指电影院
+piece|n. [C]（国际象棋等的）棋子。是此义的常规用词
+pilot|n. [C] 电视的试播节目
+pit|n. [C] 剧场前方乐队演奏的地方，即乐池、乐队席，相当于orchestra pit
+pitch|n. [C] [英] 街头艺人通常的表演地点
+place|n. [sing.] Place（缩写为Pl.）可用于作为（一个广场的）名称的一部分
+platform|n. [C] 一个高出地面的舞台（供表演者进行演出）
+play|vt. 1（为娱乐或比赛之目的而）下棋
+play|vt.＆vi. 玩耍
+play|vt.（为娱乐或比赛之目的而）打纸牌
+play|vt.（在电影等活动中）表演，或扮演某个角色
+playground|n. 1 [C] 公园或其他公共场所中供儿童玩耍的一片室外之地
+plot|n. [C, U]（小说、戏剧、电影、电视剧等的）故事情节。是此义的常规用词
+plot|vt.（为小说、戏剧等）写情节，设计故事情节，即布局
+polish|n. [U] 在表演过程中，以高超的技巧所达到的表演效果，如完美，娴熟等，相当于brilliance
+portray|vt.（在电影中）扮演某个角色
+portrayal|n. [C]（角色的）扮演，刻画，演绎
+premiere|n. [C]（电影、戏剧的）首次公演，首映
+present|vt. [英] 主持（广播或电视节目）
+presenter|n. [C] [英] 广播或电视的节目主持人
+preview|n. [C] [美；英常用trailer] 电影或电视节目的预告片（其旨在对该节目进行宣传）
+preview|n. [C] 在一部电影或一档电视节目对公众播放之前，报刊杂志所对其进行的预先评述或报告
+preview|n. [C] 在某事物（如电影、展览或发明等）对公众开放之前所进行的预先观看
+principal|n. [C] 戏剧、歌剧等的主要演员、主角
+proceeding|n. [pl.] [正式] proceedings 可指仪式
+produce|vt. 拍摄或制作电影、戏剧等以供观众观赏。整个流程通常包括了一系列的活动
+producer|n. 1 [C] 电影的制片人、监制人；戏剧的舞台监制人（负责实际事务和财务）
+production|n. [C, U] 电影、戏剧或广播节目的制作、播出、上映；也可指艺术类的作品
+prologue|n. [C]（戏剧、电影的）序幕、开场白
+prompt|vt.&vi. 给演员在忘词的时候提醒词语
+prop|n. [usually pl.] 戏剧或电影中用的道具
+queen|n. [C] 国际象棋中的后，是权力最大的一颗棋子
+queen|n. [C] 在一个节日或庆典中履行庆典职责的一个女子
+queen|n. [C] 纸牌中的Q
+radio|n. [U, sing.] 无线电广播节目
+rage|vi. [澳大利亚，新西兰；俚语] 外出玩个痛苦、出去作乐
+rate|vt. 常用被动式，对电影或视频录像进行分级（使其适合于特定的观众）
+rating|n. [C] 对某部电影进行分级的数字或字母，即电影的等级
+realization|n. [U, C] [正式] ~ (of sth) 戏剧的演出
+recess|n. [C, U] 议会、委员会、政府等在一年中的休会期
+recess|n. [C] 庭审的短暂休庭
+record|vt.＆vi. 1 用磁带或光盘来复制音乐、电影等，即录制
+recreation|n. 1 [U]（不工作时的）休闲，消遣。本义是指对自由时间的消遣，包含了任何形式的娱乐活动
+regular|n. [C] 经常参加某一电视节目的人
+relaxation|n. 1 [U] 休息、消遣；用于休息或消遣的时间
+repeat|n. [C] 重播的电视（或广播）节目
+repertoire|n. 1 [C]（也可用正式的repertory）（一个演员所能表演的）全部节目或曲目
+respite|n. 1 [sing., U] ~ (from sth)（从难事或坏事之中的）短暂休息或抽离
+rest|n. [C, U] rest (from sth)（一段时间活动后的）休息时间。是此义的常规用词
+retreat|n. [U, C] 某人的静修期间或静修活动（其停止日常活动，去一个安静的地方以祈祷或沉思）
+return|n. [C] 剧院或体育赛事的退票
+reunion|n. 1 [C]（一群人，如家庭、学校及其他团体成员的久别之后的）重逢、团聚、聚会（是一种场合）
+review|n. [C, U] 在媒体上对书籍、戏剧或电影等所做的评论
+revival|n. [C]（戏剧、歌剧或芭蕾等的）重新上演
+revive|vt. 重新上演（戏剧、歌剧或芭蕾等）
+ride|n. [C] 乘坐游乐设施
+ride|n. [C] 在游乐场里供骑乘的游乐设施
+ring|n. [C]（动物或人进行表演的）封闭的圆形场地（场地周围是观众坐席）
+roast|n. [C] [美] 一次社交活动，常为宴会，其间人们讲述主角生活中的滑稽事情
+rocket|n. [C]（钻到空中然后爆炸以释放出彩色光芒的）焰火，烟花
+role|n. [C]（戏剧、电影等表演活动中演员的）角色
+roundabout|n. 1 [C] [美为merry-go-round] 游乐园的旋转木马
+routine|n. [C]（演出中的）一套动作
+run|n. [C] 一部戏剧、电视节目或电影的连续上演或放映
+rush|n. [pl.] rushes 可指电影被编辑前的样片或毛片
+rush|n. [sing.] [美] 美国大学中为想加入联谊会（或兄弟会）或女生联谊会的学生所办的聚会
+salon|n. [C] 旧时作家、艺术家等在名流家中定期举行的聚会，即沙龙
+scenario|n. [C] 电影（或戏剧）的剧情梗概
+scene|n. [C]（电影、戏剧或书中的）场面、片段或镜头
+scenery|n. [U]（剧院舞台后部的）布景（如布景框架和布景画）。与set词义相近，但set此时为可数名词
+schedule|n. [C]（某个频道的电视或广播节目的）节目表（上面列出了各节目的开播时间）
+scout|n. [C] 星探（即发掘明星的人），相当于talent scout
+screen|n. 1 [C]（电影、电视或投影仪的）大屏幕，即银幕
+screen|vt.（在电影院或电视上）放映电影或播放电视节目
+season|n. [C]（一部戏剧在一地的）演出期，上演期；（一系列的戏剧、电影或电视节目的）会演
+see|vt. 观看（比赛、电视节目、演出、电影等）。表示一个事实或结果
+sequel|n. [C] ~ (to sth)（电影的）续集
+sequence|n. [C]（电影中表现同一主题或场面的）连续的一组镜头
+series|n. [C]（广播或电视上题材或角色相同的）系列节目
+set|n. 1 [C] 电影、戏剧等的舞台布景
+set|vt. 常用被动式，指把电影中的情节设定在某个背景下（如时间、地点等）
+shoot|vt. 尤用于美式英语，指玩（或打）某种游戏
+short|n. [C] [非正式]（尤指在正片前放映的）电影短片
+shot|n. [C] 电影中的镜头。是此义的常规用词
+show|n. [C] 电视节目、广播节目。是此义的流行用词，口语中极为常用
+show|vt.＆vi. 上映、演出。是一个流行用词，口语中较常用
+shower|n. [C] 美式用法中可指为即将结婚或分娩的妇女举行的送礼聚会
+showing|n. [C] 电影的放映
+shuffle|vt.&vi.（纸牌游戏中）洗牌
+side|n. [C] [过时，英，非正式] 电视频道
+silent|adj. 只用于名词前，（过去的电影）有图像但无声音的
+sketch|n. [C] 电视上或剧场里的幽默短剧、小品（通常作为喜剧节目的一部分）
+skip|vt. [英也用skim]（用扁平的石块）打水漂
+slide|n. [C]（儿童用于玩耍的）滑梯
+slush|n. [U] [非正式，贬] 矫揉造作的言情电影；无聊庸俗的言情电影
+smash|n. [C]（也可用smash hit）十分流行的歌曲、电影或戏剧
+snap|n. [U] Snap可指纸牌游戏中的“对儿”牌游戏（游戏者轮流下牌，出现相同的牌时要抢先喊“对儿”）
+soap|n. [C] [非正式] 肥皂剧，相当于soap opera
+social|n. [C] [过时] 一个群体或俱乐部所组织的聚会
+solo|adj. 独唱的，独奏的
+spade|n. 1 [pl., U] 纸牌中的黑桃
+special|n. [C] 人们通常不能获得，而只针对某一目的（或在某一场合）来提供的东西，如特别活动（或节目）等
+spectator|n. [C]（尤指体育赛事的）观看者、观众
+sport|vi. [文学] 开心活泼地玩耍，即嬉戏
+spot|n. [C] [非正式] 聚光灯，其通常用词为spotlight
+spot|n. [C]（电视、广播中或俱乐部、剧院演出中）某演员的固定节目，或某类节目的固定栏目
+spree|n. [C]（常指过分）短时间玩乐
+square|n. 1 [C]（城镇中通常为方形的，周围被建筑物所环绕的）广场
+stage|n. [C]（剧场中的）舞台。是此义的常规用词，最为常用
+stage|vt. 将戏剧等演出形式搬上舞台，上演
+stall|n. [pl.] the stalls（也可用orchestra stalls）[均英] [美用the orchestra（单数）] 剧场或音乐厅的最接近舞台的一些座位
+stand|n. [C] 乐队、演讲者等用于演出的升起的舞台，高台
+star|n. 1 [C]（歌唱、表演、体育运动等的）知名且杰出者，即明星
+star|vi. star (with/opposite sb) (in sth)（在电影、戏剧等节目中）担任主演或主角
+stardom|n. [U] 明星的地位或身份
+stick|vi.（纸牌游戏中）不再要牌
+story|n. [C] 书籍、电影、戏剧等中的一系列事件，即情节，相当于storyline
+straight|adj. 只作前置定语，（演员）严肃的，正统的（与喜剧、音乐剧无关）
+strip|vi. 进行脱衣表演；表演脱衣舞
+studio|n. 1 [C] 电影的摄影棚
+stunt|n. [C]（尤指电影中的）特技表演
+subtitle|n. [usually pl.]（电影或电视上外国电影的）字幕、对白译文
+suit|n. [C] 一副扑克牌中任意的四种同花色的牌之一
+sun|vt. sun yourself 坐着或躺着晒太阳
+superstar|n. [C] 非常著名的表演者，如演员、歌手、体育选手等，即超级明星
+swing|n. [C] 秋千
+tag|n. [U]（英式英语也可用tig）儿童的捉人游戏（即一个孩子追赶并试图触碰到另一个孩子）
+take|n. [C] 不停机一次连续拍摄的场景或镜头
+television|n. [C, U] 电视
+television|n. [U] [英式非正式为telly] 电视上播放的节目
+theme|adj. [英] theme pub/bar/restaurant, etc.（反映某一主题或历史时期的）主题酒馆、主题酒吧、主题餐厅等；还包括主题音乐等
+thrash|n. [C] [过时，非正式] 载歌载舞的聚会
+thriller|n. [C] 一部讲述惊险的虚构故事的书籍、电影或戏剧（例如关于犯罪或间谍）
+ticket|n. [C] ticket (for/to sth) 剧院等的入场券等。是此义的常规用词
+tile|n. [C] 棋子
+title|n. 某一款游戏
+tour|n. [C]（一个乐团等）到不同的地方所做的一系列正式出访，即巡回演出
+trailer|n. [C] [尤英]（美式英语通常用preview）（电影或电视节目的）预告片（可以起到提前宣传的作用）
+transfer|vt.&vi. 改编
+trial|n. [C] 常用复数，指动物表演
+trick|n. [C] 在一局纸牌游戏中所打出（或赢得）的牌
+trick|n. [C]（作为一种娱乐方式的）戏法
+trump|n. 1 [C]（也可用trump card）（一些纸牌游戏中被选出来的最大的一张）王牌
+trump|vt. ~ sth (with sth)（在一些纸牌游戏中）出王牌赢（牌）；出王牌压掉（他人的牌）
+turn|n. [C] 短小的节目表演，或短小的娱乐活动（如一首歌等）
+unaccompanied|adj.（音乐）无伴奏的、无伴唱的
+vacation|n. 1 [C] 在英国可指大学的假期或法庭的休庭期；在美国可指学校的假期或法庭的休庭期
+variety|n. [U] 美也用vaudeville，指一种综合性的剧院（或电视）娱乐节目（包括了各种各样的短小的表演，如歌唱、舞蹈、滑稽演出）
+version|n. [C] 基于某个作品所改编而成的电影、戏剧或音乐等形式。通常是形式、风格或语言上的“改编版”（而内容基本保持不变），如小说的电影版。此时与edition的“图书出版的形式”之义有交集，如abridged version和abridged edition都可翻译为“删节本”，但abridged edition仅表示图书的“删节本”，而abridged version则除此之外还可指影视、音乐等作品的“删节版”。且涉及到不同语言之间的转换时，也要用version，如English version（英文版）。总之，在此义项下，edition一般仅用于表示图书的版本，且仅表示版本本身，而不如version那样强调各种事物不同版本之间的变化
+view|vt. [正式] 观看电视、电影等
+viewer|n. [C] 电视观众
+vision|n. [U]（电视或影院屏幕的）影像，画面
+wardrobe|n. [usually sing.]（剧院或电视公司的）服装部、戏装保管室
+watch|vt.＆vi. 看（电视、表演、比赛等）。表示一种持续的动作
+weekend|n. [C]（作为假期的）星期六和星期日，或略长一点的时间
+western|n. [C]（描写19世纪美国西部，尤指有关牛仔生活的）电影
+wing|n. [pl.] the wings 可指剧院中的(舞台被帘幕或布景遮挡的) 侧面
+zoo|n. [C] 也可用正式的zoological garden(s)，指动物园

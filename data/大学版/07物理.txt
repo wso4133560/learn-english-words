@@ -1,0 +1,241 @@
+absorb|vt. 1 吸收（液体、气体或其他物质）
+accelerator|n. [C] [物理学]（基本粒子的）加速器
+aerial|n. [C] [英] [英美也可用antenna] 天线
+airway|n. [pl.]（广播、电视使用的）无线电波、波段，相当于airwaves
+amplitude|n. [U, C] [物理学] 波（尤指声音或无线电波）的振幅
+antenna|n. [C] [尤美]（复数形式为antennas或antennae）天线。相当于aerial
+arc|n. [C] [术语] 电弧
+attract|vt. 物理学中可指磁力或重力吸引某事物，与repel相反
+attraction|n. [U] 物理学中可指事物之间的吸引力。比pull略为正式
+balance|n. [C]（用来称重的）天平
+band|n. [C]（无线电波的）波段或频带
+bar|n. [C] 一种压强单位
+battery|n. [C] 包含一个或多个单芯电池（cell）的一种装置，可称为“电池”、“电池组”
+bead|n. [C] 液体小珠子
+beam|n. [C] 能量束，如放射线的束、电波的波束、粒子束
+blister|n. [C]（金属、刷过油漆的木头或其他表面上的）泡，气泡，水泡
+blister|vt.&vi.（使）（表面）涨破，爆裂
+blow|vt.＆vi. 保险丝熔断，或使保险丝熔断
+boil|vt.＆vi. 1（液体）沸腾；煮沸或烧开（液体）
+bounce|n. [U] 弹性或反弹力，是一种反弹（或使某事物反弹）的能力
+break|vt. 减弱…的力度（如减弱打击或坠落的力度）
+brew|vt. 沏茶、煮咖啡
+broil|vt.&vi.（使）某人变得灼热
+brunt|n. [sing.] bear, take, etc. the brunt of sth 承受某件坏事的主要压力；首当其冲
+bubble|n. 1 [C]（液体或固体物质中的）气泡
+bubble|vi. 形成泡沫，如起泡、冒泡
+buoyancy|n. [U]（液体或空气的）浮力
+burst|vt.＆vi.（尤指由于内部的压力而）爆裂、胀开、炸碎；使某事物（尤指由于内部的压力而）爆裂、胀开、炸碎
+cable|n. [C, U]（由塑料或橡胶包裹的很粗的、用于传输电流、信号等的）电缆、电线
+calorie|n. 1 [C] 测量食物热量的单位，即大卡、千卡
+cell|n. [C] 单芯电池
+channel|n. [C] 广播的频道或波段。在“波段”的含义上与band几无差别，只是band更常用，而channel多用于指“频道”
+charge|n. [C, U] 电池（或带电物质）的充电量、带电量、电荷
+charged|adj.（粒子）带电的
+circuit|n. [C] 电路
+circulate|vt.＆vi.（液体、气体、空气）绕着一个地方或一个系统持续运动，即循环、环流
+circulation|n. [U, C]（气、水等的）在一个系统或机器内的环流、循环
+clarify|vt. 通过加热使某事物（尤指黄油）变得纯净
+clot|vt.&vi.（血液或乳脂）凝结成块
+coil|n. [C] 一卷可以导电的线圈
+compass|n. [C] 罗盘，指南针
+concentrate|vt. [术语] 通过缩减物质的体积（如通过煮沸的方式）而增强其浓度，即浓缩
+concentrated|adj.（物质）浓缩的
+concrete|adj.（物体）能够看到和感觉到的，即有形的；实物的
+conduct|vt. [术语]（一种物质）传导（热或电）
+conductor|n. [C] 物理学中可指导电或导热的物质，即导体
+contact|n. [C] 电流的接触、接通、接触器
+cord|n. [C, U] [尤美]（将电器设备和电源连接起来的）带有塑料外皮的电线。相当于英式的flex
+current|n. [C] 电流
+cushion|vt. 对跌倒或撞击起到缓冲作用
+density|n. [C, U] [物理学] 固体、液体或气体单位体积的质量，即密度
+diffraction|n. [U] [物理学] 光的衍射
+direct|adj. 只作前置定语，指热量直射的
+discharge|n. [U, C] 放电
+displacement|n. [C] [物理学] 排水量，尤指船只的排水量
+drag|n. [U] 物理学中可指作用于飞机或其他交通工具的空气阻力
+dribble|n. [C] 小液滴；小细流
+drip|n. [C]（落下的）液滴
+drop|n. 1 [C] 圆形的液滴（如水滴，水珠）
+dynamic|adj. 物理学中可指（力或动力）产生运动的，即动力的，反义词为static
+earth|n. [C, usually sing.] [英；美用ground] 接地的地线
+electric|adj. 常作前置定语，与电有关的；用电的；发电的；由电所产生的；带电的。常与具体的与电有关的设备连用，如电线、电灯、电动机、电源开关等；还可表示微观的电流、电荷
+electrical|adj. 与电有关的；用电的；发电的。常与更为概括的名词连用，表示与电有关的方方面面（一般不与具体的与电有关的设备连用），如电路故障、电气设备、电器、电力、电信号、电力工程师、供电线路等。与electric相同的一点是，二者都可与shock连用，表示电击
+electricity|n. [U] 电；电能（带电粒子的一种能量形式）。是此义的常规用词
+electron|n. [C] [物理学] 电子
+electronic|adj. 1 常作前置定语，指拥有或使用很多小电子器件（如微型芯片）的，即电子的
+electronics|n. 1 [U]（尤指用于无线电、电视和计算机的）电子学、电子技术
+element|n. [C]（电炉、热水器等的）电热元件、电热丝
+energy|n. [U]（物理学中的）能量，能
+evaporate|vt.&vi.（使）（液体）蒸发、挥发
+explosive|adj. 易爆炸的；可能爆炸的
+extension|n. [C] [英]（当电器上的电线不够长时所接上的一段）额外的电线，即电线的延长线，相当于extension lead
+feedback|n. [U] 电器设备（如音箱）的反馈噪音
+field|n. [C] 通常构成复合词，物理学中可指力能产生作用的一个区域，即场
+filter|n. [C] 光线或声音的过滤器，即滤光器
+filter|n. [C] 光线或声音的过滤器，即滤声器、滤波器
+filter|n. [C]（气体的）过滤器（该装置内部有纸张、沙子、化学品等，能够除掉不需要的东西，而让气体流过）
+filter|n. [C]（液体的）过滤器（该装置内部有纸张、沙子、化学品等，能够除掉不需要的东西，而让液体流过）
+filtrate|n. [U] 已经流过过滤装置的气体，即过滤后的气体
+filtrate|n. [U] 已经流过过滤装置的液体，即滤液
+fission|n. [U]（也可用nuclear fission）[物理学]（核）裂变
+flat|adj. [英]（电池）电用完了的
+flex|n. [C, U] 用于给设备输送电力的带有塑料皮的电线
+fluid|n. [C, U] 液体；能流动的物质（即流体）
+focus|n. [C] 物理学中可指光、声等能量的波经过反射或折射后汇聚而成的焦点；也可指能量波的波源。也可用focal point
+focus|vt. [术语] 用磁线圈将电子束聚集成小点
+force|n. 1 [U] 肢体力量
+frequency|n. [C, U] [术语]（声波、电磁波、振动、信号等的）频率
+fresh|adj. 常用于名词前，（水）不含盐的，即淡水的
+friction|n. 1 [U] 两个物体（或表面）之间的摩擦
+fundamental|adj. 只用于名词前，物理学中可指（物质对于形成其它一切事物来说）基本的、不能再次被分割的
+fuse|n. [C]（电流过大时会自动熔断的）保险丝
+fuse|vt.&vi. [术语]（使）物质（尤指金属、保险丝）熔化
+fusion|n. [U, sing.]（两个或多个事物的）融合、结合，是一种过程或结果
+fusion|n. [U] [物理学]（也可用nuclear fusion）核聚变
+gas|n. [C, U] 气体
+give|vi.（在压力下）弯曲或伸长；坍塌或断裂
+gravity|n. [U] 空间中两个物体之间的引力；地心引力；重力
+graze|vt.（经过时）轻擦、轻触、蹭
+ground|n. [C, usually sing.] [美] 电线中的接地线，相当于英式英语的earth
+ham|n. [C] 无线电通讯爱好者（而非以之为工作的人）
+head|n. [C] 单数名词，a head of steam表示在一个密闭空间内的蒸汽压力
+heat|n. 1 [U, sing.] 高温，即热
+heat|n. [U, C, usually sing.] 温度的水平。远不如temperature常用
+impact|n. [C, usually sing, U] 物体之间的撞击力
+impetus|n. [U] [术语] 促使某事物移动的力量或能量，可称为动量、动力、惯性
+impulse|n. [C] [术语] 电脉冲；神经脉冲
+incidence|n. [U] [物理学] 入射（角）
+inertia|n. [U] [物理学] 惯性
+insulate|vt. ~ sth (from/against sth) 用某种材料来隔绝电流，即绝缘
+insulated|adj. 有绝缘保护的
+interference|n. [U]（无线电信号受到的）干扰
+jam|vt. [术语] 干扰无线电或电子信号，使其难以被接收或被清晰听到
+juice|n. [U] [美，非正式] 电
+laser|n. [C]（产生激光的）激光器
+lead|n. [C] [英] 电线或导线（其外表常用塑料包裹）
+lever|n. [C] 杠杆；撬棍
+leverage|n. [U] [术语] 杠杆作用；杠杆力
+lift|n. [U] 飞行器飞行时向上的提升力
+liquid|n. [U, C] 液体（例如水或油）。是“液体”的常规用词，是一种统称。本组其它词都是一种liquid
+live|adj. 常作前置定语，（电线或其他电器装置）直接连接着电源的，通电的，带电的
+load|n. [C, usually sing.] 指某事物所能承载的重量，即载重量
+load|n. [C] 电力领域中可指某个时间的供电量
+magnet|n. [C] 磁铁、磁石、吸铁石
+magnetism|n. [U] 磁性；磁力
+mass|n. [U]（物理学术语）质量
+material|adj. 只作前置定语，与物质世界相关的，而非与思想或精神相关的。与physical词义极其相近，但physical强调“存在于现实世界”，而material则表示“与现实世界有关”，如果非要做出区别，那么可以说material与现实世界的关系更为松散自由，只要“有关”即可
+material|n. [U, C] 固态物质。一般是一种微观概念，物理尺寸较小，常为颗粒状
+matter|n. 1 [U] [术语]（构成世界上一切事物的）客观物质（是一种统称，与精神相对）
+melt|vt.&vi.（使）因加热和变成液体，即（使）熔化、融化
+microwave|n. [C] [术语] 微波（一种电磁波）
+modem|n. [C] 用一条电话线将不同的计算机（或计算机系统）联接起来以传递数据的一种装置，即调制解调器
+momentum|n. 1 [U] 物理运动的冲力
+motive|adj. [术语] 引起移动的、导致运动的
+negative|adj. [术语]（电）负极的、阴极的
+net|adj. 只作前置定语，指（重量）净的
+neutral|adj.（缩写为N）不带电的，即中性的
+noise|n. [U] [术语] 干扰性的电子信号
+nuclear|adj. 物理学中可指原子核的，核子的
+outlet|n. [C] [美] ~ (for sth)（通常指墙上的）电源插座，相当于英式英语的socket
+pan|n. [C]（天平两侧中任何一侧的）秤盘
+physical|adj. 1 只作前置定语，指事物现实存在的，可以感知到（如被看到、听到或触摸到等）的，而非存在于人的思想中的
+physicist|n. [C] 研究物理学的科学家，即物理学家
+pin|n. [C] 电器插头上突出来的金属之一（可插在插座里），即管脚
+plug|n. 1 [C] 电器设备的插头
+plutonium|n. [U]（符号为Pu）钚（一种放射性化学元素）
+point|n. [C] [英] 墙上（等地方）的电源插座
+polarize|vt. [物理学] 使（光波等）偏振
+polarize|vt. [物理学] 使（物体）极化
+pole|n. [C] 物理学中可指（磁体的）磁极或（电池的）电极
+pop|vt.＆vi. 爆裂，或使爆裂（带有砰的一声）
+positive|adj.（电学术语）正电的，正极的
+potential|n. [U, C] 物理学中可指电场或电路中两点之间的电压数之差，即电势、电位、电压
+pressure|n. 1 [U]（一物挤压另一物时的）压力。是此义的常规用词
+pull|n. [sing.] the pull (of sth)（使…向某个方向移动的一种强烈的）自然力，即力，磁力，引力等。是一个简单用词。单纯在词义上，与attraction没有本质区别
+pulse|n. [C]（电流、光、声等的）脉冲
+punch|n. [C] 推动力
+radar|n. [U, C] 雷达
+radiant|adj. [只用于名词前] [术语] 从一个中心点发射出射线的，即辐射的、放射的
+radiation|n. 1 [U, C] 放射性物质所辐射出的威力强大且极其危险的射线；也可指辐射物（其中包含着放射性物质的微小粒子）
+radioactive|adj. 放射性的；有辐射的
+radioactivity|n. [U] 放射性
+radium|n. [U] 镭元素，镭（具有放射性的一种白色金属，可用于治疗癌症）
+reaction|n. [U, C] [物理学] 反作用力
+reactor|n. [C] 核反应堆。相当于nuclear reactor
+receiver|n. [C]（接收无线电信号并将其转化为声音或图像的）收音机或电视机；也可指（收音机或电视机的）信号接收器
+reduce|vt.＆vi.（煮沸液体使其）蒸发
+reflect|vt.（从一个表面上）反射（热量等）
+reflection|n. [U]（热的）反射
+reflective|adj.（事物的表面）反射热的
+refraction|n. [U] [物理学] 光的折射
+repulsive|adj. [物理学] 引起排斥的；斥力的
+resilience|n. [U] 事物被弄弯、拉长或被压后的恢复原来形状的能力（如弹力）
+resilient|adj.（物质）被施加外力（如被挤压、拉伸、弄弯）后能恢复原来的形状的
+resistance|n. [U, C] [物理学]（符号为R）电阻
+resistance|n. [U, sing.] ~ (to sth)（风或空气的）阻力
+river|n. [C] river (of sth) 沿着某一方向流动的大量液体
+rub|vt.&vi. ~ (sth) (together)（使）两个表面相互摩擦
+run|vi. 固体熔化
+scale|n. [pl.] [美也用scale] scales指用于称重的工具，如秤、天平
+scan|vt. 1 用X光、超声波、电磁波等对某个物体进行扫描以获取图像
+scorch|vt.&vi.（把…的表面）轻微烫坏或烤糊、烤焦
+scramble|vt. [常用被动式] 改变电话或无线电信号，使其只有通过专门设备才能收听，如扰码、扰频
+sear|vt. 突然而猛烈地加热某事物的表面，如灼、煎
+series|n. [U, C] [术语] 电路的串联
+set|vi. 变得坚硬，即凝固，凝结
+shock|n. [C, U]（突然撞击或拉拽所产生的）冲击力（如由爆炸、地震等所引起的剧烈震动）
+shock|n. [C] 电击，相当于electric shock
+short|n. [U] [非正式]（电路的）短路，相当于short circuit
+skin|n. [C, U]（在液体表面所形成的）薄皮，薄层（尤指在冷却状态下所形成）
+slime|n. [U] 令人不悦的粘稠液体物质
+smelt|vt. 熔炼（铁矿石）
+socket|n. 1 [C]（socket和power point均为英式，美用outlet或receptacle）墙上的电源插座
+soften|vt. 减轻力量。相当于cushion
+solid|adj. 固体的（即非液体或气体的）
+solidify|vt.&vi. ~ (into sth)（使）变成固体，即（使）凝固、（使）变硬
+spark|n. [C] 电流引起的电火花
+spectrum|n. 1 [C] 光谱
+splash|n. 1 [C] 溅到某事物上的少量液体
+spray|n. [U, C] 在空气中飞过的小液滴，如水花；浪花；飞沫
+spring|n. [U] 弹性；弹力。常指“强烈回弹的一种能力”，强调回弹之强烈，是elasticity的一种
+squeeze|n. [C] 挤出或榨出的少量液体
+static|adj. [物理学]（力）静力的（即该力不产生运动）。与dynamic相反
+static|n. [U] 大气条件引起的、对无线电信号或电视信号起干扰作用的噪声或其它效应
+static|n. [U]（也可用static electricity）静电
+steam|n. 1 [U]（水沸腾后所转化成的）水蒸气
+strain|n. [C, U] 物理意义上的压力、拉力、张力、应力
+strength|n. 1 [U] 物体或材料的强度（即受力或承重时保持自身完好而不被损坏的能力）
+stress|n. [U, C] stress (on sth)（压在某物上面，使其损坏或变形的）物理压力，也可叫应力。常是发生在物体与物体之间的“压力”（而pressure还可指液体或气体所产生的压力）。也可指此种“压强”。此时，在从属关系上，stress是pressure的一种，而stress更强调压力所产生的效果——损坏或变形
+stressed|adj. [只用于名词前] [术语] 承受很大物理压力的
+stretch|vi.（织物）有弹性、有弹力
+strike|vt.＆vi. 擦或划某物（如火柴）以生火；因摩擦粗糙表面而产生火焰
+substance|n. [C] 物质
+surge|vi.（电流）突然增大
+switch|n. [C] 电路的开关（如按钮式开关）；上下扳动的（电力设备或机器的）闸
+tackle|n. [U]（吊拉物体用的）索具，滑轮组
+temp|abbr. [也可用temp. 尤美] temperature的缩写形式，即温度
+temperature|n. [C, U] 某事物的温度；某地的温度或气温。是此义的常规用词，最为常用
+terminal|n. [C] [术语]（电路或电器设备的）线路接头，即端子
+thaw|vi. ~ (out)（冰雪等）解冻，融化，融解
+thermal|adj. [只用于名词前] [术语] 热的、热量的
+thermodynamics|n. [U] 热力学
+thrust|n. [U] [术语]（发动机推动车辆、飞机、火箭等的）推力，驱动力
+traffic|n. [U] 信息和信号通过电子通信系统所进行的流动
+transmit|vt. [术语] 传导（电）
+uranium|n. [U]（符号为U）铀（一种放射性化学元素）
+vapour|n. [C, U] 空气中的大量小液滴，如蒸汽、雾气、水汽
+visible|adj.（商品、资产等）有形的
+volatile|adj. [术语]（物质）易变成气体的，即易挥发的
+voltage|n. [U, C] 电压、伏特数
+water|n. [U] 水
+wave|n. 1 [C] 一些能量形式（如热、声、光等）的波或波状运动
+wavelength|n. 1 [C] 波长
+weigh|vt.＆vi. 有某个重量，即重…
+weight|n. 1 [U, C]（能以千克、磅等单位来测量的）重量，分量
+wet|n. [U] 液体，尤指水
+wire|n. [C, U] 用于传输电流或信号的导线。是此义的常规用词
+wiring|n. [U]（给建筑物或机器供电的）线路
+work|n. [U] 物理学中可指用力量去产生运动，即功，做功
+yield|vi. 由于压力而移动、弯曲或折断
+zip|n. [U] [非正式] 能量

@@ -23,6 +23,5 @@ export interface FileInfo {
 }
 
 export interface WordWithAudio extends Word {
-  audioUrl: string | null
   status?: 'pending' | 'completed' | 'failed'
 }

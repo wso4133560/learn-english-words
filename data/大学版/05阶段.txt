@@ -1,0 +1,58 @@
+age|n. 1 [C] 历史上的时期，时代
+ancient|adj. 1 属于过去数千年历史时期的，即古代的，反义词为modern
+antiquity|n. 1 [U] 古代，尤指古埃及、古希腊和古罗马时期
+archaic|adj. 来自古代的
+bout|n. [C] ~ (of sth/of doing sth) 某件事（常指坏事）大量发生的一小段时间，如一阵，一场，一通，一次
+chapter|n. [C] 人生（或历史）的一段时期
+contemporary|adj. 1 contemporary (with sb/sth) 属于同一时期（或时代）的
+date|n. [sing., U] 过去或将来的一个时间，时候，年代，时期等（非具体某一天）
+day|n. [C. usually pl.] 一段时期或一段时间的历史，即时期，时代
+duration|n. [U] [正式] 某事（或某状态）持续的时间长度
+episode|n. [C] 一个阶段
+epoch|n. [C] [正式或文学] 历史上的一段时期，尤指重要事件或变化发生的一段历史时期
+era|n. [C]（通常指历史上的）一段时期（尤指因某些特征或某些历史事件而显得与众不同的历史时期）
+for|prep. 表示一段时间
+generation|n. [C, usually sing.] 一群从事特定活动的年龄相同或相似的人，即一批，一届
+high|adj. 只作前置定语，指（时间段）中间的；全胜的
+hour|n. 1 [sing.] 某个时间点
+instalment|n. [C]（分步执行的计划的）一步
+juncture|n. [C] [正式] 一个活动（或一系列事件）的某个时间点或阶段，即特定时刻，尤指重要的特定时刻
+lap|n. [C]（工作中的）一个阶段
+life|n. 1 [C]（与形容词连用）一个人在某种情境或工作中的一段经历
+lifetime|n. [sing.] 某事物的存在所持续的时间长度
+mandate|n. [C] 一国领导人（或政府）的任期
+middle|n. [sing.] the middle 一段时间中间的一个时间点或时间段
+minute|n. [sing.] 时刻（是一个确切的时间点）
+modern|adj. 1 只用于名词前，现代的；当代的；近代的。“当代的”之义与contemporary相近
+moment|n. 1 [sing.] 准确时刻；正是时候
+pass|n. [C] 过程中的一个阶段，尤指整体过程中的一个小步骤
+patch|n. [C] [非正式，尤英] 一段提到的时期，通常是一段艰难或痛苦的时期
+period|n. 1 [C] 一段时间，时期
+phase|n. [C]（变化或发展过程中的）阶段
+place|n. [sing.]（在一种情况或活动中去做某事的）一个好时机或阶段
+point|n. [C]（事件或事物发展中的）某一时刻或阶段
+presidency|n. [usually sing.] 组织机构的主席或总裁的任期；国家的总统的任期
+primitive|adj. 1 常用于名词前，属于原始社会的，远古的
+probation|n. 1 [U] 工作的试用期、见习期
+progeny|n. [pl.] 某事物的新一代、下一代
+reign|n. [C] 组织机构、团队等的负责人的任期、当政期
+round|n. [C] 事件或活动的进程，即阶段；轮次
+session|n. [C] 花在某一活动上的一段时间
+slot|n. [C]（日程安排或广播节目表等中的）时间
+space|n. [C, usually sing.] 一段时间
+span|n. [C] 某事所持续（或能够持续）的时间
+spell|n. 1 [C]（…所持续的）一小段时间
+stage|n. 1 [C]（发展或进展的）阶段
+standing|n. [U] 某事持续的时间
+step|n. [C] 阶段，相当于stage
+stretch|n. [C] 连续的一段时间。相当于spell
+tenure|n. [U] 重要职务（尤指政治要职）的任期
+term|n. 1 [C] 某事持续的一段时间，一段固定或有限的时间，即期，期限，任期等
+through|prep. 通过一个阶段
+time|n. 1 [U] time to do sth 一段时间；（可用于工作、休息等的）一段时间
+time|n. [C] 时机
+turn|n. [sing.]（世纪或年代的）交替时期
+watershed|n. [sing.] the watershed可指（在英国）少儿不宜节目（含有暴力或色情内容）可在电视上播放的起始时间
+way|n. [sing.] [美式非正式用法为ways] 两点之间的时间段
+while|n. [sing.] 一段时间
+year|n. [C] 复数形式也可表示某一段年代

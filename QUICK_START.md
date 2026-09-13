@@ -1,113 +1,54 @@
-# 快速开始指南
+# 快速开始
 
-## 🚀 启动应用
+## 使用安装包
 
-### 方法 1: 使用启动脚本（推荐）
+Windows：双击 release/WordPlus-0.1.0-windows-x64-setup.exe 安装，之后从开始菜单启动 WordPlus。
 
-```bash
-./start-dev.sh
+Android：将 release/WordPlus-0.1.0-android-arm64-debug.apk 复制到手机安装。它是用于本地测试的 Debug 签名包。
+
+启动客户端不需要 Python、Node 或终端。客户端启动时会后台初始化 Kokoro；首次启动需要网络下载模型。进入卡片后会预生成当前音频，切换卡片时预生成下一张；已生成的音频会保存到本地缓存，重新启动客户端也可复用。离线时能否使用设备语音取决于系统 WebView 支持情况。
+
+## 从源码开发 Windows 客户端
+
+安装 Node.js、Rust MSVC 工具链、Visual Studio C++ 构建工具和 WebView2。参考 [Tauri 官方前置条件](https://v2.tauri.app/start/prerequisites/)。
+
+```powershell
+cd D:\code\learn-english-words\frontend
+npm ci
+npm run desktop:dev
 ```
 
-### 方法 2: 手动启动
+只需这一个终端，Tauri 会管理前端开发进程并打开桌面窗口。打包：
 
-```bash
-# 终端 1 - 启动后端
-python app.py --api
-
-# 终端 2 - 启动前端
-cd frontend
-npm run dev
+```powershell
+npm run desktop:build
 ```
 
-## 🛑 停止应用
+安装程序位于 src-tauri/target/release/bundle/nsis/。
 
-```bash
-./stop-dev.sh
+## 从源码构建 Android
+
+安装 Android SDK 36、Build Tools 36、NDK 和 JDK，然后设置环境变量为实际安装位置：
+
+```powershell
+$env:JAVA_HOME = '你的JDK目录'
+$env:ANDROID_HOME = '你的Android SDK目录'
+$env:NDK_HOME = '你的Android SDK目录\ndk\版本号'
+rustup target add aarch64-linux-android
+npm run android:build
 ```
 
-或按 `Ctrl+C`
+首次搭建其他平台时可运行 npm run android:init。Android ARM64 APK 输出至 src-tauri/gen/android/app/build/outputs/apk/arm64/debug/。
 
-## 📱 访问地址
+Windows 无符号链接权限时，构建脚本自动复制本次成功编译的原生库再打包，不需要修改系统开发者模式。
 
-- **前端**: http://localhost:5173
-- **后端**: http://localhost:7860
+## 词库与测试
 
-## ⌨️ 键盘快捷键
+修改 data/ 下的词库后，开发启动和构建会自动同步。手动同步：npm run sync-data。
 
-| 按键 | 功能 |
-|------|------|
-| `Space` | 翻转卡片 |
-| `Enter` | 标记认识 |
-| `P` | 播放发音 |
-| `←` | 上一个单词 |
-| `→` | 下一个单词 |
-
-## 🔧 故障排除
-
-### 后端无法启动
-
-```bash
-# 检查依赖
-pip install -r requirements.txt
-
-# 检查端口占用
-lsof -i :7860
-```
-
-### 前端无法启动
-
-```bash
-# 重新安装依赖
-cd frontend
-rm -rf node_modules package-lock.json
-npm install
-```
-
-### 无法连接后端
-
-1. 确保后端已启动：访问 http://localhost:7860
-2. 检查 CORS 设置
-3. 查看浏览器控制台错误信息
-
-## 📝 开发说明
-
-### 项目结构
-
-```
-.
-├── app.py              # 后端主文件
-├── word_manager.py     # 单词管理
-├── tts_client.py       # TTS 客户端
-├── data/               # 单词库
-├── progress/           # 学习进度
-└── frontend/           # 前端项目
-    ├── src/
-    │   ├── components/ # UI 组件
-    │   ├── composables/# 组合式函数
-    │   ├── views/      # 视图
-    │   ├── styles/     # 样式
-    │   └── types/      # 类型定义
-    └── package.json
-```
-
-### 构建生产版本
-
-```bash
-cd frontend
+```powershell
+npm test
 npm run build
 ```
 
-构建产物在 `frontend/dist/` 目录。
-
-## 🎨 设计特性
-
-- ✨ Apple 风格 UI
-- 🔮 毛玻璃效果
-- 🎭 3D 卡片翻转动画
-- 📱 完全响应式设计
-- ⌨️ 完整键盘支持
-- 🎯 流畅的动画过渡
-
-## 📚 更多信息
-
-查看 `frontend/README.md` 了解更多技术细节。
+网页预览可以单独运行 npm run dev；生产静态资源位于 dist/，原生安装包内已包含这些资源。

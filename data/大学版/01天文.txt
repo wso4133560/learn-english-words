@@ -1,0 +1,62 @@
+alien|adj.（生物）来自外星的
+apogee|n. [sing.] [天文学] 远地点
+asteroid|n. [C] 小行星（在火星及木星轨道间围绕太阳运行）
+astrology|n. [U] 占星术、占星学
+astronaut|n. [C] 宇航员，航天员
+astronomer|n. [C] 天文学家
+atmosphere|n. 1 [sing.] the atmosphere 可指（围绕地球的）大气，大气层，大气圈（是一种气体混合物）
+capsule|n. [C]（宇宙飞船上的）太空舱
+celestial|adj. [常用于名词前] [正式或文学] 天空的、天上的
+comet|n. [C] 彗星
+constellation|n. [C] 星座
+cosmos|n. [sing.] the cosmos 指宇宙，尤指被视为一个有序体系的宇宙
+craft|n. [C]（其复数形式为craft）飞行器、宇宙飞船、航天飞机
+dock|vt.&vi.（使）两个宇宙飞船在太空对接
+earth|n. [U, sing.] 地球
+eclipse|n. [C] 日食；月食
+full|adj.（月亮）圆的，满的
+galaxy|n. 1 [C] 星系
+hatch|n. [C]（飞行器或宇宙飞船的）门
+jupiter|n. [sing.] 木星（太阳系中最大的行星）
+mars|n. [sing.] 火星
+mercury|n. [sing.] 水星
+meteor|n. [C] 流星
+mission|n. [C] 太空飞行任务
+module|n. [C]（航天器上与主体相独立的）分离舱（能独立运行，并与航天器相分离）
+moon|n. [C]（绕着除地球外的其他行星运行的）天然卫星。不如satellite常用
+moon|n. [sing.] 常写作the moon，也可写作the Moon，指月球
+moon|n. [sing.] 某一时间出现在天上的月亮，月相
+nebula|n. [C] [天文学] 星云；外观似星云的星系
+neptune|n. [sing.] 海王星
+nose|n. [C] 太空船的前部
+orbit|n. [C, U]（天体等运行的）轨道
+orbit|vt.＆vi. 沿轨道绕着一个更大的物体（如行星、恒星等）运行，即围绕…运动
+out|adv., prep.（日、月、星辰）可被看见，未被云遮住，即出现
+perigee|n. [sing.] [天文学] 近地点
+phase|n. [C] 月相、月亮的盈亏
+planet|n. [C] 行星
+plough|n. [sing.] [英] [美式英语用the Big Dipper] the Plough可指北斗七星；大熊星座
+pluto|n. [sing.] 冥王星
+probe|n. [C]（也可用space probe）不载人的航天探测器
+quarter|n. [C] 每月两次的可看到1/4月亮的一段时间，即上弦（或下弦）月
+rise|vi.（太阳、月亮等）从地平线上升起
+rocket|n. [C] 火箭
+rocket|vt.＆vi. 用火箭运送（飞行器等）
+satellite|n. 1 [C] 人造卫星。是此义的唯一用词
+saturn|n. [sing.] 土星
+shot|n. [C] 航天器的发射
+sign|n. [C] [非正式] 星座，相当于star sign
+solar|adj. 只作前置定语，太阳的
+space|n. [U] 天空；或地球大气层以外的宇宙空间，即太空
+spacecraft|n. [C] 在太空穿行的交通工具，如航天器、宇宙飞船
+spaceship|n. [C]（载人在宇宙中穿行的）宇宙飞船
+sphere|n. -sphere用于构成名词，指（包围地球等的大气的）层
+star|n. [C]（天空中的）星星，恒星
+sun|n. [sing.]（通常用the sun）太阳
+universe|n. 1 [sing.] the universe 可指宇宙（包括整个太空和其中的地球、行星和恒星等一切事物）
+uranus|n. [sing.] 天王星
+vehicle|n. [C] launch vehicle 可表示运载火箭
+venus|n. [sing.] 金星、太白星
+wane|vi.（月亮）圆满之后每天变得越来越小，即亏、缺。与wax相反
+wax|vi.（月亮）看起来逐渐变得越来越大，直至圆满
+world|n. [C]（像地球一样的）行星，天体

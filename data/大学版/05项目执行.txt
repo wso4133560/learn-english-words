@@ -1,0 +1,14 @@
+click|vi. [非正式] 在一起工作（或运转）得良好，即配合默契，运作协调
+collaborate|vi. ~ (with sb) (on sth) / ~ (with sb) (in sth/in doing sth) 与某人合作以生产…或达成某事（尤指著书或做研究）
+collaboration|n. 1 [U, C] ~ (with sb) (on sth) / ~ (between A and B)（与别人或别的组织机构进行的）合作、协作（以做成某事）
+cooperate|vi. ~ (with sb) (in/on sth) 与别人合作、协作（以达成某事）
+cooperation|n. 1 [U] ~ (with sb) (in doing sth) / ~ (between A and B)（为达成某个目标而与其它人员或机构展开的）合作、协作
+cooperative|adj. 1 [常用于名词前]（为达成某个目标而与其它人员或机构）合作的、同心协力的
+coordinate|vt. 使一项活动的各个部分和人员相互协调（以使其顺利进行）
+coordination|n. 1 [U]（某事物的各部分、某群人的各个子群体等之间的以一种有组织的且高效的方式所进行的）协作、协调、配合
+engineering|n. [U] 工程
+project|n. 1 [C] 规划的一项工作，旨在研究…以获取信息、生产新产品、改善某事物等。比programme更强调一种目标感，且涉及更多执行层面的事情。因此将project翻译为“项目”或“工程”比较合适。（而programme常指一种概念上或书面上的、着眼于长期的、关乎群体的综合性“计划”、“规划”或“方案”，在汉语中有时翻译为“项目”，不过性质依然是一种规划，不能因为这种翻译方式就把programme加入过多的实施层面的因素；另外，其词根词缀也表明这是一种预先写出或画出来的计划）如
+team|vt. 常用被动式，指为做某事或达成某个目标而使两个或多个人或事物相互配合、协作
+teamwork|n. [U]（作为一个团队）良好地共同工作，即团队合作，协同工作，协作，配合
+undertaking|n. [C]（尤指重大而艰巨的）项目
+venture|n. [C] 有风险的商业项目

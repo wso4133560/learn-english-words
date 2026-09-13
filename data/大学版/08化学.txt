@@ -1,0 +1,88 @@
+acid|n. [U, C] 化学中可指酸
+action|n. [U] action of sth (on sth) 一种物质（或化学品）对另一种物质（或化学品）所起的作用
+agent|n. [C] [术语]（产生作用、变化或用作某一用途的）化学剂或化学物质
+alcohol|n. [U] 酒精，乙醇
+alcoholic|adj. 与酒精有关的，或含酒精的
+alkali|n. [C, U] [化学] 碱
+aluminium|n. [U] 铝元素；铝（金属）
+ash|n. 1 [U]（尤指烟草、木头或煤燃烧后形成的）灰烬
+atom|n. [C] 原子
+base|n. [C] 化学中的碱
+biochemistry|n. [U] 生物的化学过程、结构或特性
+blend|vt. [常用被动式]（通过将不同种类的…放在一起来）调制、配制
+bond|n. [C] 化学键
+brass|n. [U]（尤用于制作装饰品和乐器的）黄铜
+bronze|n. [U] 青铜
+carbon|n. [U] 碳元素
+chemical|adj. 1 与化学有关的
+chemist|n. [C] 研究化学的科学家，即化学家
+chemistry|n. [U] 化学成分，化学结构，化学性质
+cinder|n. [usually pl.] 虽然不再继续燃烧，但可能仍然很热的小块灰烬、余烬、渣子
+coat|n. [C] 涂料层，或其他覆盖在一个表面上的物质层
+compound|n. [C] [化学] 化合物
+copper|n. [U]（符号为Cu）铜、铜元素
+crystal|n. [C] 物质的晶体、结晶体
+crystalline|adj. [术语] 由水晶制成的，或像水晶一样的
+cure|vt.（用干燥、烟熏、腌制等方法）加工处理食物、烟草、动物皮等（以使其能够长久保存）
+dioxide|n. [U, C] 二氧化物
+dissolve|vi. ~ (in sth)（固体）溶解于液体中
+element|n. [C] 化学元素
+fission|n. [U] [化学]（化学键）断裂
+fume|vi. 冒烟；冒气
+fumes|n. [pl.]（也可用不太常用的fume[U]）（浓烈的、难闻且常为有害的）烟或气体
+fur|n. [U] [英] 水管或烧水壶等事物中的水垢
+gild|vt. 给…镀金；给…涂金色颜料
+hard|adj.（水）硬的（即含钙和其它难与肥皂相容的矿物质盐的）
+hydrogen|n. [U] 氢元素；也可指氢气
+inert|adj. [化学] 化学性质不活跃的、惰性的
+insoluble|adj. ~ (in sth)（一种物质）不能溶解于某种液体的
+iron|n. [U] 铁元素或铁金属
+lead|n. [U]（化学中的）铅，铅元素
+lime|vt.（尤指为控制酸度而给土壤）掺加石灰，撒石灰
+mercury|n. [U] mercury（化学符号为Hg）指水银、汞
+mineral|n. [C, U] 矿物、矿物质
+mix|vt.＆vi. mix (A with B) / mix A and B (together) 混合，掺和，融合；使两者或多者混合。（混合后各成分通常不易分离出来）
+mole|n. [C] [化学] 摩尔（计量物质的数量单位）
+molecule|n. [C] [化学] 分子
+neutral|adj.（化学性质）中性的（即既非酸性也非碱性的）
+neutralize|vt. [化学] 中和，使某种物质成为中性
+neutron|n. [C] 中子
+nitrogen|n. [U]（符号为N）氮元素；氮气
+oxidation|n. [U] 氧化
+oxygen|n. [U] 氧气；氧元素
+ozone|n. [U] [化学] 臭氧
+particle|n. [C]（构成原子的）粒子（例如电子或质子）
+plate|n. [U] 镀金（或镀银）的常规金属
+plate|vt. 对金属进行电镀（尤指镀金或镀银）
+polythene|n. [U] [化学] [英]（美式用法为polyethylene）聚乙烯
+preparation|n. [C] 已被制备出来的，用作药物、化妆品等的一种物质，如制剂
+prepare|vt. prepare sth (from sth) 制作一种药物或化学物质（例如通过将不同的物质混合在一起），可称为调制，配制等
+preservative|n. [C, U]（对食物或木材起保护作用的）防腐剂、保护剂
+proton|n. [C] 质子
+react|vi. react (with sth) / react (together) 在化学中可指（不同的物质相遇后）起化学反应，发生化学变化
+reaction|n. [C, U] [化学] 化学反应
+reduce|vt. 化学中可表示使…还原（即给某种物质添加一个或多个电子，或从一个物质中除去氧）
+reduction|n. [C] [化学] 还原（反应）
+rust|n. [U] 金属生的锈、铁锈
+rusty|adj. 生锈的
+salt|n. 1 [C] 化学中的盐（由金属和酸所形成的一种化学物质）
+saturated|adj. 1 [常用于名词前] [化学]（溶液）饱和的
+saturation|n. [U] [化学] 饱和度
+silver|n. [U] 银元素或银金属
+smog|n. [U, C] 烟雾（烟与雾混合而成的空气污染物，尤见于工业化的城市）
+smoke|n. [U] 燃烧或加热所产生的烟（如灰色、白色或黑色等的烟）
+soda|n. [U] 作为化学物质的苏打、纯碱、无水碳酸钠
+soft|adj.（水）软性的，不含矿物质盐因而适于洗涤的
+soluble|adj. ~ (in sth) 可溶的
+solution|n. [C, U] 溶液
+solution|n. [U] 在液体中的溶解过程
+solvent|adj. [术语] 有溶解力的；可溶解的
+solvent|n. [U, C]（常指液体的）溶剂、溶媒
+spirit|n. [U] 工业或医疗上所用的一种特殊酒精，即工业酒精；医用酒精
+stable|adj. [术语]（一种物质）停留在相同的化学状态或原子状态的，即（化学状态或原子状态）稳定的
+steel|n. [U] 钢
+tarnish|n. [C] 金属表面的一层暗锈
+tin|n. [U]（符号为Sn）锡（一种化学元素，为一种柔软的银白色金属）
+treat|vt. treat sth (with sth) 利用化学物质或化学反应过程来处理（如清洁、保护、保存等）
+treatment|n. [U, C] treatment (for sth) 对…所进行的处理过程（如清洁、保护等）
+wax|n. [U] 蜡；蜂蜡；动物蜡；植物蜡；石蜡等（是一种固态物质，由蜂蜡或各种脂肪及油脂制成，可以用于制成蜡烛、模型等，或给…抛光。加热时会变软。）

@@ -65,12 +65,12 @@ const dashOffset = computed(() =>
 
 .ring-background {
   fill: none;
-  stroke: rgba(0, 122, 255, 0.1);
+  stroke: rgba(255,255,255,.12);
 }
 
 .ring-progress {
   fill: none;
-  stroke: url(#gradient);
+  stroke: var(--primary);
   stroke-linecap: round;
   transition: stroke-dashoffset 800ms ease-out;
 }
